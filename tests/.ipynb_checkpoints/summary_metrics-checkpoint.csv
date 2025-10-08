@@ -1,8 +1,0 @@
-Metric,Value
-N,20.0
-contains_hit_rate(%),70.0
-avg_sources,4.9
-avg_unique_domains,2.8
-avg_verified_claims,0.05
-avg_uncertain_claims,0.2
-avg_unverifiable_claims,4.3
