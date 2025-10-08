@@ -1,0 +1,109 @@
+{
+  "query": "What is the boiling point of water in Celsius?",
+  "timestamp": "2025-10-08T03:12:09.703217",
+  "claims": [
+    {
+      "sentence": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid [ 1 ] [ 2 ] and the liquid changes into a vapor.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The normal boiling point of water is 100 °C, 212 °F, or 373.1 K. The “normal” refers to sea level or an elevation of 0 meters or feet.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "It depends on temperature and altitude While you may think there's an easy answer to the question, \"What is the boiling point of water?",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale. The degree Celsius can refer to a specific point on the Celsius temperature scale or to a difference or range between two temperatures. It is named after the Swedish astronomer Anders Celsius (1701–1744), who proposed the first version of it in 1742. The unit was called centigrade in several languages for many years. In 1948, the International Committee for Weights and Measures renamed it to honor Celsius and also to remove confusion with the term for one hundredth of a gradian in some languages. Most countries use this scale.",
+      "title": "Celsius",
+      "url": "https://en.wikipedia.org/wiki/Celsius",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:05.552886",
+      "extra": {}
+    },
+    {
+      "text": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power. It is the second most common type of electricity-generating nuclear reactor after the pressurized water reactor (PWR).",
+      "title": "Boiling water reactor",
+      "url": "https://en.wikipedia.org/wiki/Boiling_water_reactor",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:06.022731",
+      "extra": {}
+    },
+    {
+      "text": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid [ 1 ] [ 2 ] and the liquid changes into a vapor. The boiling point of a liquid varies depending upon the surrounding environmental pressure. A liquid in a partial vacuum , i.e., under a lower pressure, has a lower boiling point than when that liquid is at atmospheric pressure . Because of this, water boils at 100°C (or with scientific precision: 99.97 °C (211.95 °F)) under standard pressure at sea level, but at 93.4 °C (200.1 °F) at 1,905 metres (6,250 ft) [ 3 ] altitude. For a given pressure, different liquids will boil at different temperatures. The normal boiling point (also called the atmospheric boiling point or the atmospheric pressure boiling point ) of a liquid is the special case in which the vapor pressure of the liquid equals the defined atmospheric pressure at sea level, one atmosphere . [ 4 ] [ 5 ] At that temperature, the vapor pressure of the liquid becomes sufficient to overcome atmospheric pressure and allow bubbles of vapor to form inside the bulk of the liquid. The standard boiling point has been defined by IUPAC since 1982 as the temperature at which boiling occurs under a pressure of one bar . [ 6 ] The heat of vaporization is the energy required to transform a given quantity (a mol, kg, pound, etc.) of a substance from a liquid into a gas at a given pressure (often atmospheric pressure). Liquids may change to a vapor at temperatures below their boiling points through the process of evaporation . Evaporation is a surface phenomenon in which molecules located near the liquid's edge, not contained by enough liquid pressure on that side, escape into the surroundings as vapor . On the other hand, boiling is a process in which molecules anywhere in the liquid escape, resulting in the formation of vapor bubbles within the liquid. A saturated liquid contains as much thermal energy as it can without boiling (or conversely a saturated vapor contains as little thermal energy as it can without condensing ). Saturation temperature means boiling point . The saturation temperature is the temperature for a corresponding saturation pressure at which a liquid boils into its vapor phase . The liquid can be said to be saturated with thermal energy . Any addition of thermal energy results in a phase transition . If the pressure in a system remains constant ( isobaric ), a vapor at saturation temperature will begin to condense into its liquid phase as thermal energy ( heat ) is removed. Similarly, a liquid at saturation temperature and pressure will boil into its vapor phase as additional thermal energy is applied. The boiling point corresponds to the temperature at which the vapor pressure of the liquid equals the surrounding environmental pressure. Thus, the boiling point is dependent on the pressure. Boiling points may be published with respect to the NIST, USA standard pressure of 101.325 kPa (1 atm ), or the ",
+      "title": "Boiling point - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boiling_point",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:07.825398",
+      "extra": {
+        "snippet": "There are two conventions regarding the standard boiling point of water : The normal boiling point is commonly given as 100 °C (212 °F) (actually 99.97 °C (211.9 °F) following the thermodynamic definition of the Celsius scale based on the kelvin) at a pressure of 1 atm (101.325 kPa)."
+      }
+    },
+    {
+      "text": "The normal boiling point of water is 100 °C, 212 °F, or 373.1 K. The “normal” refers to sea level or an elevation of 0 meters or feet. But, the boiling point of water changes with elevation. The boiling point is a higher temperature below sea level and a lower temperature above sea level. Water boils when its vapor pressure equals atmospheric pressure . In a liquid state, water molecules are constantly moving, but intermolecular forces keep them together. As temperature increases, molecules gain energy and move faster. When they reach a point where their energy is enough to overcome atmospheric pressure, they transition into the gas phase—boiling occurs. Key factors that determine when water boils include: The reason boiling point changes with elevation is because atmospheric pressure changes. The effect is noticeable when you compare boiling point in a valley compared to a mountain top. For every 150 m (500 ft) increase in elevation, water’s boiling point decreases about half a degree Celsius or single degree Fahrenheit. But, even daily barometric pressure changes affect boiling point, although the temperature difference is too small to notice. Impurities increase boiling point through a process called boiling point elevation . For example, adding salt to water increases its boiling point. While some people add salt to boiling water because they think it will cook food faster at the higher temperature, the effect is really too small to make a difference. Water boils at a lower temperature in cities like Denver and La Paz, but at a higher temperature in places like Death Valley and the Dead Sea. If you live in a high altitude location, food cooks at a lower temperature, so it often takes longer to cook. You can’t make water hotter by boiling it longer or applying more heat. This is why many recipes include high altitude cooking directions or recommend using a pressure cooker. The boiling point of water varies depending on atmospheric pressure, which changes with altitude and weather conditions. The Clausius-Clapeyron equation describes the relationship between pressure and phase changes. The graph shows how the boiling point of water decreases with altitude in a linear manner (over a relatively narrow pressure range). At higher elevations, lower atmospheric pressure means water boils at a lower temperature. Conversely, at lower elevations (such as below sea level), water boils at a slightly higher temperature. Want to find the boiling point of water for a specific atmospheric pressure? Use the interactive calculator below! Simply enter the pressure in kPa, and it will calculate the boiling temperature of water: This tool is particularly useful for high-altitude cooking, pressure cooker adjustments, scientific experiments, and understanding how weather affects boiling points. Most people assume water only boils at 100°C (212°F), but it actually boils at room temperature if you lower the surrounding pressure enough. This happens because boiling occ",
+      "title": "Boiling Point of Water - What Temperature Does Water Boil?",
+      "url": "https://sciencenotes.org/boiling-point-of-water-what-temperature-does-water-boil/",
+      "source": "sciencenotes.org",
+      "provider": "web",
+      "published": "2020-08-06 15:57:45+00:00",
+      "retrieved": "2025-10-08 03:12:08.503981",
+      "extra": {
+        "snippet": "Aug 6, 2020 · Learn how atmospheric pressure, elevation, impurities and external pressure affect the boiling point of water. Find out the normal boiling point of water at sea level and how to boil water at room temperature."
+      }
+    },
+    {
+      "text": "It depends on temperature and altitude While you may think there's an easy answer to the question, \"What is the boiling point of water?\", the truth is that it depends. If you want a quick and simple answer, you can say that the boiling point of water is 100 °C or 212 °F at 1 atmosphere of pressure ( sea level ). However, the value is not a constant. So, the longer definition of water's boiling point can be explained as such: The boiling point of water depends on the atmospheric pressure, which changes according to elevation. Water boils at a lower temperature as you gain altitude (e.g., going higher on a mountain) and boils at a higher temperature if you increase atmospheric pressure (coming back down to sea level or going below it). The boiling point of water also depends on the water's purity. Water that contains impurities (such as salted water ) boils at a higher temperature than pure water. This phenomenon is called boiling point elevation , which is one of the colligative properties of matter. If you want to know more about the properties of water, you can explore the freezing point of water and the melting point of water . You can also contrast water's boiling point to the boiling point of milk .",
+      "title": "What Is the Boiling Point of Water?",
+      "url": "https://www.thoughtco.com/what-is-the-boiling-point-of-water-607865",
+      "source": "thoughtco.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:09.313135",
+      "extra": {
+        "snippet": "Aug 13, 2024 · Learn how the boiling point of water depends on atmospheric pressure, elevation, and purity. Find out the boiling point of water at sea level and on a mountain, and see how impurities affect it."
+      }
+    }
+  ]
+}

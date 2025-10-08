@@ -1,0 +1,130 @@
+{
+  "query": "Who wrote 'Pride and Prejudice'?",
+  "timestamp": "2025-10-08T03:02:54.900939",
+  "claims": [
+    {
+      "sentence": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pride and Prejudice is the second published novel (but third to be written) by English author Jane Austen , written when she was age 20–21, and later published in 1813.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Jane Austen (December 16, 1775 – July 18, 1817), the renowned British author, led a writing life of the inimitable artist.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Bio, Portraits, & Places; Austen's Works; Screen Adaptations; Austen Chat Podcast; Related Links JASNA Journals; Newsletter; Book Reviews; Bibliographies; Essay Contest Winning Entries JASNA Regional Events; Annual General Meetings; Tours of England Essay Contest; International Visitor; Jane Austen Book Box; Young Filmmakers Contest Regional Groups; JASNA Post; Community Guidelines; History; Board of Directors; Contacts Membership Dues and Forms; Ways to Support JASNA Written October 1796 - August 1797 Published January 28, 1813 \"I want to tell you that I have got my own darling Child from London .",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name. The film features five sisters from an English family of landed gentry as they deal with issues of marriage, morality, and misconceptions. Keira Knightley stars as Elizabeth Bennet, while Matthew Macfadyen plays Mr Darcy, who falls in love with her.",
+      "title": "Pride & Prejudice (2005 film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:49.023990",
+      "extra": {}
+    },
+    {
+      "text": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen. The film is directed by Burr Steers, who wrote the adapted screenplay, and stars Lily James, Sam Riley, Jack Huston, Bella Heathcote, Douglas Booth, Matt Smith, Charles Dance, and Lena Headey. The film follows the general plot of Austen's original novel, with elements of zombie, horror, and post-apocalyptic fiction incorporated.",
+      "title": "Pride and Prejudice and Zombies (film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies_(film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:49.516051",
+      "extra": {}
+    },
+    {
+      "text": "Pride and Prejudice is the second published novel (but third to be written) by English author Jane Austen , written when she was age 20–21, and later published in 1813. A novel of manners , it follows the character development of Elizabeth Bennet , the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Her father Mr Bennet , owner of the Longbourn estate in Hertfordshire , has five daughters, but his property is entailed and can only be passed to a male heir. His wife lacks an inheritance, so his family faces becoming poor upon his death. Thus, it is imperative that at least one of the daughters marry well to support the others, which is a primary motivation driving the plot. Pride and Prejudice has consistently appeared near the top of lists of \"most-loved books\" among literary scholars and the reading public. It has become one of the most popular novels in English literature, with over 20 million copies sold, and has inspired many derivatives in modern literature. [ 1 ] [ 2 ] For more than a century, dramatic adaptations, reprints, unofficial sequels, films, and TV versions of Pride and Prejudice have portrayed the memorable characters and themes of the novel, reaching mass audiences. [ 3 ] In the early 19th century, the Bennet family lives at their Longbourn estate, situated near the village of Meryton in Hertfordshire , England. Mrs. Bennet's greatest desire is to marry off her five daughters to secure their futures. The arrival of Mr. Bingley, a rich bachelor who rents the neighbouring Netherfield estate, gives her hope that one of her daughters might contract a marriage to the advantage, because, as stated in the novel's opening sentence , \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife\". At a ball, the family is introduced to the Netherfield party, including Mr. Bingley, his two sisters, Caroline, who is unmarried, and Louisa, who is married to Mr. Hurst, and his closest friend Mr. Darcy . Mr. Bingley's friendly and cheerful manner earns him popularity among the guests. He appears interested in Jane, the eldest Bennet daughter. Mr. Darcy, reputed to be twice as wealthy as Mr. Bingley, is haughty and aloof, causing a decided dislike of him. He declines to dance with Elizabeth , the second-eldest Bennet daughter, as she is \"not handsome enough\". Although she jokes about it with her friend, Elizabeth is deeply offended. Despite this first impression, Mr. Darcy secretly begins to find himself drawn to Elizabeth as they continue to encounter each other at social events, appreciating her wit and frankness. Mr. Collins , the heir to the Longbourn estate, visits the Bennet family with the intention of finding a wife among the five girls under the advice of his patroness Lady Catherine de Bourgh , also revealed to be Mr. Darcy's aunt. He decides to pursue Elizabeth",
+      "title": "Pride and Prejudice - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:51.891904",
+      "extra": {
+        "snippet": "Pride and Prejudice is the second published novel (but third to be written) by English author Jane Austen, written when she was age 20–21, and later published in 1813."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. Pride and Prejudice is a romantic novel by Jane Austen , published anonymously in three volumes in 1813. It has inspired many stage and screen productions, one notable adaptation being a 1995 TV miniseries starring Jennifer Ehle and Colin Firth . Jane Austen is the author of Pride and Prejudice . She published three other novels during her lifetime: Sense and Sensibility , Mansfield Park , and Emma . Her novels Persuasion and Northanger Abbey were published posthumously. Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry. The famous first sentence of Pride and Prejudice is: “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” Pride and Prejudice was originally titled First Impressions . Pride and Prejudice , romantic novel by Jane Austen , published anonymously in three volumes in 1813. A classic of English literature , written with incisive wit and superb character delineation, it centers on the burgeoning relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy , a rich aristocratic landowner. Upon publication, Pride and Prejudice was well received by critics and readers. The first edition sold out within the first year, and it never went out of print. Pride and Prejudice is set in rural England at the turn of the 19th century, and it follows the Bennet family , which includes five very different sisters. The eldest, Jane, is sweet-tempered and modest. She is her sister Elizabeth’s confidant and friend. Elizabeth, the heroine of the novel, is intelligent and high-spirited. She shares her father’s distaste for the conventional views of society as to the importance of wealth and rank. The third daughter, Mary, is plain, bookish, and pompous, while Lydia and Kitty, the two youngest, are flighty and immature. Mr. Bennet is the family patriarch. He is fond of his two eldest daughters—especially his favorite, Elizabeth—but takes a passive interest in the younger ones, ultimately failing to curb their childish instincts. An intelligent but eccentric and sarcastic man, he does not care for society’s conventions and mocks his wife’s obsession with finding suitable husbands for their daughters. As several scholars have noted, however, Mrs. Bennet is rightfully concerned. Because of an entail , the modest family estate is to be inherited by William Collins, Mr. Bennet’s nephew, who is the next male in line. Indeed, as Austen scholar Mary Evans noted, “If Mrs. Bennett is slightly crazy, then perhaps she is so because she perceives more clearly than her husband the possible fate of her five daughters if they do not marry.” Unfortunately, Mrs. Bennet’s",
+      "title": "Pride and Prejudice | Summary, Characters, Author, Book, Movie, Quotes, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Pride-and-Prejudice",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:52.897259",
+      "extra": {
+        "snippet": "Sep 27, 2025 · Pride and Prejudice, romantic novel by Jane Austen, published anonymously in three volumes in 1813. A classic of English literature, written with incisive wit and superb character delineation, it centers on the burgeoning relationship between Elizabeth Bennet and Fitzwilliam Darcy."
+      }
+    },
+    {
+      "text": "Jane Austen (December 16, 1775 – July 18, 1817), the renowned British author, led a writing life of the inimitable artist. Despite the popular portrayal of her as all charm and modesty, she was a writer and observer with full mastery of her gifts. She cared deeply about getting published and being read, despite myths to the contrary. Six exquisite novels crafted with compassion, humor, and insight into the travails of the sexes and social classes assured her lofty position in literary history. These were Sense and Sensibility , Pride and Prejudice , Emma , Mansfield Park , Northanger Abbey , and Persuasion (there were also unfinished novels — The Watsons and Sanditon ). Born in Steventon, Hampshire (England), Austen was part of a convivial middle-class family consisting of five brothers and an elder sister, Cassandra, with whom she was very close. Here, from Memoir of Jane Austen (second edition, 1871) by her nephew, James Edward Austen Leigh, is a description of Jane’s family life: “Her father, George Austen, was rector of Deane and Steventon. He was married in 1764 to her mother, Cassandra. Jane was the youngest of seven children. Her brothers were James (died 1819); Edward, who inherited the property and took the name of his second cousin, Mr. Knight; Henry, a clergyman (died 1850); Francis William, and Charles; the two last became admirals, Francis dying in 1865, aged 92, and Charles in 1832, aged 73. Her sister, Cassandra, who died unmarried in 1845, was three years older than herself. For the first twenty-five years of her life, Jane Austen lived with her family at Steventon. We are told that she took part in some private theatricals given in a barn in summer, and the dining-room in winter, between her thirteenth and sixteenth years, and occasionally visited Bath, where her uncle. Dr. Cooper, vicar of Sonning, lived for some years with his family. In 1801 the family moved to Bath, living first at 4 Sydney Terrace, and afterwards at Green Park Buildings. She spent some weeks at Lyme in 1804: and upon her father’s death in February 1805, his widow and daughters, after a few months in lodgings, moved to Castle Square, Southampton, whence Jane visited Kent and Bath.” . . . . . . . . . . Jane Austen’s Unsuccessful First Attempts at Publication . . . . . . . . . . The Austen family valued education and sent the two girls briefly to boarding school in addition to receiving further education at home. Austen’s talent was recognized early on and taken seriously by her entire family. The male members of her family, particularly her father (George Austen, a country rector), played key roles in getting her works published. Austen longed to see her work in print, regardless of whether or not it would gain her fame or fortune — but getting it published was important to her, contrary to the myth about her extreme modesty . Her father and brothers took it upon themselves to seek publication for Jane’s first works, and it wasn’t easy. It was clear that she d",
+      "title": "Jane Austen, Author of Pride and Prejudice | LiteraryLadiesGuide",
+      "url": "https://www.literaryladiesguide.com/author-biography/jane-austen/",
+      "source": "literaryladiesguide.com",
+      "provider": "web",
+      "published": "2018-03-11 14:50:24+00:00",
+      "retrieved": "2025-10-08 03:02:53.581311",
+      "extra": {
+        "snippet": "Mar 11, 2018 · Learn about the life and works of Jane Austen, the British novelist who wrote Pride and Prejudice and other classics. Find out how she pursued publication, earned money, and influenced literature."
+      }
+    },
+    {
+      "text": "Bio, Portraits, & Places; Austen's Works; Screen Adaptations; Austen Chat Podcast; Related Links JASNA Journals; Newsletter; Book Reviews; Bibliographies; Essay Contest Winning Entries JASNA Regional Events; Annual General Meetings; Tours of England Essay Contest; International Visitor; Jane Austen Book Box; Young Filmmakers Contest Regional Groups; JASNA Post; Community Guidelines; History; Board of Directors; Contacts Membership Dues and Forms; Ways to Support JASNA Written October 1796 - August 1797 Published January 28, 1813 \"I want to tell you that I have got my own darling Child from London . . . The Advertisement is in our paper to day for the first time . . . .\" —Jane Austen, letter to Cassandra Austen, January 29, 1813 Pride and Prejudice is one of the most popular novels in the English language. Over 200 years after its publication, it continues to win the hearts and minds of readers around the world, thanks to its delightful heroine, unforgettable cast of comic characters, witty dialog, and satisfying romantic plot. According to family tradition, Jane Austen began writing First Impressions , the novel we know today as Pride and Prejudice , in October 1796 at the age of 20. She completed it in August 1797, just 10 months later. Believing his daughter’s work worthy of publication, the Rev. George Austen wrote a query letter on November 1, 1797, to London publisher Cadell & Davies, offering to send a manuscript “comprised in three Vols. About the length of Miss Burney’s Evelina” if there were any interest in publishing it. Austen’s offer was, however, rejected by return mail. Jane Austen continued to write, working on early drafts of Sense and Sensibility and the novel that would later be called Northanger Abbey. Encouraged by the publication of Sense and Sensibility in 1811, Austen \"lop't and crop't\" and significantly revised the manuscript of First Impressions in 1811-1812, changing its title to Pride and Prejudice to avoid duplicating the title of another book published in 1800. Based on the success of her first novel, Thomas Egerton offered Jane Austen £110 for the copyright to Pride and Prejudice . In return, he would pay for printing and advertising the novel himself and keep the profits, relieving the author and her brother Henry from the onus of managing the publication process. Austen agreed to the arrangement, and the novel was announced for sale in an ad in the Morning Chronicle on January 28, 1813: a three-volume set priced at 18 shillings. The title page credited the novel to “the Author of Sense and Sensibility. ” Pride and Prejudice was so well-received that Egerton printed a second edition in the fall of 1813, and a third edition in 1817. Unfortunately, the publisher made more money on Pride and Prejudice than the author did. Even so, the release of her second novel was a joyful event for the 37-year-old author. Reception Favorable reviews by literary critics and word-of-mouth promotion made Pride and Prejudice fashionable",
+      "title": "Pride and Prejudice",
+      "url": "https://jasna.org/austen/works/pride-prejudice/",
+      "source": "jasna.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:54.888899",
+      "extra": {
+        "snippet": "Learn about the publication history, reception, and characters of Pride and Prejudice, one of the most popular novels in the English language. Jane Austen wrote the novel in 1796-1797 and revised it in 1811-1812."
+      }
+    }
+  ]
+}

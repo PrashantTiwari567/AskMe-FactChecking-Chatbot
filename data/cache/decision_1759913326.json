@@ -1,0 +1,88 @@
+{
+  "query": "Who discovered penicillin?",
+  "timestamp": "2025-10-08T03:48:46.535213",
+  "claims": [
+    {
+      "sentence": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Sir Alexander Fleming was a Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Network with colleagues and access the latest research in your field ACS Spring 2026 Atlanta, GA. & Virtual March 22 - 26, 2026 Launch and grow your career with career services and resources Explore Career Options Let ACS help you navigate your career journey with tools, personal coaching and networking.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Karen Hill March 20, 2022 Penicillin has saved millions of lives, tens of thousands during the last years of World War II alone.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Most penicillins in clinical use are synthesised by P. chrysogenum using deep tank fermentation and then purified. A number of natural penicillins have been discovered, but only two purified compounds are in clinical use: penicillin G and penicillin V. Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are still widely used today for various bacterial infections, though many types of bacteria have developed resistance following extensive use.",
+      "title": "Penicillin",
+      "url": "https://en.wikipedia.org/wiki/Penicillin",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:35.248281",
+      "extra": {}
+    },
+    {
+      "text": "Sir Alexander Fleming was a Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin. His discovery in 1928 of what was later named benzylpenicillin from the mould Penicillium rubens has been described as the \"single greatest victory ever achieved over disease\". For this discovery, he shared the Nobel Prize in Physiology or Medicine in 1945 with Howard Florey and Ernst Chain.",
+      "title": "Alexander Fleming",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:35.707418",
+      "extra": {}
+    },
+    {
+      "text": "Network with colleagues and access the latest research in your field ACS Spring 2026 Atlanta, GA. & Virtual March 22 - 26, 2026 Launch and grow your career with career services and resources Explore Career Options Let ACS help you navigate your career journey with tools, personal coaching and networking. Promoting excellence in science education and outreach ACS-Hach Programs Learn about financial support for future and current high school chemistry teachers. Find a chemistry community of interest and connect on a local and global level. ACS Divisions Collaborate with scientists in your field of chemistry and stay current in your area of specialization. Explore the interesting world of science with articles, videos and more. Reactions: Chemistry Science Videos Uncover the Chemistry in Everyday Life Celebrating and advancing your work with awards, grants, fellowships & scholarships. ChemLuminary Awards Recognizing ACS local sections, divisions and other volunteers for their work in promoting chemistry. Designated November 19, 1999, at the Alexander Fleming Laboratory Museum in London, U.K. Also recognized at the U.S. Department of Agriculture National Center for Agricultural Utilization Research in Peoria, Ill., and the five American pharmaceutical companies that contributed to penicillin production research during WWII: Abbott Laboratories, Lederle Laboratories (now Pfizer, Inc.), Merck & Co., Inc., Chas. Pfizer & Co. Inc. (now Pfizer, Inc.) and E.R. Squibb & Sons (now Bristol-Myers Squibb Company). Commemorative Booklet (PDF) In Arabic: اكتشاف البنسلين وتطويره In Mandarin: 青霉素的发现与发展 In Spanish: Descubrimiento y desarrollo de la penicilina The introduction of penicillin in the 1940s, which began the era of antibiotics, has been recognized as one of the greatest advances in therapeutic medicine. The discovery of penicillin and the initial recognition of its therapeutic potential occurred in the United Kingdom, but, due to World War II, the United States played the major role in developing large-scale production of the drug, thus making a life-saving substance in limited supply into a widely available medicine. Penicillin heralded the dawn of the antibiotic age. Before its introduction there was no effective treatment for infections such as pneumonia, gonorrhea or rheumatic fever. Hospitals were full of people with blood poisoning contracted from a cut or a scratch, and doctors could do little for them but wait and hope. Antibiotics are compounds produced by bacteria and fungi which are capable of killing, or inhibiting, competing microbial species. This phenomenon has long been known; it may explain why the ancient Egyptians had the practice of applying a poultice of moldy bread to infected wounds. But it was not until 1928 that penicillin, the first true antibiotic, was discovered by Alexander Fleming, Professor of Bacteriology at St. Mary's Hospital in London. Returning from holiday on September 3, 1928, Fleming began to sort through petri dishe",
+      "title": "Alexander Fleming Discovery and Development of Penicillin - Landmark - American Chemical Society",
+      "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "source": "acs.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:39.149548",
+      "extra": {
+        "snippet": "... who was employed to help step up production, then used the newly discovered technique of alumina column chromatography to remove impurities from the ..."
+      }
+    },
+    {
+      "text": "Karen Hill March 20, 2022 Penicillin has saved millions of lives, tens of thousands during the last years of World War II alone. The first antibiotic to successfully fight bacterial infections and disease, penicillin was called a miracle cure for a dozen killer diseases rampant in the early twentieth century. Penicillin created a whole new arsenal of drugs in doctors’ toolkits to fight disease and infection. It opened the door to entire new families and new generations of antibiotic drugs. Penicillin started the vast industry of antibiotic drugs and ushered in a new era of medicine. In 1928, 47-year-old Scottish born Alexander Fleming was named chief biochemist at St. Mary’s Hospital in London and given a basement laboratory tucked in next to the boiler room. As the staff bacteriologist, he grew (or “cultured”) bacteria in small, round, glass plates for hospital study and experiment. Using microscopic amounts of a bacterium (often collected from a sick patient), he grew enough of each to determine why the patient was sick and how best to fight the infection. Small dishes of deadly staphylococci, streptococci, and pneumococci bacteria were lined and labeled across the one lab bench that stretched the length of Fleming’s lab. Molds were the one great hazard to Fleming’s lab operation. Fleming’s lab alternated between being drafty and stuffy, depending on the weather and how hard the boiler worked next door. His only ventilation was a pair of windows that opened at ground level to the parklike gardens of the hospital. Afternoon breezes blew leaves, dust, and a great variety of airborne molds through those windows. It seemed impossible to keep molds from drifting into, and contaminating, most of the bacteria Fleming tried to grow. On September 28, 1928, Fleming’s heart sank as he realized that a prized dish of pure (and deadly) staphylococci bacteria had been ruined by a strange, green mold. The mold must have floated into the dish sometime early the previous evening and had been multiplying since then. Greenish mold fuzz now covered half the dish. Fleming grunted and sighed. Then he froze. Where this strange green mold had grown, the staphylococci bacteria had simply disappeared. Even bacteria more than an inch from the mold had turned transparent and sickly. What kind of mold could destroy one of the most hearty, tenacious, and deadly bacteria on earth? No other substance then known to man could attack staphylococci so successfully. It took two weeks for Fleming to isolate and culture enough of the tough green mold to complete an identification: Penicillium notatum. Within a month he had discovered that the mold secreted a substance that killed bacteria. He began to call this substance “penicillin.” Through culture dish experiments he discovered that penicillin could easily destroy all the common human-killing bacteria, staphylococci, streptococci, pneumococci, even the toughest of all, the bacilli of diphtheria. The only bacterium penicillin fough",
+      "title": "Who Discovered Penicillin and Where does Penicillin come from?",
+      "url": "https://zippyfacts.com/who-discovered-penicillin-and-where-does-penicillin-come-from/",
+      "source": "zippyfacts.com",
+      "provider": "web",
+      "published": "2012-11-05 09:33:38-08:00",
+      "retrieved": "2025-10-08 03:48:46.528206",
+      "extra": {
+        "snippet": "Who Discovered Penicillin and Where does Penicillin come from? ... Through culture dish experiments he discovered that penicillin could easily ..."
+      }
+    }
+  ]
+}

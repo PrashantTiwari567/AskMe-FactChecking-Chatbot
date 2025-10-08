@@ -1,0 +1,109 @@
+{
+  "query": "Who wrote 'Pride and Prejudice'?",
+  "timestamp": "2025-10-08T03:42:43.832692",
+  "claims": [
+    {
+      "sentence": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pride and Prejudice is the second published novel (but third to be written) by English author Jane Austen , written when she was age 20–21, and later published in 1813.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Learning Materials Discover learning materials by subject, university or textbook.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name. The film features five sisters from an English family of landed gentry as they deal with issues of marriage, morality, and misconceptions. Keira Knightley stars as Elizabeth Bennet, while Matthew Macfadyen plays Mr Darcy, who falls in love with her.",
+      "title": "Pride & Prejudice (2005 film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:38.784376",
+      "extra": {}
+    },
+    {
+      "text": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen. The film is directed by Burr Steers, who wrote the adapted screenplay, and stars Lily James, Sam Riley, Jack Huston, Bella Heathcote, Douglas Booth, Matt Smith, Charles Dance, and Lena Headey. The film follows the general plot of Austen's original novel, with elements of zombie, horror, and post-apocalyptic fiction incorporated.",
+      "title": "Pride and Prejudice and Zombies (film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies_(film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:39.306713",
+      "extra": {}
+    },
+    {
+      "text": "Pride and Prejudice is the second published novel (but third to be written) by English author Jane Austen , written when she was age 20–21, and later published in 1813. A novel of manners , it follows the character development of Elizabeth Bennet , the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Her father Mr Bennet , owner of the Longbourn estate in Hertfordshire , has five daughters, but his property is entailed and can only be passed to a male heir. His wife lacks an inheritance, so his family faces becoming poor upon his death. Thus, it is imperative that at least one of the daughters marry well to support the others, which is a primary motivation driving the plot. Pride and Prejudice has consistently appeared near the top of lists of \"most-loved books\" among literary scholars and the reading public. It has become one of the most popular novels in English literature, with over 20 million copies sold, and has inspired many derivatives in modern literature. [ 1 ] [ 2 ] For more than a century, dramatic adaptations, reprints, unofficial sequels, films, and TV versions of Pride and Prejudice have portrayed the memorable characters and themes of the novel, reaching mass audiences. [ 3 ] In the early 19th century, the Bennet family lives at their Longbourn estate, situated near the village of Meryton in Hertfordshire , England. Mrs. Bennet's greatest desire is to marry off her five daughters to secure their futures. The arrival of Mr. Bingley, a rich bachelor who rents the neighbouring Netherfield estate, gives her hope that one of her daughters might contract a marriage to the advantage, because, as stated in the novel's opening sentence , \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife\". At a ball, the family is introduced to the Netherfield party, including Mr. Bingley, his two sisters, Caroline, who is unmarried, and Louisa, who is married to Mr. Hurst, and his closest friend Mr. Darcy . Mr. Bingley's friendly and cheerful manner earns him popularity among the guests. He appears interested in Jane, the eldest Bennet daughter. Mr. Darcy, reputed to be twice as wealthy as Mr. Bingley, is haughty and aloof, causing a decided dislike of him. He declines to dance with Elizabeth , the second-eldest Bennet daughter, as she is \"not handsome enough\". Although she jokes about it with her friend, Elizabeth is deeply offended. Despite this first impression, Mr. Darcy secretly begins to find himself drawn to Elizabeth as they continue to encounter each other at social events, appreciating her wit and frankness. Mr. Collins , the heir to the Longbourn estate, visits the Bennet family with the intention of finding a wife among the five girls under the advice of his patroness Lady Catherine de Bourgh , also revealed to be Mr. Darcy's aunt. He decides to pursue Elizabeth",
+      "title": "Pride and Prejudice - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:41.806405",
+      "extra": {
+        "snippet": "Pride and Prejudice is the second published novel (but third to be written ) by English author Jane Austen, written when she was age 20–21, and later published in 1813."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. Pride and Prejudice is a romantic novel by Jane Austen , published anonymously in three volumes in 1813. It has inspired many stage and screen productions, one notable adaptation being a 1995 TV miniseries starring Jennifer Ehle and Colin Firth . Jane Austen is the author of Pride and Prejudice . She published three other novels during her lifetime: Sense and Sensibility , Mansfield Park , and Emma . Her novels Persuasion and Northanger Abbey were published posthumously. Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry. The famous first sentence of Pride and Prejudice is: “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” Pride and Prejudice was originally titled First Impressions . Pride and Prejudice , romantic novel by Jane Austen , published anonymously in three volumes in 1813. A classic of English literature , written with incisive wit and superb character delineation, it centers on the burgeoning relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy , a rich aristocratic landowner. Upon publication, Pride and Prejudice was well received by critics and readers. The first edition sold out within the first year, and it never went out of print. Pride and Prejudice is set in rural England at the turn of the 19th century, and it follows the Bennet family , which includes five very different sisters. The eldest, Jane, is sweet-tempered and modest. She is her sister Elizabeth’s confidant and friend. Elizabeth, the heroine of the novel, is intelligent and high-spirited. She shares her father’s distaste for the conventional views of society as to the importance of wealth and rank. The third daughter, Mary, is plain, bookish, and pompous, while Lydia and Kitty, the two youngest, are flighty and immature. Mr. Bennet is the family patriarch. He is fond of his two eldest daughters—especially his favorite, Elizabeth—but takes a passive interest in the younger ones, ultimately failing to curb their childish instincts. An intelligent but eccentric and sarcastic man, he does not care for society’s conventions and mocks his wife’s obsession with finding suitable husbands for their daughters. As several scholars have noted, however, Mrs. Bennet is rightfully concerned. Because of an entail , the modest family estate is to be inherited by William Collins, Mr. Bennet’s nephew, who is the next male in line. Indeed, as Austen scholar Mary Evans noted, “If Mrs. Bennett is slightly crazy, then perhaps she is so because she perceives more clearly than her husband the possible fate of her five daughters if they do not marry.” Unfortunately, Mrs. Bennet’s",
+      "title": "Pride and Prejudice | Summary, Characters, Author, Book, Movie, Quotes, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Pride-and-Prejudice",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:42.428264",
+      "extra": {
+        "snippet": "Who is the author of Pride and Prejudice ? Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner."
+      }
+    },
+    {
+      "text": "Learning Materials Discover learning materials by subject, university or textbook. All Subjects Features Discover all of these amazing features with a free account. What’s new? Study your flashcards with three learning modes. All of your learning materials stored in one place. Create and edit notes or documents. Organise your studies and prepare for exams. Discover All the hacks around your studies and career - in one place. Featured Trusted advice for anyone who wants to ace their studies & career. The largest student job board with the most exciting opportunities. Verified student deals from top brands. Discover our mobile app to take your studies anywhere. Learning Materials Features Discover When Jane Austen published Pride and Prejudice anonymously in 1813, she had no idea it would become a classic, loved years after its conception. But why is the book so famous today? Pride and Prejudice tells a tale of love against all odds, with charming, realistic characters that many can relate to, even today. The story explores how people’s pride and prejudices can affect their search for love. Millions of flashcards designed to help you ace your studies Where does Mr Darcy propose to Elizabeth Bennet? Which Bennet sister runs away with Mr Wickham? Which parent is most concerned with finding husbands for their daughters? Does Jane ride horseback or in a carriage on her way to Netherfield Hall? And why? To which Bennet sister does Mr Colins propose to? When was Pride and Prejudice written? What is the family name of the main character? Where does Mr Darcy propose to Elizabeth Bennet?",
+      "title": "Pride and Prejudice: Book, Quotes & Summary | StudySmarter",
+      "url": "https://www.studysmarter.co.uk/explanations/english-literature/novelists/pride-and-prejudice/",
+      "source": "studysmarter.co.uk",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:43.826675",
+      "extra": {
+        "snippet": "Pride and Prejudice is so well-loved that it has been adapted many times for modern audiences. Perhaps the most notable is the 2005 adaptation with Keira Knightley and Matthew Macfadyen. Who is the main character in Pride and Prejudice ?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "query": "What is the capital city of Canada?",
+  "timestamp": "2025-10-08T03:49:23.968210",
+  "claims": [
+    {
+      "sentence": "Ottawa is the capital city of Canada.",
+      "support_evidence_idx": [
+        0,
+        2
+      ],
+      "label": "Verified",
+      "notes": null,
+      "score": 1.0
+    },
+    {
+      "sentence": "A capital city, or just capital, is the municipality holding primary status in a country, state, province, department, or other subnational division, usually as its seat of the government.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Ottawa is the capital city of Canada. It is located in the southern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River. Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2021, Ottawa had a city population of 1,017,449 and a metropolitan population of 1,488,307, making it the fourth-largest city and fourth-largest metropolitan area in Canada.",
+      "title": "Ottawa",
+      "url": "https://en.wikipedia.org/wiki/Ottawa",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:17.239553",
+      "extra": {}
+    },
+    {
+      "text": "A capital city, or just capital, is the municipality holding primary status in a country, state, province, department, or other subnational division, usually as its seat of the government. A capital is typically a city that physically encompasses the government's offices and meeting places; the status as capital is often designated by its law or constitution. In some jurisdictions, including several countries, different branches of government are in different settlements, sometimes meaning multiple official capitals. In some cases, a distinction is made between the official (constitutional) capital and the seat of government, which is in another place.",
+      "title": "Capital city",
+      "url": "https://en.wikipedia.org/wiki/Capital_city",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:17.751872",
+      "extra": {}
+    },
+    {
+      "text": "What is the capital city of Canada? Well, it’s not as simple as pointing out the biggest city in the country and naming it the capital. If you have some geographical knowledge, you will know that Ottawa is the capital. Why is that, however? After all, Toronto is much larger, Montreal is a European-linked city, Vancouver has a very strategic port and Quebec City is located in the centre of Canada. Let’s take a brief look at the history of Canada as a colony in order to understand why Ottawa is the capital of Canada. Canada is relatively new on a national perspective compared to other former European colonies and has a unique history to go alongside that. The first Europeans to enter Canada were not French or British explorers, but Icelandic Vikings, who settled about 1,000 years ago on the northwestern coast of Newfoundland. John Cabot, an Italian explorer who was the first to map Canada’s east coast, was the next person to visit. In the mid-1500s, when Jacques Cartier took over the country for France and his King, Francis I, the colonialism began. It was in the 1550s that the land became known as the Anglicized Canada – after the Iroquoian word Kanata, or “village.” For over a hundred years, Canada remained under French control when King Charles II of England gave the Hudson Bay Company of England exclusive trade rights. Trade development was coupled with the growth of established English colonies in the province and the English colonies were a lot larger and more productive than Canada’s French areas. By the 1700s, Britain was eager to get as much control as possible of North America and their armies conquered France in 1759 in the Battle of the Plains of Abraham near the capital Quebec City. Since then, Canada was called the “Province of Quebec” by a British colony, hence the British dominating shipping. The takeover of the British would play a significant role not only in managing ties between Canadians who speak French and English but also in determining the capital against a former British colony to the south — the USA. In 1857, a few towns claimed the city capital status. It had close competition as each had something to offer as the seat of government. In the end, Queen Victoria chose Ottawa as the national capital of Canada, but why did she choose Ottawa? Ottawa was a good choice since it was in the centre of two other major contenders: Montreal (mainly French) and York (now Toronto, which is mainly British). These two towns were the largest in Ontario and Quebec in the mid-19th century, in the middle of Canada. Picking Ottawa was a good compromise, as the Queen didn’t seem to favour one major city over the other. However, unlike Toronto and Quebec, Ottawa was centrally located and also a safe distance from the U.S. southern neighbours of Canada, which meant that the city would be secure if the United States decided to attack again. After all, as a result of their resentment of British interference in shipping, it had only been 40 years s",
+      "title": "What is the Capital City of Canada? | Trip Outlook Travel Buddy",
+      "url": "https://tripoutlook.com/what-is-the-capital-city-of-canada/",
+      "source": "tripoutlook.com",
+      "provider": "web",
+      "published": "2020-02-12 15:22:46+00:00",
+      "retrieved": "2025-10-08 03:49:23.963207",
+      "extra": {
+        "snippet": "What is the capital city of Canada ? Well, it’s not as simple as pointing out the biggest city in the country and naming it the capital ."
+      }
+    }
+  ]
+}

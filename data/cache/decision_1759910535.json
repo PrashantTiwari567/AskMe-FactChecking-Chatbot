@@ -1,0 +1,88 @@
+{
+  "query": "Largest ocean on Earth",
+  "timestamp": "2025-10-08T03:02:15.124472",
+  "claims": [
+    {
+      "sentence": "There are at least 108 mountains on Earth with elevations of 7,200 m or greater above sea level.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The ocean is the body of salt water that covers approximately 70.8% of Earth.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Pacific Ocean represents the remnants of the biggest body of water in the planet's history.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Oceans is the interlinked system of the Earth’s Oceanic Water.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "There are at least 108 mountains on Earth with elevations of 7,200 m or greater above sea level. Of these, 14 are more than 8,000 m. The vast majority of these mountains are part of either the Himalayas or the Karakoram mountain ranges located on the edge of the Indian Plate and Eurasian Plate in China, India, Nepal, and Pakistan.",
+      "title": "List of highest mountains on Earth",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:07.895523",
+      "extra": {}
+    },
+    {
+      "text": "The ocean is the body of salt water that covers approximately 70.8% of Earth. The ocean is conventionally divided into large bodies of water, which are also referred to as oceans, and are themselves mostly divided into seas, gulfs and subsequent bodies of water. The ocean contains 97% of Earth's water and is the primary component of Earth's hydrosphere, acting as a huge reservoir of heat for Earth's energy budget, as well as for its carbon cycle and water cycle, forming the basis for climate and weather patterns worldwide. The ocean is essential to life on Earth, harbouring most of Earth's animals and protist life, originating photosynthesis and therefore Earth's atmospheric oxygen, still supplying half of it.",
+      "title": "Ocean",
+      "url": "https://en.wikipedia.org/wiki/Ocean",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:08.442620",
+      "extra": {}
+    },
+    {
+      "text": "The Pacific Ocean represents the remnants of the biggest body of water in the planet's history. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . Earth's current largest ocean, the Pacific, blankets more than 30% of the planet's surface, stretching 12,000 miles (19,000 kilometers) at its widest point, between Colombia and the Malay Peninsula, according to the Intergovernmental Oceanographic Commission of UNESCO ( IOC UNESCO ). But that titanic sea represents only the remnants of the largest ocean in Earth 's history. So what was the largest ocean ever to exist on our planet? That would be Panthalassa, a world-spanning sea that surrounded the supercontinent Pangaea from about 300 million to 200 million years ago, Brendan Murphy, a geology professor at St. Francis Xavier University in Nova Scotia, told Live Science. \"The biggest ocean usually happens when supercontinents form, because if you only have one large supercontinent, then you've only got one ocean that exists around it,\" Murphy said. Related: Will there ever be another Pangaea? That has likely happened multiple times, Murphy said, but all those single world oceans would have been comparable in size. The most recent supercontinent was Pangaea, in which today's continents fit together, including the jigsaw-like pieces of Africa and South America. Another supercontinent, Rodinia, combined Earth's landmasses in a different configuration about 650 million years ago, according to the Smithsonian Institution ; geologists debate whether another supercontinent arose in between, Murphy said. Panthalassa would have stacked at least another 1,860 miles (3,000 kilometers) onto the Pacific's width, Murphy said. To put that into perspective, if you were traveling by jet plane across the equator, it would take 10 hours to cross the Pacific but 15 to span Panthalassa, he explained. Or think of it this way: At its widest point, the Pacific could fit more than five moon diameters; Panthalassa's additional width would accommodate nearly one more moon . Get the world’s most fascinating discoveries delivered straight to your inbox. By surface area, Panthalassa dwarfed the Pacific, covering approximately 70% of Earth's surface , according to a 2022 review in the journal Earth-Science Reviews , or nearly 140 million square miles (360 square km). The Pacific's 30% of the Earth's surface adds up to more than 63 million square miles (165 million square km), according to IOC UNESCO . Visualizing Panthalassa as the Pacific padded with more than 1,800 extra miles captures the geological history, too: Pangaea broke up in large part due to the opening of the Atlantic Ocean, at the expense of Panthalassa. Its remnants became the Pacific, so you can picture Panthalassa as the Pacific pasted onto the Atlantic, which today ranges between about 1,800 miles, between Brazil and Liberia, and 3,000 miles (4,800 km), between North America and North Africa, according to IOC-UNE",
+      "title": "What's the largest ocean that ever existed on Earth? | Live Science",
+      "url": "https://www.livescience.com/largest-ocean-on-earth",
+      "source": "livescience.com",
+      "provider": "web",
+      "published": "2022-08-13 10:00:00+00:00",
+      "retrieved": "2025-10-08 03:02:11.865049",
+      "extra": {
+        "snippet": "But that titanic sea represents only the remnants of the largest ocean in Earth 's history. ... will widen, taking the crown of Earth 's largest ocean ..."
+      }
+    },
+    {
+      "text": "The Oceans is the interlinked system of the Earth’s Oceanic Water. Water Covers about 71% of the Earth’s Surface and has a Storage Capacity of 1.332 Billion Cubic Kilometers. The Oceans Divided into various oceanographic features, the divisions are Atlantic Ocean, Arctic Ocean, Indian Ocean, Pacific Ocean, and the Southern Ocean. There are many divisions in the Ocean such as Gulf, Sea, and Bay, Among the Oceans Pacific Ocean is the Largest by surface area, and it covers about 165 million square kilometers, 46% of the Earth’s water surface. The 5 Largest Oceans on the Earth is mentioned based on the Water Surface area of the World. The Pacific Ocean is the largest division of the Oceanic World (Subdivides into the North and South Pacific Ocean), the Pacific embraced over one-third of the Earth’s Surface, covered about 165 million square kilometers, the volume of the Pacific Ocean is around 622 million cubic kilometers, The deepest point on Earth the Mariana Trench is on Pacific and the Average Depth is 4,028 to 4,188 meters. This is the Second largest Ocean covered area of 106 million square kilometers and it embraced 20% of the Earth’s Surface and 26% of earth’s water surface. Commonly Atlantic Ocean subdivided into the North and South Atlantic Ocean. The total Water Volume of the Ocean is around 354 million Cubic Kilometers and the Average depth of the Atlantic Ocean is around 3,339 meters. As the Third largest Ocean on the Earth, it covered nearly 73 million square kilometers of Earth’s water Surface (Including Red Sea and Persian Gulf) and the oceans total estimated water volume is about 292 million Cubic Kilometers. The Average depth of the ocean is 3,890 meters, and the deepest point of the Indian Ocean is Diamantina Trench at the depth of 8,047 meters. The Southern Ocean or Antarctic Ocean is the Fourth Largest Ocean in the World with Covered Earths Water Surface area of 18.8 million square kilometers. About 2.6 million of the Area is covered with the Ice in Antarctica. The Ocean has Average depth about 4,000 to 5,000 meters and Deepest Point in South Sandwich Trench at depth of 7,236 meters. This Ocean located on the North Polar and the Smallest Ocean among the Five Oceanic Divisions, it covered by the Ice throughout the year. The Arctic Ocean embraces an area about 14 million square kilometers of water surface, it has coastline about 45,390 kilometers long. The Average depth of the ocean is around 1,038 meters and the deepest point is at 5,450 meter in Eurasian Basin. Post by Contributors Reviewed and Checked by Worldlistmania Editors This page may contain external links, which lead to more information, and some links help support the project. Brain-Boosting Bites: Nourishing Foods for Mental Acuity Tallest and Largest Waterfalls in the United States of America Districts of Karnataka: Population, Area, Talukas, Map, FAQ’s World’s Highest Banana-Producing Countries Coffee Giants: The Top Coffee-Producing Countries List of States of the USA",
+      "title": "Largest Oceans of the World | 5 Oceanic Division on Earth",
+      "url": "https://www.worldlistmania.com/5-largest-oceans-world-earth/",
+      "source": "worldlistmania.com",
+      "provider": "web",
+      "published": "2012-06-01 09:38:14+00:00",
+      "retrieved": "2025-10-08 03:02:14.021781",
+      "extra": {
+        "snippet": "As the Third largest Ocean on the Earth , it covered nearly 73 million square kilometers of Earth ’s water Surface (Including Red Sea and Persian ..."
+      }
+    }
+  ]
+}

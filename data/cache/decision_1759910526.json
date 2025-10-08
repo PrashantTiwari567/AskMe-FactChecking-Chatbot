@@ -1,0 +1,88 @@
+{
+  "query": "What is the chemical symbol for gold?",
+  "timestamp": "2025-10-08T03:02:06.363274",
+  "claims": [
+    {
+      "sentence": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a chemical element; it has chemical symbol Au and atomic number 79.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Here are all the answers for the \"Chemical symbol for gold\" question from the popular Everyday Puzzles game!",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a metal .",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities. Element symbols for chemical elements, also known as atomic symbols, normally consist of one or two letters from the Latin alphabet and are written with the first letter capitalised.",
+      "title": "Chemical symbol",
+      "url": "https://en.wikipedia.org/wiki/Chemical_symbol",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:01.073960",
+      "extra": {}
+    },
+    {
+      "text": "Gold is a chemical element; it has chemical symbol Au and atomic number 79. In its pure form, it is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal, a group 11 element, and one of the noble metals. It is one of the least reactive chemical elements, being the second lowest in the reactivity series, with only platinum ranked as less reactive. Gold is solid under standard conditions.",
+      "title": "Gold",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:01.538813",
+      "extra": {}
+    },
+    {
+      "text": "Here are all the answers for the \"Chemical symbol for gold\" question from the popular Everyday Puzzles game! Developed by Fanatee Games, this engaging game often presents tricky puzzles, and if you’re here, you might be stuck on this particular crossword. Don’t worry - we’ve got you covered with the solutions to all Everyday Puzzles levels! Increase your vocabulary and general knowledge. Become a master crossword solver while having tons of fun, and all for free! The answer to this question:",
+      "title": "Chemical symbol for gold - Everyday Puzzles",
+      "url": "https://puzzleseveryday.com/chemical-symbol-for-gold/",
+      "source": "puzzleseveryday.com",
+      "provider": "web",
+      "published": "2023-06-12 10:00:00+08:00",
+      "retrieved": "2025-10-08 03:02:04.793420",
+      "extra": {
+        "snippet": "Here are all the answers for the \" Chemical symbol for gold \" question from the popular Everyday Puzzles game! Developed by Fanatee Games, this ..."
+      }
+    },
+    {
+      "text": "Gold is a metal . Gold is a transition metal element , on the Periodic Table , with an atomic number of 79. Gold is a transition metal element , on the Periodic Table , with 79 protons in the nucleus .",
+      "title": "Gold - Key Stage Wiki",
+      "url": "https://keystagewiki.com/index.php/Gold",
+      "source": "keystagewiki.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:05.945508",
+      "extra": {
+        "snippet": "Gold is a transition metal element , on the ... The most stable isotope of Gold has 118 neutrons in its nucleus giving it an atomic mass of 197."
+      }
+    }
+  ]
+}

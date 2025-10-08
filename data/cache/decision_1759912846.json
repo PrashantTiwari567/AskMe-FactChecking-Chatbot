@@ -1,0 +1,88 @@
+{
+  "query": "Who is the CEO of Microsoft?",
+  "timestamp": "2025-10-08T03:40:46.203479",
+  "claims": [
+    {
+      "sentence": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Chairman and Chief Executive Officer Satya Nadella is Chairman and Chief Executive Officer of Microsoft.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022. Its five development and publishing labels consist of: Xbox Game Studios, Bethesda Softworks, Activision, Blizzard Entertainment, and King. It produces the Xbox video game consoles and services, in addition to overseeing production and sales, and is led by CEO Phil Spencer, who has overseen Xbox since 2014.",
+      "title": "Microsoft Gaming",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Gaming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:40.193812",
+      "extra": {}
+    },
+    {
+      "text": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "title": "Satya Nadella",
+      "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:40.697778",
+      "extra": {}
+    },
+    {
+      "text": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington . [ 2 ] Founded in 1975, the company became influential in the rise of personal computers through software like Windows , and the company has since expanded to Internet services, cloud computing , video gaming and other fields. Microsoft is the largest software maker , one of the most valuable public companies, [ a ] and one of the most valuable brands globally. Microsoft is considered part of the Big Tech group, alongside Nvidia , Apple , Alphabet , Amazon , and Meta . Microsoft was founded by Bill Gates and Paul Allen to develop and sell BASIC interpreters for the Altair 8800 . It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. During the 41 years from 1980 to 2021 Microsoft released 9 versions of MS-DOS with a median frequency of 2 years, and 13 versions of Windows with a median frequency of 3 years. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market. Steve Ballmer replaced Gates as CEO in 2000. He oversaw the then-largest of Microsoft's corporate acquisitions in Skype Technologies in 2011, [ 3 ] and an increased focus on hardware [ 4 ] [ 5 ] that led to its first in-house PC line, the Surface , in 2012, and the formation of Microsoft Mobile through Nokia . Since Satya Nadella took over as CEO in 2014, the company has changed focus towards cloud computing , [ 6 ] [ 7 ] as well as its large acquisition of LinkedIn for $26.2 billion in 2016. [ 8 ] Under Nadella's direction, the company has also expanded its video gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022 and acquiring Activision Blizzard for $68.7 billion in 2023. [ 9 ] Microsoft has been market-dominant in the IBM PC–compatible operating system market and the office software suite market since the 1990s. Its best-known software products are the Windows line of operating systems and the Microsoft Office and Microsoft 365 suite of productivity applications, which most notably include the Word word processor, Excel spreadsheet editor, and the PowerPoint presentation program. Its flagship hardware products are the Surface lineup of personal computers and Xbox video game consoles, the latter of which includes the Xbox network ; the company also provides a range of consumer Internet services such as Bing web search, the MSN web portal, the Outlook.com ( Hotmail ) email service and the Microsoft Store . In the enterprise and development fields, Microsoft most notably provides the Azure cloud computing platform, Microsoft SQL Server database software, and Visual Studio . [ citation needed ] In April 2019, Microsoft reached a trillion-dollar market cap , b",
+      "title": "Microsoft - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:44.151147",
+      "extra": {
+        "snippet": "3 days ago - In November 2016, Microsoft joined the Linux Foundation as a Platinum member during Microsoft 's Connect(); developer event in New York. The cost of each Platinum membership is US$500,000 per year. Some analysts deemed this unthinkable ten years prior, however, as in 2001 then- CEO Steve Ballmer ..."
+      }
+    },
+    {
+      "text": "Chairman and Chief Executive Officer Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings. Most recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems. Originally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago. WE Communications Microsoft Media Relations (503) 443-7070 Images in this section by Brian Smale and Microsoft are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License . Images in this section by Brian Smale and Microsoft are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License .",
+      "title": "Satya Nadella - Source",
+      "url": "https://news.microsoft.com/source/exec/satya-nadella/",
+      "source": "microsoft.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:44.794702",
+      "extra": {
+        "snippet": "March 19, 2025 - Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company."
+      }
+    }
+  ]
+}

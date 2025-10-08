@@ -1,0 +1,67 @@
+{
+  "query": "When did the James Webb Space Telescope launch?",
+  "timestamp": "2025-10-08T03:36:59.031104",
+  "claims": [
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Edwin Webb was an American government official who served as Undersecretary of State from 1949 to 1952.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Due to the lapse in federal government funding, NASA is not updating this website.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. As the largest telescope in space, it is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.",
+      "title": "James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:36:54.338011",
+      "extra": {}
+    },
+    {
+      "text": "James Edwin Webb was an American government official who served as Undersecretary of State from 1949 to 1952. He was the second administrator of NASA from February 14, 1961, to October 7, 1968. Webb led NASA from the beginning of the Kennedy administration through the end of the Johnson administration, thus overseeing each of the critical first crewed missions throughout the Mercury and Gemini programs until days before the launch of the first Apollo mission. He also dealt with the Apollo 1 fire. He helped found the National Academy of Public Administration, a key locus for governmental reform studies.",
+      "title": "James E. Webb",
+      "url": "https://en.wikipedia.org/wiki/James_E._Webb",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:36:54.987581",
+      "extra": {}
+    },
+    {
+      "text": "Due to the lapse in federal government funding, NASA is not updating this website. Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the history of our Universe. Webb studies every phase in the history of our Universe, ranging from the first luminous glows after the Big Bang, to the formation of solar systems capable of supporting life on planets like Earth, to the evolution of our own Solar System. Webb launched on Dec. 25th 2021. It does not orbit around the Earth like the Hubble Space Telescope, it orbits the Sun 1.5 million kilometers (1 million miles) away from the Earth at what is called the second Lagrange point or L2. Mission Type Partners Launch Arrival at L2 extending the tantalizing discoveries of the Hubble Space Telescope. So big it has to fold origami-style to fit in the rocket and will unfold like a “Transformer” in space. Webb orbits the Sun 1.5 million kilometers from the Earth. (Hubble orbits 560 kilometers above the Earth.) Webb has a 5-layer sunshield that protects the telescope from the infrared radiation of the Sun, Earth, and Moon; like having sun protection of SPF 1 million. iIt will peer back in time over 13.5 billion years to see the first galaxies born after the Big Bang.in the ISS. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential… Webb's latest news releases in reverse chronological order. Search and sort the news feed with the controls immediately below. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625… NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy. “Webb’s powerful infrared instruments provide… A blowtorch of seething gasses erupting from a volcanically growing monster star has been captured by NASA’s James Webb Space Telescope. Stretching across 8 light-years, the length of the stellar eruption is approximately twice the distance between our Sun and… An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets. Why has silicon, one of the most common elements in the universe, gone largely undetected in… Webb's Blog offers an insider's point of view covering a variety of topics that include on going operations as well as exciting Webb science images/spectra that are not yet peer reviewed and therefore not released as NASA feature articles ( IE the above official Webb News Feed). Blog posts are often co-authored by scientists and engineers and offer unique insights. Search and sort the new",
+      "title": "James Webb Space Telescope - NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/",
+      "source": "nasa.gov",
+      "provider": "web",
+      "published": "2023-05-25 08:11:06-04:00",
+      "retrieved": "2025-10-08 03:36:59.026096",
+      "extra": {
+        "snippet": "James Webb Space Telescope . Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide.NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential…"
+      }
+    }
+  ]
+}

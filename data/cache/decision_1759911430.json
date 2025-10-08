@@ -1,0 +1,88 @@
+{
+  "query": "Where is the Taj Mahal located?",
+  "timestamp": "2025-10-08T03:17:10.575732",
+  "claims": [
+    {
+      "sentence": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Agra ( Hindi : Āgrā , pronounced [ˈaːɡɾɐː] ⓘ AH -grə ) is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh , about 230 kilometres (140 mi) south-east of the national capital Delhi and 330 km west of the state capital Lucknow .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Taj Mahal represents the finest and most sophisticated example of Indo-Islamic architecture .",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India. Built in the Indo-Saracenic style, it opened in 1903 as the Taj Mahal Hotel and has historically often been known simply as \"The Taj\". The hotel is named after the Taj Mahal, which is located in the city of Agra approximately 1,050 kilometres (650 mi) from Mumbai. It has been considered one of the finest hotels in the East since the time of the British Raj. The hotel was one of the main targets in the 2008 Mumbai attacks.",
+      "title": "Taj Mahal Palace Hotel",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal_Palace_Hotel",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:04.543794",
+      "extra": {}
+    },
+    {
+      "text": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+      "title": "Taj Mahal",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:05.068224",
+      "extra": {}
+    },
+    {
+      "text": "Agra ( Hindi : Āgrā , pronounced [ˈaːɡɾɐː] ⓘ AH -grə ) is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh , about 230 kilometres (140 mi) south-east of the national capital Delhi and 330 km west of the state capital Lucknow . It is also the part of Braj region . With a population of roughly 1.6 million, Agra is the fourth-most populous city in Uttar Pradesh and twenty-third most populous city in India. [ 11 ] Agra's notable historical period began during Sikandar Khan Lodi 's reign, but the golden age of the city began with the Mughals in the early 16th century. Agra was the foremost city of the Indian subcontinent and the capital of the Mughal Empire under Mughal emperors Babur , Humayun , Akbar , Jahangir and Shah Jahan . Under Mughal rule, Agra became a centre for learning, arts, commerce, and religion, and saw the construction of the Agra Fort , Sikandra and Agra's most prized monument, the Taj Mahal , constructed between 1632 and 1648 by Shah Jahan in remembrance of his wife Mumtaz Mahal . With the decline of the Mughal empire in the late 18th century, the city fell successively first to Marathas and later to the East India Company . After Independence, Agra has developed into an industrial town, with a booming tourism industry, along with footwear, leather and other manufacturing. The Taj Mahal and the Agra Fort are UNESCO World Heritage Sites . The city features mild winters, hot and dry summers and a monsoon season, and is famous for its Mughlai cuisine. Agra is included on the Golden Triangle tourist circuit, along with Delhi and Jaipur ; and the Uttar Pradesh Heritage Arc , a tourist circuit of Uttar Pradesh, along with Lucknow and Varanasi . There are several proposed derivations for the name Agra, none of which is very satisfactory. The most accepted etymon is the Hindi word agar (salt pan), a name given to it due to the region's brackish soil; salt was once made in the area by evaporation. Others derive it from Hindu mythology, claiming that the Sanskrit word agra ( अग्र ) (literally 'front') means in this case the first of the many small forests where Krishna frolicked with the gopis of Vrindavan . The term Agravana hence means grove forest. [ 12 ] [ 13 ] In the Mughal era, Agra was also known as Akbarabad, a name coined by emperor Shah Jahan in honour of his grandfather Akbar. [ 14 ] [ 15 ] Agra has two histories: one of the ancient city on the east, or left, bank of the river Yamuna , going back so far as to be lost in the legends of Krishna and Mahabharata and reestablished by Sikandar Khan Lodi in 1504–1505; the other of the modern city, founded by Akbar in 1558, on the right bank of the river which is associated with the Mughals , and known throughout the world as the city of the Taj. Of ancient Agra little now remains except few traces of the foundations. It was a place of importance under various Hindu dynasties previous to the Muslim invasions of India , but its history is unclear, and possess li",
+      "title": "Agra - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agra",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:08.871790",
+      "extra": {
+        "snippet": "3 days ago - Some antique views were published ... Ruins about the Taj Mahal . by S. Austin from those said ruins (1836). Both are accompanied by poetical illustrations by Letitia Elizabeth Landon. ... The Agra Fort is a large 16th-century fortress of red sandstone located by the Yamuna River ..."
+      }
+    },
+    {
+      "text": "The Taj Mahal represents the finest and most sophisticated example of Indo-Islamic architecture . Its origin lies in the moving circumstances of its commission and the culture and history of an Islamic Mughal empire 's rule of large parts of India. The distraught Mughal Emperor Shah Jahan commissioned the project upon the death of one of his favorite wive Mumtaz Mahal . A masterpiece of the Mughal chief architect Ahmad ma'mar , it is one of the most famous and recognizable buildings in the world today. While the large, domed marble mausoleum is the most familiar part of the monument, the Taj Mahal is an extensive complex of buildings and gardens that extends over 22.44 hectares (55.5 acres) [ note 1 ] [ 1 ] and includes subsidiary tombs, waterworks infrastructure, the small town of Taj Ganji to the south and a 'moonlight garden' to the north of the river. Construction of Taj Mahal began in 1632 AD, (1041 AH ), on the south bank of the River Yamuna in Agra , and was substantially complete by 1648 AD (1058 AH). The design was conceived as an earthly replica of the house of Mumtaz Mahal in paradise. In 1607 ( AH 1025) the Mughal Prince Khurrum (later to become Shah Jahan ) was betrothed to Arjumand Banu Begum , the grand daughter of a Persian noble. She would become the unquestioned love of his life. They were married five years later in 1612. After their wedding celebrations, Khurram \"finding her in appearance and character elect among all the women of the time,\" gave her the title Mumtaz Mahal (Jewel of the Palace). [ 2 ] The intervening years had seen Khurrum take two other wives known as Akbarabadi Mahal and Kandahari Mahal, but according to the official court chronicler Qazwini, the relationship with his other wives \"had little more than the status of marriage. The intimacy, deep affection, attention and favour which His Majesty had for the Cradle of Excellence [Mumtaz] lacked by a thousand times what he felt for any other.\" [ 2 ] [ 3 ] [ 4 ] Mumtaz died in Burhanpur on 17 June 1631, after complications with the birth of their fourteenth child, a daughter named Gauhara Begum . [ 5 ] She had been accompanying her husband whilst he was fighting a campaign in the Deccan Plateau . [ 6 ] Her body was temporarily buried in a garden called Zainabad on the banks of the Tapti River in Burhanpur . [ 5 ] The contemporary court chroniclers paid an unusual amount of attention to this event and Shah Jahan's grief at her demise. Immediately after hearing the news, the emperor was reportedly inconsolable. He was not seen for a week at court and considered abdicating and living his life as a religious recluse. The court historian Muhammad Amin Qazwini, wrote that before his wife's death the emperor's beard had \"not more than ten or twelve grey hairs, which he used to pluck out', turned grey and eventually white\" [ 7 ] and that he soon needed spectacles because his eyes deteriorated from constant weeping. Since Mumtaz had died on Wednesday, all entertainments we",
+      "title": "Origins and architecture of the Taj Mahal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:09.966827",
+      "extra": {
+        "snippet": "1 month ago - Wayne E. Begley put forward an interpretation in 1979 that exploits the Islamic idea that the 'Garden of paradise' is also the location of the Throne of God on the Day of Judgement. In his reading the Taj Mahal is seen as a monument where Shah Jahan has appropriated the authority of the 'throne ..."
+      }
+    }
+  ]
+}

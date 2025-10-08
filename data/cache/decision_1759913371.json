@@ -1,0 +1,130 @@
+{
+  "query": "What does HTTP stand for?",
+  "timestamp": "2025-10-08T03:49:31.322009",
+  "claims": [
+    {
+      "sentence": "A non sequitur is a conversational literary device, often used for comedic purposes.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Anthony Patrick Carr is an Irish-British comedian.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "This is an accepted version of this page HTTP ( Hypertext Transfer Protocol ) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the Internet, enabling the transfer of data between a client and a server.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "W3Schools offers a wide range of services and products for beginners and professionals, helping millions of people everyday to learn and master new skills.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "A non sequitur is a conversational literary device, often used for comedic purposes. It is something said that, because of its apparent lack of meaning relative to what preceded it, seems absurd to the point of being humorous or confusing. This use of the term is distinct from the non sequitur in logic, where it is a fallacy.",
+      "title": "Non sequitur (literary device)",
+      "url": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:25.200906",
+      "extra": {}
+    },
+    {
+      "text": "James Anthony Patrick Carr is an Irish-British comedian. He began his career in 1997 with a series of successful stand-up performances. He has regularly appeared on television as the host of Channel 4 panel shows such as The Big Fat Quiz of the Year, 8 Out of 10 Cats (2005–2021), and 8 Out of 10 Cats Does Countdown. Carr is known for his rapid-fire deadpan delivery of one-liners.",
+      "title": "Jimmy Carr",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carr",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:25.698733",
+      "extra": {}
+    },
+    {
+      "text": "This is an accepted version of this page HTTP ( Hypertext Transfer Protocol ) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems. [ 1 ] HTTP is the foundation of data communication for the World Wide Web , where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser . Development of HTTP was initiated by Tim Berners-Lee at CERN in 1989 and summarized in a simple document describing the behavior of a client and a server using the first HTTP version, named 0.9. [ 2 ] That version was subsequently developed, eventually becoming the public 1.0. [ 3 ] Development of early HTTP Requests for Comments (RFCs) started a few years later in a coordinated effort by the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C), with work later moving to the IETF. HTTP/1 was finalized and fully documented (as version 1.0) in 1996. [ 4 ] It evolved (as version 1.1) in 1997 and then its specifications were updated in 1999, 2014, and 2022. [ 5 ] Its secure variant named HTTPS is used by more than 85% of websites. [ 6 ] HTTP/2 , published in 2015, provides a more efficient expression of HTTP's semantics \"on the wire\". As of August 2024, [update] it is supported by 66.2% of websites [ 7 ] [ 8 ] (35.3% HTTP/2 + 30.9% HTTP/3 with backwards compatibility) and supported by almost all web browsers (over 98% of users). [ 9 ] It is also supported by major web servers over Transport Layer Security (TLS) using an Application-Layer Protocol Negotiation (ALPN) extension [ 10 ] where TLS 1.2 or newer is required. [ 11 ] [ 12 ] HTTP/3 , the successor to HTTP/2, was published in 2022. [ 13 ] As of February 2024, [update] it is now used on 30.9% of websites [ 14 ] and is supported by most web browsers, i.e. (at least partially) supported by 97% of users. [ 15 ] HTTP/3 uses QUIC instead of TCP for the underlying transport protocol. Like HTTP/2, it does not obsolete previous major versions of the protocol. Support for HTTP/3 was added to Cloudflare and Google Chrome first, [ 16 ] [ 17 ] and is also enabled in Firefox . [ 18 ] HTTP/3 has lower latency for real-world web pages, if enabled on the server, and loads faster than with HTTP/2, in some cases over three times faster than HTTP/1.1 (which is still commonly only enabled). [ 19 ] HTTP functions as a request–response protocol in the client–server model . A web browser , for example, may be the client whereas a process , named web server , running on a computer hosting one or more websites may be the server . The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requ",
+      "title": "HTTP - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HTTP",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:28.184063",
+      "extra": {
+        "snippet": "HTTP is an application layer protocol for distributed, collaborative, hypermedia information systems. It is the foundation of data communication for the World Wide Web and has several versions, such as HTTP/1, HTTP/2, and HTTP/3."
+      }
+    },
+    {
+      "text": "HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the Internet, enabling the transfer of data between a client and a server. It is the foundation of data communication for the World Wide Web. HTTP provides a standard between a web browser and a web server to establish communication. It is a set of rules for transferring data from one computer to another. Data such as text, images, and other multimedia files are shared on the World Wide Web. Whenever a web user opens their web browser, the user indirectly uses HTTP. It is an application protocol that is used for distributed, collaborative, hypermedia information systems. HTTP is a request-response protocol, which means that for every request sent by a client (typically a web browser), the server responds with a corresponding response. The basic flow of an HTTP request-response cycle is as follows: HTML Introduction HTML Editors HTML Basics HTML Elements HTML Attributes HTML Headings HTML Paragraphs HTML Text Formatting HTML Block and Inline Elements HTML Charsets HTML Lists HTML Ordered Lists HTML Unordered Lists HTML Description Lists HTML Colors HTML Links Hyperlinks HTML Images HTML Favicon HTML Video HTML Tables HTML Iframes HTML Layout HTML File Paths HTML Forms HTML5 Semantics HTML URL Encoding HTML Responsive Web Design",
+      "title": "What is HTTP ? - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/html/what-is-http/",
+      "source": "geeksforgeeks.org",
+      "provider": "web",
+      "published": "2024-04-01 09:56:20+00:00",
+      "retrieved": "2025-10-08 03:49:28.862359",
+      "extra": {
+        "snippet": "Apr 1, 2024 · HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the Internet, enabling the transfer of data between a client and a server. It is the foundation of data communication for the World Wide Web."
+      }
+    },
+    {
+      "text": "W3Schools offers a wide range of services and products for beginners and professionals, helping millions of people everyday to learn and master new skills. Enjoy our free tutorials like millions of other internet users since 1999 Explore our selection of references covering all popular coding languages Create your own website with W3Schools Spaces - no setup required Test your skills with different exercises Test yourself with multiple choice questions Document your knowledge Create a free W3Schools Account to Improve Your Learning Experience Track your learning progress at W3Schools and collect rewards Become a PLUS user and unlock powerful features (ad-free, hosting, support,..) Not sure where you want to start? Follow our guided path With our online code editor, you can edit code and view the result in your browser Learn the basics of HTML in a fun and engaging video tutorial We have created a bunch of responsive website templates you can use - for free! Host your own website, and share it to the world with W3Schools Spaces Create your own server using Python, PHP, React.js, Node.js, Java, C#, etc. Large collection of code snippets for HTML, CSS and JavaScript Build fast and responsive sites using our free W3.CSS framework Read long term trends of browser usage Test your typing speed Use our color picker to find different RGB, HEX and HSL colors. W3Schools Coding Game! Help the lynx collect pine cones Join our newsletter and get access to exclusive content every month Contact us about W3Schools Academy for educational institutions Contact us about W3Schools Academy for your organization About sales: sales@w3schools.com About errors: help@w3schools.com Check out our refererence page with all the emojis supported in HTML 😊 Check out our full UTF-8 Character reference HTTP stands for H yper T ext T ransfer P rotocol WWW is about communication between web clients and servers",
+      "title": "What is HTTP",
+      "url": "https://www.w3schools.com/whatis/whatis_http.asp",
+      "source": "w3schools.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:30.629664",
+      "extra": {
+        "snippet": "HTTP stands for Hyper Text Transfer Protocol, the communication between web clients and servers. Learn how HTTP requests and responses work, and how to use XHR and AJAX for updating web pages without reloading."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. HTTP , standard application -level protocol used for exchanging files on the World Wide Web . HTTP runs on top of the TCP/IP protocol and (later) on the QUIC protocol. Web browsers are HTTP clients that send file requests to Web servers , which in turn handle the requests via an HTTP service. HTTP was originally proposed in 1989 by Tim Berners-Lee , who was a coauthor of the 1.0 specification. HTTP/1.0 (released in 1996) was “stateless”: each new request from a client established a new connection instead of handling all similar requests through the same connection between a specific client and server . HTTP/1.1 (released in 1997) includes persistent connections, decompression of HTML files by client browsers, and multiple domain names sharing the same IP address . HTTP/2 (released in 2015) was designed to solve problems with slow page loading and was a binary protocol in which binary values were used instead of plaintext as in previous versions. HTTP/3 relies on the faster QUIC protocol instead of TCP and, as of early 2022, was not yet released in final form but was supported by most browsers. In the 2010s many websites began using HTTPS (Secure HTTP), developed in 1994 by Netscape Communications Corporation and in which the SSL (Secure Sockets Layer) protocol was added to HTTP to provide a layer of encryption between browsers and servers.",
+      "title": "HTTP | Definition, Meaning, Versions, & Facts | Britannica",
+      "url": "https://www.britannica.com/technology/HTTP",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:49:31.317013",
+      "extra": {
+        "snippet": "Aug 28, 2025 · HTTP, standard application-level protocol used for exchanging files on the World Wide Web . Web browsers are HTTP clients that send file requests to Web servers, which in turn handle the requests via an HTTP service. HTTP was originally proposed in 1989 by Tim Berners-Lee. Jul 4, 2025 · HTTP is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers, but it can also be used for other purposes, such as machine-to-machine communication, programmatic access to APIs, and more. What is HTTP protocol & how does it work? HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the Internet, enabling the transfer of data between a client and a server . It is the foundation of data communication for the World Wide Web. HTTP provides a standard between a web browser and a web server to establish communication. What is http & how does it work? It is a set of rules for transferring data from one computer to another . Data such as text, images, and other multimedia files are shared on the World Wide Web. Whenever a web user opens their web browser, the user indirectly uses HTTP. It is an application protocol that is used for distributed, collaborative, hypermedia information systems. What information does a HTTP request contain? The request -- which contains specific information, such as the HTTP version type, an HTTP method, HTTP request headers and HTTP body (optional) -- happens when the browser user enters file requests by either opening a web file by typing in a URL or clicking on a hypertext link. When was http first used? In 1991 , the first documented official version of HTTP was written as a plain document, less than 700 words long, and this version was named HTTP/0.9, which supported only GET method, allowing clients to only retrieve HTML documents from the server, but not supporting any other file formats or information upload. What is HTTP status code? Sent by the server in answer to an HTTP request, consisting of an HTTP status code, response headers, and optional response body. 3-digit codes indicating the outcome of an HTTP request , categorized into 1xx (Informational), 2xx (Success), 3xx (Redirection), 4xx (Client Error), and 5xx (Server Error) blocks. What is HTTP request response? HTTP Request/Response: HTTP is a request-response protocol , which means that for every request sent by a client (typically a web browser), the server responds with a corresponding response. The basic flow of an HTTP request-response cycle is as follows: Oct 15, 1996 · HTTP is the protocol that defines how messages are formatted and transmitted on the World Wide Web. Learn what HTTP stands for , how it works, and what error codes and status codes mean. Feb 3, 2025 · HTTP (Hypertext Transfer Protocol) is a set of rules that govern how information will be transferred between networked devices, specifically web servers and client browsers."
+      }
+    }
+  ]
+}

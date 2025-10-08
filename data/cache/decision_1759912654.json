@@ -1,0 +1,88 @@
+{
+  "query": "When did World War II end?",
+  "timestamp": "2025-10-08T03:37:34.691494",
+  "claims": [
+    {
+      "sentence": "World War II officially ended in Asia on September 2, 1945, at 3:24 with the surrender of Japan on the USS Missouri.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The end of World War II in Europe occurred in May 1945.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "There are three dates for the conflict's end, with a separate date for Russia Bettmann/Contributor/Getty Images When did WWII end?",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "World War II officially ended in Asia on September 2, 1945, at 3:24 with the surrender of Japan on the USS Missouri. Before that, the United States dropped two atomic bombs on Japan, and the Soviet Union declared war on Japan, causing Emperor Hirohito to announce the acceptance of the Potsdam Declaration on August 15, 1945, which would eventually lead to the surrender ceremony on September 2.",
+      "title": "End of World War II in Asia",
+      "url": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Asia",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:29.335806",
+      "extra": {}
+    },
+    {
+      "text": "The end of World War II in Europe occurred in May 1945. Following the suicide of Adolf Hitler on 30 April, leadership of Nazi Germany passed to Grand Admiral Karl Dönitz and the Flensburg Government. Soviet troops captured Berlin on 2 May, and a number of German military forces surrendered over the next few days. On 8 May, Field Marshal Wilhelm Keitel signed the German Instrument of Surrender, an unconditional surrender to the Allies, in Karlshorst, Berlin. This is celebrated as Victory in Europe Day, while in Russia, 9 May is celebrated as Victory Day.",
+      "title": "End of World War II in Europe",
+      "url": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Europe",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:29.790674",
+      "extra": {}
+    },
+    {
+      "text": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers . Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war . Tanks and aircraft played major roles , enabling the strategic bombing of cities and delivery of the first and only nuclear weapons ever used in war. World War II is the deadliest conflict in history, causing the death of 70 to 85 million people , more than half of whom were civilians. Millions died in genocides , including the Holocaust , and by massacres, starvation, and disease. After the Allied victory, Germany , Austria , Japan , and Korea were occupied, and German and Japanese leaders were tried for war crimes . The causes of World War II included unresolved tensions in the aftermath of World War I , the rise of fascism in Europe and militarism in Japan . Key events preceding the war included Japan's invasion of Manchuria in 1931, the Spanish Civil War , the outbreak of the Second Sino-Japanese War in 1937, and Germany's annexations of Austria and the Sudetenland . World War II is generally considered to have begun on 1 September 1939, when Nazi Germany , under Adolf Hitler , invaded Poland , after which the United Kingdom and France declared war on Germany. Poland was divided between Germany and the Soviet Union under the Molotov–Ribbentrop Pact . In 1940, the Soviet Union annexed the Baltic states and parts of Finland and Romania . After the fall of France in June 1940, the war continued mainly between Germany and the British Empire , with fighting in the Balkans , Mediterranean, and Middle East , the aerial Battle of Britain and the Blitz , and the naval Battle of the Atlantic . Through campaigns and treaties, Germany gained control of much of continental Europe and formed the Axis alliance with Italy , Japan , and other countries. In June 1941, Germany invaded the Soviet Union , opening the Eastern Front and initially making large territorial gains. In December 1941, Japan attacked American and British territories in Asia and the Pacific , including at Pearl Harbor in Hawaii , leading the United States to enter the war against Japan and Germany. Japan conquered much of coastal China and Southeast Asia, but its advances in the Pacific were halted in June 1942 at the Battle of Midway . In early 1943, Axis forces were defeated in North Africa and at Stalingrad in the Soviet Union, and that year their continued defeats on the Eastern Front, an Allied invasion of Italy , and Allied offensives in the Pacific forced them into retreat on all fronts. In 1944, the Western Allies invaded France at Normandy , as the Soviet Union recaptured its pre-war territory and the US crippled Japan's navy and captured key Pacific islands . The war in Europe concluded with the liberation of German-occup",
+      "title": "World War II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:33.963399",
+      "extra": {
+        "snippet": "World War II is generally considered to have begun on 1 September 1939, when Nazi Germany , under Adolf Hitler , invaded Poland , after which the ..."
+      }
+    },
+    {
+      "text": "There are three dates for the conflict's end, with a separate date for Russia Bettmann/Contributor/Getty Images When did WWII end? With the unconditional surrender of Germany in May 1945 the battle was over, but both May 8 and May 9 are celebrated as Victory in Europe Day (or V-E Day). This double celebration occurs because the Germans surrendered to the Western Allies, including Britain and the U.S., on May 8, and a separate surrender took place on May 9 in Russia. In the East, the war ended when Japan surrendered unconditionally on Aug. 14, 1945, signing their surrender on Sept. 2. The Japanese surrender occurred after the United States dropped atomic bombs on Hiroshima and Nagasaki on Aug. 6 and 9, respectively. The date of the Japanese surrender is known as Victory Over Japan Day, or V-J Day. Within two years after starting the war in Europe with his invasion of Poland in 1939 , Adolf Hitler (1889–1945) had subjugated much of the continent, including France after a lightning-fast conquest. Then Der Führer sealed his fate with a poorly thought-out invasion of the Soviet Union. Joseph Stalin (1878–1953) and the Soviet people did not concede, although they had to overcome initial defeats. Soon, however, the overextended Nazi forces were defeated at Stalingrad and the Soviets began to force them slowly back across Europe. It took a long time and millions of deaths, but the Soviets eventually pushed Hitler's forces all the way back to Germany. In 1944, a new front was reopened in the West when Britain, France, the U.S., Canada, and other allies landed in Normandy . Two enormous military forces, approaching from the east and the west, eventually wore the Nazis down. In Berlin, the Soviet forces were fighting their way through the German capital. Hitler, once the charismatic ruler of an empire, was reduced to hiding in a bunker, giving orders to forces that only existed in his head. The Soviets were getting close to the bunker, and on April 30, 1945, Hitler commited suicide. Command of the German forces passed to Admiral Karl Doenitz (1891–1980), and he quickly sent out peace feelers. He soon realized an unconditional surrender would be required, and he was ready to sign. But with the war over, the tenuous alliance between the U.S. and the Soviets was turning frosty, a new wrinkle which would eventually lead to the Cold War. While the Western Allies agreed to the surrender on May 8, the Soviets insisted on their own surrender ceremony and process. This took place on May 9, the official end to what the USSR called the Great Patriotic War. Victory and surrender would not come easily for the Allies in the Pacific Theater. The war in the Pacific had started with the Japanese bombing of Pearl Harbor in Hawaii on Dec. 7, 1941. After years of battles and unsuccessful attempts at negotiating a treaty, the United States dropped atomic bombs on Hiroshima and Nagasaki in early Aug. 1945. A week later, on Aug. 15, Japan announced its intention to surrender. The",
+      "title": "When and How Did World War II End?",
+      "url": "https://www.thoughtco.com/when-did-world-war-2-end-3878473",
+      "source": "thoughtco.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:34.685458",
+      "extra": {
+        "snippet": "When and How Did World War II End ? Retrieved from https://www.thoughtco.com/ when - did - world - war -2- end -3878473 Wilde, Robert."
+      }
+    }
+  ]
+}

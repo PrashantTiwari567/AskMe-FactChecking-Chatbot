@@ -1,0 +1,109 @@
+{
+  "query": "Who is the CEO of Microsoft?",
+  "timestamp": "2025-10-08T03:00:52.866431",
+  "claims": [
+    {
+      "sentence": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Microsoft Corporation is an American multinational technology company that has been a key player in the computer industry since its founding in 1975.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Computer science is the operating system for all innovation.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022. Its five development and publishing labels consist of: Xbox Game Studios, Bethesda Softworks, Activision, Blizzard Entertainment, and King. It produces the Xbox video game consoles and services, in addition to overseeing production and sales, and is led by CEO Phil Spencer, who has overseen Xbox since 2014.",
+      "title": "Microsoft Gaming",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Gaming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:00:46.382135",
+      "extra": {}
+    },
+    {
+      "text": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "title": "Satya Nadella",
+      "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:00:46.866528",
+      "extra": {}
+    },
+    {
+      "text": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington . [ 2 ] Founded in 1975, the company became influential in the rise of personal computers through software like Windows , and the company has since expanded to Internet services, cloud computing , video gaming and other fields. Microsoft is the largest software maker , one of the most valuable public companies, [ a ] and one of the most valuable brands globally. Microsoft is considered part of the Big Tech group, alongside Nvidia , Apple , Alphabet , Amazon , and Meta . Microsoft was founded by Bill Gates and Paul Allen to develop and sell BASIC interpreters for the Altair 8800 . It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Windows. During the 41 years from 1980 to 2021 Microsoft released 9 versions of MS-DOS with a median frequency of 2 years, and 13 versions of Windows with a median frequency of 3 years. The company's 1986 initial public offering (IPO) and subsequent rise in its share price created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market. Steve Ballmer replaced Gates as CEO in 2000. He oversaw the then-largest of Microsoft's corporate acquisitions in Skype Technologies in 2011, [ 3 ] and an increased focus on hardware [ 4 ] [ 5 ] that led to its first in-house PC line, the Surface , in 2012, and the formation of Microsoft Mobile through Nokia . Since Satya Nadella took over as CEO in 2014, the company has changed focus towards cloud computing , [ 6 ] [ 7 ] as well as its large acquisition of LinkedIn for $26.2 billion in 2016. [ 8 ] Under Nadella's direction, the company has also expanded its video gaming business to support the Xbox brand, establishing the Microsoft Gaming division in 2022 and acquiring Activision Blizzard for $68.7 billion in 2023. [ 9 ] Microsoft has been market-dominant in the IBM PC–compatible operating system market and the office software suite market since the 1990s. Its best-known software products are the Windows line of operating systems and the Microsoft Office and Microsoft 365 suite of productivity applications, which most notably include the Word word processor, Excel spreadsheet editor, and the PowerPoint presentation program. Its flagship hardware products are the Surface lineup of personal computers and Xbox video game consoles, the latter of which includes the Xbox network ; the company also provides a range of consumer Internet services such as Bing web search, the MSN web portal, the Outlook.com ( Hotmail ) email service and the Microsoft Store . In the enterprise and development fields, Microsoft most notably provides the Azure cloud computing platform, Microsoft SQL Server database software, and Visual Studio . [ citation needed ] In April 2019, Microsoft reached a trillion-dollar market cap , b",
+      "title": "Microsoft - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Microsoft",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:00:51.055427",
+      "extra": {
+        "snippet": "Microsoft Corporation is an American multinational corporation and technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became influential in the rise of personal computers through software like Windows..."
+      }
+    },
+    {
+      "text": "Microsoft Corporation is an American multinational technology company that has been a key player in the computer industry since its founding in 1975. Headquartered in Redmond , Washington, Microsoft initially gained dominance in the operating systems market during the 1980s and ’90s with MS-DOS and Windows . Its strong market position eventually gave rise to the company’s diverse and extensive range of technological offerings, from personal computing and entertainment to enterprise cloud computing and artificial intelligence . Microsoft operates research labs in Cambridge , England (1997); Beijing (1998); Bengaluru , India (2005); Cambridge , Massachusetts (2008); New York (2012); and Montreal (2015). Microsoft’s operations can be divided into three major business segments: productivity and business processes, intelligent cloud, and more personal computing . Each segment consists of several products and services. Microsoft 365 , formerly Microsoft Office, includes Word , Excel , PowerPoint , Outlook and other productivity applications. It comes in two main types: LinkedIn , a career-oriented social networking site acquired by Microsoft in 2016, offers services such as job recruitment tools, advertising and marketing features, subscription-based premium access, and sales networking support. Microsoft Dynamics is a suite of intelligent and cloud-based applications designed to assist in various business operations, including finance, marketing, sales, supply chain management , and customer service. Azure Cloud Services is Microsoft’s flagship cloud computing platform; it offers hundreds of cloud-based products and services. As of the first quarter of 2025, Microsoft Azure was the second-largest cloud service provider globally, with 23% market share , trailing Amazon Web Services (AWS) at 29%. Other intelligent cloud services include SQL Server, Windows Server, Visual Studio, System Center, and GitHub . Explore the ProCon debate Windows Operating System has gradually become a cornerstone of Microsoft’s success since its launch in the 1980s. Xbox gaming console and various gaming subscriptions, such as Xbox Game Pass, have positioned Microsoft as a formidable player in the gaming industry. Surface devices are Microsoft’s touchscreen-based hardware, including laptops, tablets, and interactive whiteboards. Other products in this category include HoloLens and other PC accessories. In 1975, Bill Gates and Paul G. Allen , two boyhood friends from Seattle , converted BASIC , a popular mainframe computer programming language , for use on an early personal computer (PC), the Altair. Shortly afterward, Gates and Allen founded Microsoft, deriving the name from the words microcomputer and software . During the next few years, they refined BASIC and developed other programming languages . The world runs on DOS. In 1980, International Business Machines Corporation (IBM) asked Microsoft to produce the essential software , or operating system , for its first persona",
+      "title": "Microsoft Corporation | History, Software, Cloud, & AI Innovations | Britannica Money",
+      "url": "https://www.britannica.com/money/Microsoft-Corporation",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:00:51.729909",
+      "extra": {
+        "snippet": "Microsoft Dynamics is a suite of intelligent and cloud-based applications designed to assist in various business operations, including finance, marketing, sales, supply chain management, and customer service."
+      }
+    },
+    {
+      "text": "Computer science is the operating system for all innovation.",
+      "title": "Steve Ballmer",
+      "url": "https://www.forbes.com/profile/steve-ballmer/",
+      "source": "forbes.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:00:52.822406",
+      "extra": {
+        "snippet": "Steve Ballmer is the high-energy former CEO of Microsoft , who led the company from 2000 to 2014. He joined Microsoft in 1980 as employee No. 30 after dropping out of Stanford's MBA program. He first met Microsoft cofounder Bill Gates when the two were undergrads at Harvard."
+      }
+    }
+  ]
+}

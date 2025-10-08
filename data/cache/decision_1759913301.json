@@ -1,0 +1,109 @@
+{
+  "query": "What is the chemical symbol for gold?",
+  "timestamp": "2025-10-08T03:48:21.922473",
+  "claims": [
+    {
+      "sentence": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a chemical element; it has chemical symbol Au and atomic number 79.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Glossary Allotropes Some elements exist in several different structural forms, called allotropes.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "IRA Basics GETTING STARTED RESOURCES Buy Gold All Gold Gold Bullion Gold Bars Certified Gold Gold Price Chart All Silver Silver Bullion Silver Bars Certified Silver Silver Price Chart Shop Precious Metals Bullion Bars Exclusive Certified Precious Metals Price Charts Watch and listen to learn about the origin of the symbol for gold “Au,” why the atomic number for gold is 79, and where the word gold comes from.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Please enable Javascript in order to use PubChem website.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities. Element symbols for chemical elements, also known as atomic symbols, normally consist of one or two letters from the Latin alphabet and are written with the first letter capitalised.",
+      "title": "Chemical symbol",
+      "url": "https://en.wikipedia.org/wiki/Chemical_symbol",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:15.890883",
+      "extra": {}
+    },
+    {
+      "text": "Gold is a chemical element; it has chemical symbol Au and atomic number 79. In its pure form, it is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal, a group 11 element, and one of the noble metals. It is one of the least reactive chemical elements, being the second lowest in the reactivity series, with only platinum ranked as less reactive. Gold is solid under standard conditions.",
+      "title": "Gold",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:16.405621",
+      "extra": {}
+    },
+    {
+      "text": "Glossary Allotropes Some elements exist in several different structural forms, called allotropes. Each allotrope has different physical properties. For more information on the Visual Elements image see the Uses and properties section below. Glossary Group A vertical column in the periodic table. Members of a group typically have similar properties and electron configurations in their outer shell. Period A horizontal row in the periodic table. The atomic number of each element increases by one, reading from left to right. Block Elements are organised into blocks by the orbital type in which the outer electrons are found. These blocks are named for the characteristic spectra they produce: sharp (s), principal (p), diffuse (d), and fundamental (f). Atomic number The number of protons in an atom. Electron configuration The arrangements of electrons above the last (closed shell) noble gas. Melting point The temperature at which the solid–liquid phase change occurs. Boiling point The temperature at which the liquid–gas phase change occurs. Sublimation The transition of a substance directly from the solid to the gas phase without passing through a liquid phase. Density (g cm −3 ) Density is the mass of a substance that would fill 1 cm 3 at room temperature. Relative atomic mass The mass of an atom relative to that of carbon-12. This is approximately the sum of the number of protons and neutrons in the nucleus. Where more than one isotope exists, the value given is the abundance weighted average. Isotopes Atoms of the same element with different numbers of neutrons. CAS number The Chemical Abstracts Service registry number is a unique identifier of a particular chemical, designed to prevent confusion arising from different languages and naming systems. Glossary Image explanation Murray Robertson is the artist behind the images which make up Visual Elements. This is where the artist explains his interpretation of the element and the science behind the picture. Appearance The description of the element in its natural form. Biological role The role of the element in humans, animals and plants. Natural abundance Where the element is most commonly found in nature, and how it is sourced commercially. Atomic radius, non-bonded Half of the distance between two unbonded atoms of the same element when the electrostatic forces are balanced. These values were determined using several different methods. Covalent radius Half of the distance between two atoms within a single covalent bond. Values are given for typical oxidation number and coordination. Electron affinity The energy released when an electron is added to the neutral atom and a negative ion is formed. Electronegativity (Pauling scale) The tendency of an atom to attract electrons towards itself, expressed on a relative scale. First ionisation energy The minimum energy required to remove an electron from a neutral atom in its ground state.",
+      "title": "Gold - Element information, properties and uses | Periodic Table",
+      "url": "https://periodic-table.rsc.org/element/79/gold",
+      "source": "rsc.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:20.489358",
+      "extra": {
+        "snippet": "In this image a traditional alchemical symbol for the element is used. It is also used as a sun symbol , and much of the mythology around gold relates to the sun. Early alchemists were obsessed by gold and pursued their desire to transmute base metals (usually lead) into gold . The image in the background is based on a symbolic representation of an alchemist’s ‘laboratory’. ... A soft metal with a characteristic yellow colour. It is chemically ..."
+      }
+    },
+    {
+      "text": "IRA Basics GETTING STARTED RESOURCES Buy Gold All Gold Gold Bullion Gold Bars Certified Gold Gold Price Chart All Silver Silver Bullion Silver Bars Certified Silver Silver Price Chart Shop Precious Metals Bullion Bars Exclusive Certified Precious Metals Price Charts Watch and listen to learn about the origin of the symbol for gold “Au,” why the atomic number for gold is 79, and where the word gold comes from. 00:15 [inaudible]. Narrator: 00:16 Gold is a chemical element with the atomic number 79 on the periodic table. It has one of the highest atomic numbers of any element that occurs naturally. An atomic number measures the number of protons contained in the nucleus of each atom comprising an element. The higher an element's atomic number, the heavier it will be. This is why gold is so dense and heavy. Gold is one of the least reactive and most solid chemical elements. It is also the most malleable of all metals. In fact, a single ounce of gold could be compressed into a thin sheet that would span a total of 300 square feet. When formed into a monotonic wire, it can be stretched about twice before it would break, making it optimal for microelectronics and other applications. Gold's chemical symbol AU is derived from the Latin word aurum, meaning gold. Some claim that the word aurum also means shining dawn due to its etymological ties to the word aurora, meaning dawn. The word gold comes from the old English word for yellow, geolu, which was derived from the Germanic word gulþa. Today, gold is everywhere, and in many of the devices we use on a daily basis. Whether you're looking to diversify your portfolio or secure your assets for future generations, U.S. Money Reserve is here to make gold buying easy. Call the number on your screen if you'd like to learn more about gold and other precious metals. 01:52: [inaudible]. Stay informed about the stories and events moving precious metals markets. Jul 16, 2024 | Are you prepared for your retirement? There are three studies published recently that made me think about this. First, the Vanguard Group, which tracks 5 million retirement accounts, published data that shows that in 2023, the average balance in an employer sponsored... by Wayne Juneau | Jul 9, 2024 | I'm Coy Wells for U.S. Money Reserve. On June 24th, 2024, Bank of America published a note sharing their strategist's predictions that gold will surge as high as $3,000 per ounce over the next 12 to 18 months. This potential rise is in part attributed to an expected... by Wayne Juneau | Jul 2, 2024 | On June 12th, 2024, Federal Reserve officials announced that the central bank had not seen enough progress yet on the inflation front to cut interest rates, and they lowered their projections for the number of rate cuts this year from 2 to 1. That was big news since... 1-866-646-8465",
+      "title": "Why Is Gold Au: Did You Know? - U.S. Money Reserve",
+      "url": "https://www.usmoneyreserve.com/resources/videos/transcripts/why-is-gold-au-did-you-know/",
+      "source": "usmoneyreserve.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:21.335734",
+      "extra": {
+        "snippet": "January 31, 2020 - Call the number on your screen if you'd like to learn more about gold and other precious metals . 01:52: [inaudible]. ... Stay informed about the stories and events moving precious metals markets. ... Are you prepared for your retirement? There are three studies published recently that made ..."
+      }
+    },
+    {
+      "text": "Please enable Javascript in order to use PubChem website.",
+      "title": "Gold | Au (Element) - PubChem",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/element/Gold",
+      "source": "nih.gov",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:21.915470",
+      "extra": {
+        "snippet": "Chemical element, Gold , information from authoritative sources. Look up properties, history, uses, and more."
+      }
+    }
+  ]
+}

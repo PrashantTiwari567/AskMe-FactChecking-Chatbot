@@ -1,0 +1,46 @@
+{
+  "query": "Who wrote 'Pride and Prejudice'?",
+  "timestamp": "2025-10-08T03:17:24.075205",
+  "claims": [
+    {
+      "sentence": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on Jane Austen's 1813 novel of the same name. The film features five sisters from an English family of landed gentry as they deal with issues of marriage, morality, and misconceptions. Keira Knightley stars as Elizabeth Bennet, while Matthew Macfadyen plays Mr Darcy, who falls in love with her.",
+      "title": "Pride & Prejudice (2005 film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:20.558230",
+      "extra": {}
+    },
+    {
+      "text": "Pride and Prejudice and Zombies is a 2016 action comedy horror film based on Seth Grahame-Smith's 2009 novel of the same name, which parodies the 1813 novel Pride and Prejudice by Jane Austen. The film is directed by Burr Steers, who wrote the adapted screenplay, and stars Lily James, Sam Riley, Jack Huston, Bella Heathcote, Douglas Booth, Matt Smith, Charles Dance, and Lena Headey. The film follows the general plot of Austen's original novel, with elements of zombie, horror, and post-apocalyptic fiction incorporated.",
+      "title": "Pride and Prejudice and Zombies (film)",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies_(film)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:21.126372",
+      "extra": {}
+    }
+  ]
+}

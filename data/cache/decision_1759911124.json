@@ -1,0 +1,130 @@
+{
+  "query": "When did World War II end?",
+  "timestamp": "2025-10-08T03:12:04.341911",
+  "claims": [
+    {
+      "sentence": "The list of aircraft of World War II includes all of the aircraft used by countries which were at war during World War II from the period between when the country joined the war and the time the country withdrew from it, or when the war ended.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The end of World War II in Europe occurred in May 1945.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "While 2 September 1945 is generally recognised as the final, official end of the Second World War, in many parts of the world fighting continued long beyond that date.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "U.S. History All the major chapters in the American story, from Indigenous beginnings to the present day.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The list of aircraft of World War II includes all of the aircraft used by countries which were at war during World War II from the period between when the country joined the war and the time the country withdrew from it, or when the war ended. Aircraft developed but not used operationally in the war are in the prototypes section at the bottom of the page. Prototypes for aircraft that entered service under a different design number are ignored in favor of the version that entered service. If the date of an aircraft's entry into service or first flight is not known, the aircraft will be listed by its name, the country of origin or major wartime users. Aircraft used for multiple roles are generally only listed under their primary role unless specialized versions were built for other roles in significant numbers. Aircraft used by neutral countries such as Spain, Switzerland and Sweden are not included.",
+      "title": "List of aircraft of World War II",
+      "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:56.810115",
+      "extra": {}
+    },
+    {
+      "text": "The end of World War II in Europe occurred in May 1945. Following the suicide of Adolf Hitler on 30 April, leadership of Nazi Germany passed to Grand Admiral Karl Dönitz and the Flensburg Government. Soviet troops captured Berlin on 2 May, and a number of German military forces surrendered over the next few days. On 8 May, Field Marshal Wilhelm Keitel signed the German Instrument of Surrender, an unconditional surrender to the Allies, in Karlshorst, Berlin. This is celebrated as Victory in Europe Day, while in Russia, 9 May is celebrated as Victory Day.",
+      "title": "End of World War II in Europe",
+      "url": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Europe",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:57.340391",
+      "extra": {}
+    },
+    {
+      "text": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers . Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war . Tanks and aircraft played major roles , enabling the strategic bombing of cities and delivery of the first and only nuclear weapons ever used in war. World War II is the deadliest conflict in history, causing the death of 70 to 85 million people , more than half of whom were civilians. Millions died in genocides , including the Holocaust , and by massacres, starvation, and disease. After the Allied victory, Germany , Austria , Japan , and Korea were occupied, and German and Japanese leaders were tried for war crimes . The causes of World War II included unresolved tensions in the aftermath of World War I , the rise of fascism in Europe and militarism in Japan . Key events preceding the war included Japan's invasion of Manchuria in 1931, the Spanish Civil War , the outbreak of the Second Sino-Japanese War in 1937, and Germany's annexations of Austria and the Sudetenland . World War II is generally considered to have begun on 1 September 1939, when Nazi Germany , under Adolf Hitler , invaded Poland , after which the United Kingdom and France declared war on Germany. Poland was divided between Germany and the Soviet Union under the Molotov–Ribbentrop Pact . In 1940, the Soviet Union annexed the Baltic states and parts of Finland and Romania . After the fall of France in June 1940, the war continued mainly between Germany and the British Empire , with fighting in the Balkans , Mediterranean, and Middle East , the aerial Battle of Britain and the Blitz , and the naval Battle of the Atlantic . Through campaigns and treaties, Germany gained control of much of continental Europe and formed the Axis alliance with Italy , Japan , and other countries. In June 1941, Germany invaded the Soviet Union , opening the Eastern Front and initially making large territorial gains. In December 1941, Japan attacked American and British territories in Asia and the Pacific , including at Pearl Harbor in Hawaii , leading the United States to enter the war against Japan and Germany . Japan conquered much of coastal China and Southeast Asia , but its advances in the Pacific were halted in June 1942 at the Battle of Midway . In early 1943, Axis forces were defeated in North Africa and at Stalingrad in the Soviet Union, and that year their continued defeats on the Eastern Front, an Allied invasion of Italy , and Allied offensives in the Pacific forced them into retreat on all fronts. In 1944, the Western Allies invaded France at Normandy , as the Soviet Union recaptured its pre-war territory and the US crippled Japan's navy and captured key Pacific islands . The war in Europe concluded with the liberation of German-occ",
+      "title": "World War II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:01.330386",
+      "extra": {
+        "snippet": "World War II[b] or the Second World War (1 September 1939 - 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war ."
+      }
+    },
+    {
+      "text": "While 2 September 1945 is generally recognised as the final, official end of the Second World War, in many parts of the world fighting continued long beyond that date. And, given the vast scale of the war, which involved troops from every part of the world, it did not simultaneously come to an end everywhere. Instead, it ended in stages. Historian Keith Lowe explains how and when the war officially concluded, and asks – how important were the atomic bombs dropped over Japan in ending WW2? The Second World War was a gigantic struggle that involved troops from every part of the world. Fighting took place on several different continents and oceans, but the main theatres of conflict were in Europe and in the far east. The war did not come to an end everywhere at the same time, rather it ended in stages. In Europe, the beginning of the end came in 1943 when the Allies finally began to turn the tide against the Nazis and their collaborators. In the west, Allied troops successfully invaded Sicily and southern Italy that summer. The following year, France was liberated after the D-Day landings, and the long, slow drive into Belgium and the Netherlands also began. In most places, the arrival of Allied troops was accompanied by wild celebrations, because local populations understood that, while the conflict was still raging elsewhere, for them the war was over. In eastern Europe, the beginning of 1943 also marked the point when Soviet troops turned the tide against the Germans at the battle of Stalingrad . Over the next two years the Red Army gradually drove the Germans from Soviet territory, and then began to push forward for the liberation of their neighbours. In contrast to western Europe, however, there were few celebrations at their arrival. Most eastern Europeans still regarded the USSR as a hostile country. Some, like Hungary and Romania, had spent most of the war fighting against the Soviets as allies of Nazi Germany. Others, like Poland and the Baltic States, simply did not trust them. They had been invaded by the USSR at the start of the war, when the USSR was still allied to Germany, and so were not inclined to view the return of the Red Army as a ‘liberation’. By the spring of 1945 the Allies had closed in on Germany from both sides. Adolf Hitler , realising that his cause was hopeless, committed suicide in his bunker in Berlin on 30 April. From that moment, events moved fairly quickly. German troops in northwest Europe surrendered to the British at Lüneburg Heath on 4 May. A formal surrender of all the remaining German forces took place three days later, in the French city of Reims. However, the Soviets did not recognise this event, so a final surrender document was signed in Berlin the following night, on 8 May. The official time on the ‘Act of Military Surrender’ was 23.01 on 8 May 1945, which, because of the time difference, was already 9 May in Moscow. For this reason, countries in western Europe have always celebrated the anniversary of V",
+      "title": "How & When Did WW2 Officially End? | HistoryExtra",
+      "url": "https://www.historyextra.com/period/second-world-war/how-when-ww2-end-ve-day-vj-day-fighting-atomic-bombs-japan-world-europe/",
+      "source": "historyextra.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:02.247816",
+      "extra": {
+        "snippet": "How and when did WW2 end? While 2 September 1945 is generally recognised as the final, official end of the Second World War , in many parts of the world fighting continued long beyond that date. And, given the vast scale of the war , which involved troops from every part of the world , it did not simultaneously come to an end everywhere."
+      }
+    },
+    {
+      "text": "U.S. History All the major chapters in the American story, from Indigenous beginnings to the present day. World History History from countries and communities across the globe, including the world’s major wars. Eras & Ages From prehistory, though antiquity and into the 21st century, all of history’s biggest chapters. Culture & Tradition The stories behind the faiths, food, entertainment and holidays that shape our world. Science & Innovation The pivotal discoveries, visionary inventors and natural phenomena that impacted history. By: Christopher Klein Explore five defining events that led to the conclusion of World War II on September 2, 1945. Explore five defining events that led to the conclusion of World War II on September 2, 1945. World War II ended six years and one day after Germany’s invasion of Poland on September 1, 1939, sparked the 20th century’s second global conflict. By the time it concluded on the deck of an American warship on September 2, 1945, World War II had claimed the lives of an estimated 60-80 million people, approximately 3 percent of the world’s population. The vast majority of those who died in history’s deadliest war were civilians, including 6 million Jews killed in Nazi concentration camps during the Holocaust . Germany employed its “blitzkrieg” (“lightning war”) strategy to sweep across the Netherlands, Belgium and France in the war’s opening months and force more than 300,000 British and other Allied troops to evacuate continental Europe from Dunkirk . In June 1941, German dictator Adolf Hitler broke his nonaggression pact with the Soviet Union and launched Operation Barbarossa , which brought Nazi troops to the gates of Moscow. Survivors share how D-Day changed their lives forever. By the time the United States entered World War II following the Japanese bombing of Pearl Harbor , German forces occupied much of Europe from the Black Sea to the English Channel. The Allies, however, turned the tide of the conflict, and the following major events brought World War II to an end. After storming across Europe in the first three years of the war, overextended Axis forces were put on the defensive after the Soviet Red Army rebuffed them in the brutal Battle of Stalingrad , which lasted from August 1942 to February 1943. The fierce battle for the city named after Soviet dictator Joseph Stalin resulted in nearly two million casualties, including the deaths of tens of thousands of Stalingrad residents. As Soviet troops began to advance on the Eastern Front , the Western Allies invaded Sicily and southern Italy , causing the fall of Italian dictator Benito Mussolini’s government in July 1943. The Allies then opened a Western Front with the amphibious D-Day invasion of Normandy on June 6, 1944. After gaining a foothold in northern France, Allied troops liberated Paris on August 25 followed by Brussels less than two weeks later. Facing the harsh conditions of the European winter, American soldiers fighting in the Battle of the ",
+      "title": "How Did World War II End? | HISTORY",
+      "url": "https://www.history.com/articles/world-war-ii-end-events",
+      "source": "history.com",
+      "provider": "web",
+      "published": "2020-08-11 15:12:47+00:00",
+      "retrieved": "2025-10-08 03:12:03.111040",
+      "extra": {
+        "snippet": "World War II ended on September 2, 1945, after six years of global conflict that claimed 60-80 million lives. Learn about the five defining events that led to the conclusion of the war , including the Battle of Stalingrad, D-Day, the Battle of the Bulge, the liberation of concentration camps and the atomic bombing of Japan."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. World War II began in Europe on September 1, 1939, when Germany invaded Poland. Great Britain and France responded by declaring war on Germany on September 3. The war between the U.S.S.R. and Germany began on June 22, 1941, with Operation Barbarossa , the German invasion of the Soviet Union . The war in the Pacific began on December 7/8, 1941, when Japan attacked the American naval base at Pearl Harbor and other American, Dutch, and British military installations throughout Asia. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and, to a lesser extent, China). The Allied powers were led by Winston Churchill (United Kingdom); Joseph Stalin (Soviet Union); Charles de Gaulle (France); and Franklin D. Roosevelt and Harry S. Truman (United States). The Axis powers were led by Adolf Hitler (Germany), Benito Mussolini (Italy), and Hideki Tojo (Japan). The war in the Pacific turned against Japan during the Battle of Midway (June 3–6, 1942), an American victory that destroyed the Japanese first-line carrier force and, together with the Battle of Guadalcanal , ended Japan’s ability to prosecute an offensive war. The tide of the war in Europe shifted with the Soviet victory at the Battle of Stalingrad (February 1943). More than one million Soviet troops and tens of thousands of civilians died in the defense of the city, but the destruction of two entire German armies marked the beginning of the end of the Third Reich . The Allied landings at Normandy on June 6, 1944, opened a second front in Europe, and Germany’s abortive offensive at the Ardennes in the winter of 1944–45 marked the Third Reich ’s final push in the west. The Red Army advanced from the east and effectively claimed all the territory under its control for the Soviet sphere. The Allied armies converged on Berlin. Adolf Hitler committed suicide on April 30, 1945, and the war in Europe ended on May 8. The American “island hopping” campaign had destroyed key Japanese installations throughout the Pacific while allowing bypassed islands to wither on the vine. Hundreds of thousands were killed in firebombings of Japanese cities, and the atomic bombings of Hiroshima and Nagasaki in August 1945 knocked Japan out of the war. Estimates of the total number of people killed during World War II have ranged from 35,000,000 to 60,000,000—a significant span, because statistics about the war’s casualties are inexact. The Soviet Union and China are believed to have suffered the most total casualties, while an estimated 5,800,000 Poles died, which represents about 20 percent of Poland’s prewar population. About 4,200,000 Germans died, and about 1,972,000 Japanese died. In all, the scale of human losses during World War II was vast. A table that details estimated deaths by country is available here . World War II , conflict that i",
+      "title": "World War II | Facts, Summary, History, Dates, Combatants, & Causes | Britannica",
+      "url": "https://www.britannica.com/event/World-War-II",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:04.334908",
+      "extra": {
+        "snippet": "World War II was a conflict that involved virtually every part of the world during 1939-45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war , in human history."
+      }
+    }
+  ]
+}

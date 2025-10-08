@@ -1,0 +1,109 @@
+{
+  "query": "Distance from Earth to the Moon in km",
+  "timestamp": "2025-10-08T03:11:23.855691",
+  "claims": [
+    {
+      "sentence": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Answering the question \"how far is the moon from Earth?",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Search for a city's moon distances: Minumum (perigee) and maximum (apogee) distances from the Moon to the Earth.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon. In contrast, the Lunar distance, or Earth–Moon characteristic distance, is a unit of measure in astronomy. More technically, it is the semi-major axis of the geocentric lunar orbit. The average lunar distance is approximately 385,000 km (239,000 mi), or 1.3 light-seconds. It is roughly 30 times Earth's diameter and a non-stop plane flight traveling that distance would take more than two weeks. Around 389 lunar distances make up an astronomical unit.",
+      "title": "Lunar distance",
+      "url": "https://en.wikipedia.org/wiki/Lunar_distance",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:18.505941",
+      "extra": {}
+    },
+    {
+      "text": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "title": "Orbit of the Moon",
+      "url": "https://en.wikipedia.org/wiki/Orbit_of_the_Moon",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:18.977251",
+      "extra": {}
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. The Moon is approximately 384,000 km (238,600 miles) away from Earth , on average. The Moon orbits Earth in an elliptical pattern, which means that it is closer to Earth at some points and farther away at other points. When the Moon is at its farthest point from Earth, known as its apogee , it can be as far as 406,700 km (252,700 miles) away. Conversely, when it is at its closest point, or perigee, the distance decreases to about 356,500 km (221,500 miles). These variations are due to gravitational forces between the Moon and the Earth, Sun , and other planets . Gravitational interactions between the Moon and Earth also influence the rise and fall of ocean tides.",
+      "title": "How Far Is the Moon From Earth? | Miles, Km, Gravitational Pull, & Facts | Britannica",
+      "url": "https://www.britannica.com/science/How-Far-Is-the-Moon-From-Earth",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:21.994553",
+      "extra": {
+        "snippet": "When the Moon is at its farthest point from Earth , known as its apogee, it can be as far as 406,700 km (252,700 miles) away. Conversely, when it is at its closest point, or perigee, the distance decreases to about 356,500 km (221,500 miles). These variations are due to gravitational forces between the Moon and the Earth , Sun, and other planets."
+      }
+    },
+    {
+      "text": "Answering the question \"how far is the moon from Earth?\", can change depending on when you ask it. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . It's the brightest object in our night sky, but how far is the moon from Earth? The moon 's distance from Earth affects the strength of ocean tides and the appearance of solar eclipses in our skies. The average distance between the blue planet and its only natural satellite is about 238,855 miles (384,400 kilometers), according to NASA . The moon does not orbit Earth in a perfect circle, so there are places along its trip when it is either closer or farther away from our planet than this average distance. When the moon reaches its shortest distance to Earth — known as perigee — it is about 226,000 miles (363,300 km) away. If perigee coincides with a full moon phase, this is generally called a supermoon . The term is not a scientific one, but it is used by the skywatching community when the full moon appears within 90% of perigee. Supermoons appear roughly 17% bigger and 30% brighter than the faintest moon of the year. Since the moon's gravity exerts a pulling force on Earth's oceans to produce tides, the moon's closer proximity to Earth around perigee can also trigger higher-than-usual tides. Breaking space news, the latest updates on rocket launches, skywatching events and more! When the moon is at its farthest distance from Earth, known as apogee, it is about 251,000 miles (405,500 km) from our planet. One of the clearest natural visuals for apogee are annular, or \"ring of fire,\" solar eclipses . A remarkable quality of solar eclipses is the serendipity of their existence. For the next 600 million years , the moon's proximity to Earth will be about 400 times greater than the sun's distance to Earth. Since the star's diameter is also approximately 400 times greater than that of the moon, the disks of both objects tend to match almost perfectly during solar eclipses. This produces moments of totality when just the solar corona peeks out from behind the moon. Related: Solar eclipses 2023: When, where & how to see them But if the new moon phase that produces solar eclipses coincides with apogee, the moon's longer distance from Earth means that the lunar disk will appear much smaller in the sky. While still spectacular, annular solar eclipses do not completely block out the sun, Instead, they leave a ring of the solar disk visible to spectators. A range of factors determines how long it takes to reach the moon. Human missions, for instance, tend to take longer than passenger-free satellites. Whether or not an object stops at the moon or just zips by also comes into play. The USSR launched the first mission to the moon, Luna 1 , in 1959. With no propulsion system, the sphere-shaped satellite was hurled into space and took only 34 flight hours to make the trip. After its flyby, the satellite went into orbit around the sun, between the orbits of Earth a",
+      "title": "How far is the moon from Earth? | Space",
+      "url": "https://www.space.com/18145-how-far-is-the-moon.html",
+      "source": "space.com",
+      "provider": "web",
+      "published": "2022-02-25 15:07:57+00:00",
+      "retrieved": "2025-10-08 03:11:23.237205",
+      "extra": {
+        "snippet": "Shortest distance between the moon and Earth : Perigee When the moon reaches its shortest distance to Earth — known as perigee — it is about 226,000 miles (363,300 km ) away."
+      }
+    },
+    {
+      "text": "Search for a city's moon distances: Minumum (perigee) and maximum (apogee) distances from the Moon to the Earth. Suggestions: Nashville | Murfreesboro | Clarksville | Shelbyville | Bowling Green The Moon Distance Calculator calculates the approximate minumum and maximum distances from the Moon to the Earth. The Moon's distance to Earth varies. The two extreme points of the Moon’s orbit each month are known as the lunar perigee and apogee . The table below shows the time of lunar perigee and apogee. Need some help? Skywatchers farther from the poles than usual could have a chance to see auroras in the next few days, as multiple coronal mass ejections approach Earth. Moon phases for October 2025. Plus, the Moon meets up with Saturn, Jupiter, and Venus. Also, why does the Harvest Moon fall in October this year? What’s up in the day and night sky in October 2025, including the Harvest Moon and two meteor showers. Find out when Daylight Saving Time 2025 starts and ends, plus history, facts, and global observance details in this essential seasonal guide. © Time and Date AS 1995–2025 © Time and Date AS 1995–2025. Privacy & Terms",
+      "title": "Moon Distance Calculator – How Close is Moon to Earth?",
+      "url": "https://www.timeanddate.com/astronomy/moon/distance.html",
+      "source": "timeanddate.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:23.850687",
+      "extra": {
+        "snippet": "The Moon Distance Calculator shows approximate times for when the Moon is closest to the Earth (perigee) and furthest from the Earth (apogee)."
+      }
+    }
+  ]
+}

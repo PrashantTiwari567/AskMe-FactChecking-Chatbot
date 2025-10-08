@@ -1,0 +1,130 @@
+{
+  "query": "What is the boiling point of water in Celsius?",
+  "timestamp": "2025-10-08T03:08:31.732826",
+  "claims": [
+    {
+      "sentence": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid [ 1 ] [ 2 ] and the liquid changes into a vapor.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Celsius (more precisely, a degree Celsius ), sometimes called centigrade , is a unit of measurement that is used in most countries to measure temperature .",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The boiling point of water in degrees Celsius is 100°C (212°F) at sea level .",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The boiling point of water is measured in Kelvin, Celsius, and Fahrenheit.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale. The degree Celsius can refer to a specific point on the Celsius temperature scale or to a difference or range between two temperatures. It is named after the Swedish astronomer Anders Celsius (1701–1744), who proposed the first version of it in 1742. The unit was called centigrade in several languages for many years. In 1948, the International Committee for Weights and Measures renamed it to honor Celsius and also to remove confusion with the term for one hundredth of a gradian in some languages. Most countries use this scale.",
+      "title": "Celsius",
+      "url": "https://en.wikipedia.org/wiki/Celsius",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:08:25.743127",
+      "extra": {}
+    },
+    {
+      "text": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power. It is the second most common type of electricity-generating nuclear reactor after the pressurized water reactor (PWR).",
+      "title": "Boiling water reactor",
+      "url": "https://en.wikipedia.org/wiki/Boiling_water_reactor",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:08:26.336497",
+      "extra": {}
+    },
+    {
+      "text": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid [ 1 ] [ 2 ] and the liquid changes into a vapor. The boiling point of a liquid varies depending upon the surrounding environmental pressure. A liquid in a partial vacuum , i.e., under a lower pressure, has a lower boiling point than when that liquid is at atmospheric pressure . Because of this, water boils at 100°C (or with scientific precision: 99.97 °C (211.95 °F)) under standard pressure at sea level, but at 93.4 °C (200.1 °F) at 1,905 metres (6,250 ft) [ 3 ] altitude. For a given pressure, different liquids will boil at different temperatures. The normal boiling point (also called the atmospheric boiling point or the atmospheric pressure boiling point ) of a liquid is the special case in which the vapor pressure of the liquid equals the defined atmospheric pressure at sea level, one atmosphere . [ 4 ] [ 5 ] At that temperature, the vapor pressure of the liquid becomes sufficient to overcome atmospheric pressure and allow bubbles of vapor to form inside the bulk of the liquid. The standard boiling point has been defined by IUPAC since 1982 as the temperature at which boiling occurs under a pressure of one bar . [ 6 ] The heat of vaporization is the energy required to transform a given quantity (a mol, kg, pound, etc.) of a substance from a liquid into a gas at a given pressure (often atmospheric pressure). Liquids may change to a vapor at temperatures below their boiling points through the process of evaporation . Evaporation is a surface phenomenon in which molecules located near the liquid's edge, not contained by enough liquid pressure on that side, escape into the surroundings as vapor . On the other hand, boiling is a process in which molecules anywhere in the liquid escape, resulting in the formation of vapor bubbles within the liquid. A saturated liquid contains as much thermal energy as it can without boiling (or conversely a saturated vapor contains as little thermal energy as it can without condensing ). Saturation temperature means boiling point . The saturation temperature is the temperature for a corresponding saturation pressure at which a liquid boils into its vapor phase . The liquid can be said to be saturated with thermal energy . Any addition of thermal energy results in a phase transition . If the pressure in a system remains constant ( isobaric ), a vapor at saturation temperature will begin to condense into its liquid phase as thermal energy ( heat ) is removed. Similarly, a liquid at saturation temperature and pressure will boil into its vapor phase as additional thermal energy is applied. The boiling point corresponds to the temperature at which the vapor pressure of the liquid equals the surrounding environmental pressure. Thus, the boiling point is dependent on the pressure. Boiling points may be published with respect to the NIST, USA standard pressure of 101.325 kPa (1 atm ), or the ",
+      "title": "Boiling point - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boiling_point",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:08:29.077539",
+      "extra": {
+        "snippet": "There are two conventions regarding the standard boiling point of water : The normal boiling point is 99.97 °C (211.9 °F ) at a pressure of 1 atm ..."
+      }
+    },
+    {
+      "text": "Celsius (more precisely, a degree Celsius ), sometimes called centigrade , is a unit of measurement that is used in most countries to measure temperature . The unit was created by Anders Celsius (1701–1744), a Swedish astronomer . 0 °C is the melting point of pure water at sea level (normal atmospheric pressure ), and 100 °C is the boiling point of water at sea level. (Water boils at a lower temperature at higher altitudes.) 1 °C is therefore a hundredth of that difference. Since 1948, the unit has been called \"Celsius.\" \"Centigrade\" was the name of the unit before the change, with \"centi\" meaning a hundred and \"grade\" being a scale. The other main measurement of temperature is the Fahrenheit scale, but it is less used. The Celsius scale, based on multiples of ten, is used with SI, or metric , measurements. In 1742, Anders Celsius made a \"reversed\" version of the modern Celsius temperature scale in which 0 was the freezing point of water and 100 the melting point of ice. In his paper Observations of Two persistent Degrees on a thermometer, he wrote about his experiments. He showed that the melting point of ice was basically unaffected by air pressure . Ice would turn into water at the same temperature whether it was at sea level or on a mountain. That was not the case for the boiling point of water, which is lower with less pressure, such as on a mountain. He decided that zero on his temperature scale, the boiling point of water, would be set at the standard barometric pressure at sea level, which is now known as one atmosphere . In 1954, Resolution 4 of the 10th CGPM [ 1 ] (the General Conference on Weights and Measures ) set what exactly is one standard atmosphere (101.325 kPa or 14.6959 psi ). In 1744, the year that Celsius died, the famous Swedish botanist Carolus Linnaeus (1707–1778) used a reversed version [ 2 ] of Celsius's scale when he bought his first thermometer . Its scale had zero represent the melting point of ice and 100 represent the boiling point of water, as what is used today. His custom-made \"Linnaeus thermometer\" to be used in his greenhouses, was made by Daniel Ekström , who was Sweden's leading maker of scientific instruments. Ekstöm's workshop was in the basement of the Stockholm Observatory . As then often happened before modern communications, many physicists, scientists, and instrument makers are given credit with independently making the same measurement scale; [ 3 ] among them were Pehr Elvius , the secretary of the Royal Swedish Academy of Sciences (which had an instrument workshop), who Linnaeus had also talked to; Christin of Lyons ; Ekström, the instrument-maker; and Mårten Strömer (1707–1770) who had studied astronomy under Anders Celsius. The first known document [ 4 ] reporting temperatures in this modern \"forward\" Celsius scale is the paper Hortus Upsaliensis , dated 16 December 1745, by Linnaeus, who wrote to one of his students, Samuel Nauclér. In it, Linnaeus reported the temperatures inside the orangery at",
+      "title": "Celsius - Simple English Wikipedia, the free encyclopedia",
+      "url": "https://simple.wikipedia.org/wiki/Celsius",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:08:29.745260",
+      "extra": {
+        "snippet": "That was not the case for the boiling point of water , which is lower with less pressure, such as on a mountain. ... the melting point of ice and 100 ..."
+      }
+    },
+    {
+      "text": "The boiling point of water in degrees Celsius is 100°C (212°F) at sea level . This is a fundamental and well-known temperature reference point in the field of thermodynamics and everyday life. It represents the temperature at which water transitions from a liquid state to a gaseous state, forming water vapor. Several key points and factors related to the boiling point of water in Celsius include: 1. Pressure Dependency: The boiling point of water is pressure-dependent. At higher altitudes or in areas with lower atmospheric pressure, such as in mountainous regions, the boiling point of water is lower than 100°C. Conversely, at higher pressures, such as in a pressure cooker, water can boil at temperatures above 100°C. 2. Standard Atmospheric Pressure: The boiling point of water is defined at standard atmospheric pressure, which is 101.3 kilopascals (kPa) or 1 atmosphere (atm). At this pressure, water boils at precisely 100°C (212°F). 3. Phase Transition: The transition from a liquid to a gas at the boiling point involves the absorption of heat energy without a change in temperature. As water absorbs heat, its molecules gain enough energy to overcome intermolecular forces and escape into the gas phase. 4. Higher Altitudes: In locations at higher elevations, where atmospheric pressure is lower, the boiling point is lower than 100°C. For example, in cities like Denver, Colorado (often called the \"Mile-High City\"), which is located approximately 1 mile (1,609 meters) above sea level, water boils at about 95°C (203°F). 5. Cooking and Food Preparation: Knowledge of the boiling point of water is essential in cooking and food preparation. Boiling water is commonly used to cook pasta, vegetables, and eggs, as well as for sterilizing equipment and preparing hot beverages like tea and coffee. 6. Climate and Weather: Understanding the boiling point of water also has implications in meteorology and the Earth's climate system. It plays a role in the formation of clouds, as water vapor in the atmosphere can condense into liquid water droplets when cooled below the boiling point. The boiling point of water is a fundamental concept in science, engineering, and everyday activities. It varies with pressure but remains a consistent reference point for various processes, including cooking, heating, and industrial applications. Software Technology Parks of India, MNNIT Campus, Lucknow Road, Teliarganj, Prayagraj Uttar Pradesh, Pin-211004 INDIA. +91-532-2400505 +91-8299812988 969-G Edgewater Blvd,Suite 793 Foster City-94404, CA (USA) +1-650-242-0133 contact@mindstick.com advertisement@mindstick.com Copyright 2010 - 2025 MindStick Software Pvt. Ltd. All Rights Reserved Privacy Policy | Terms & Conditions | Cookie policy | Powered by MindStick",
+      "title": "What is the boiling point of water in Celsius? – MindStick Q&A",
+      "url": "https://answers.mindstick.com/qa/100579/what-is-the-boiling-point-of-water-in-celsius",
+      "source": "mindstick.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:08:30.516769",
+      "extra": {
+        "snippet": "The boiling point of water in degrees Celsius is 100°C (212°F) at sea level . ... The boiling point of water is a fundamental concept in science ..."
+      }
+    },
+    {
+      "text": "The boiling point of water is measured in Kelvin, Celsius, and Fahrenheit. It’s useful to know each amount. What is the boiling point of water in Kelvin, Celsius, and Fahrenheit? Water boils at 373.2 K (Kelvin), 100ºC (Celsius), or 212ºF (Fahrenheit). When measuring temperature, the usual units are Celsius (degree Celsius) or Fahrenheit (degree Fahrenheit). However, when reporting temperatures in Kelvin, we don’t say “degree Kelvin.” Boiling point of water: Read more to learn about the boiling point of water in Kelvin, Celsius, and Fahrenheit. Water boils at 100ºC, and this is equivalent to 212ºF or 373.2 Kelvin. When reporting temperature measurements, people usually use Celsius (degree Celsius) or Fahrenheit (degree Fahrenheit). However, when reporting using the Kelvin, we don’t say “degree Kelvin.” One of William Thomson’s best-known contributions—also known as Lord Kelvin and 1st Baron Kelvin—is the absolute temperature scale (measured in Kelvin). His work was inspired by the 1800s law stating that the pressure of an ideal gas (If kept at a constant volume) changes directly with its absolute temperature (or Zero Kelvin). Just a quick information about Ideal Gas: An ideal gas follows the rules of the Ideal Gas Law. In simple terms, this law states that when a fixed amount of ideal gas is squeezed, its temperature increases. One real-life application of this law is engineering, wherein engineers figure out the right containers to build for holding oxygen. What is the boiling/condensation point of water in Kelvin? The boiling point of water on the Kelvin scale is 373.2 K. We don’t insert the degree symbol (º) or the word “degree” to refer to a specific temperature on the Kelvin scale. Every degree unit on the Celsius scale is equal to one degree unit on the Kelvin scale. Thus, we don’t use the degree symbol when reading temperatures in this system. It’s different from Celsius or Fahrenheit because it doesn’t have negative numbers on its scale. The lowest possible number is 0 K or absolute zero—the point at which a substance or object couldn’t get any colder or has no heat energy left. Kelvin is rarely used in daily life activities, like boiling water for your coffee and cooking. Instead, it’s extensively used in the scientific community, specifically by physicists and chemists, for some formulas. How to Stay Safe When Boiling Water in the Microwave The lay public popularly uses Celsius in different parts of the world. That’s not the case in the United States, where it’s mostly used by people in the engineering and scientific fields. Celsius, which was previously called centigrade, is the Swedish astronomer and physicist Anders Celsius’s brainchild. He proposed that the temperature of boiling water depends on atmospheric pressure, among others. The Earth is enveloped by a layer of gas, or what we call the atmosphere. This gaseous envelope has weight and would exert a downward force on everything underneath it. This pressure is called atmospheric ",
+      "title": "What Is the Boiling Point of Water in Kelvin, Celsius, and Fahrenheit?",
+      "url": "https://howchimp.com/what-is-the-boiling-point-of-water/",
+      "source": "howchimp.com",
+      "provider": "web",
+      "published": "2020-12-27 14:35:24+00:00",
+      "retrieved": "2025-10-08 03:08:31.724826",
+      "extra": {
+        "snippet": "What is the boiling /condensation point of water in ... Conclusion – What Is the Boiling Point of Water in Kelvin, Celsius , and Fahrenheit ?"
+      }
+    }
+  ]
+}

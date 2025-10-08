@@ -1,0 +1,88 @@
+{
+  "query": "When did the James Webb Space Telescope launch?",
+  "timestamp": "2025-10-08T03:46:54.153658",
+  "claims": [
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Due to the lapse in federal government funding, NASA is not updating this website.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. As the largest telescope in space, it is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.",
+      "title": "James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:48.029004",
+      "extra": {}
+    },
+    {
+      "text": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories. The Space Telescope Science Institute (STScI) selects Hubble's targets and processes the resulting data, while the Goddard Space Flight Center (GSFC) controls the spacecraft.",
+      "title": "Hubble Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:48.499000",
+      "extra": {}
+    },
+    {
+      "text": "The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021. [ 1 ] [ 2 ] It is intended to be the premier observatory of the 2020s, combining the largest mirror yet on a near-infrared space telescope with a suite of technologically advanced instruments from around the world. [ 3 ] The telescope is designed to last at least five and a half years (six months calibration plus five years science operations), but with a goal of ten years. [ 4 ] The limiting factor is expected to be fuel to maintain its halo orbit , of which there is enough for at least ten years. [ 4 ] It was announced in December 2021 that due to the accuracy of the orbital insertion and course correction burns, the telescope had more fuel available than originally planned and could operate for \"significantly\" longer than the original ten year planned life span. [ 5 ] JWST cost approximately $10 billion in its design, construction, and five years of operations (does not include extended mission funding), as well as international contributions. [ 6 ] [ 7 ] Nearly a month after launch, a trajectory correction was initiated to place the James Webb Space Telescope into a halo orbit at L 2 . [ 48 ] [ 49 ] Its next five months were spent cooling NIRCam and the Mid-Infrared Instrument down further, aligning and calibrating its mirrors while focusing on HD 84406, a bright star in the constellation Ursa Major , and testing the instruments. [ 50 ] [ 51 ] [ 52 ] [ 53 ] Webb's first operational image was the Webb's First Deep Field , released on July 11, 2022, with it being the deepest sharp infrared image of the universe to date. [ 55 ] The rest of the first set of images was released the next day, which include full-color processed images of the Carina Nebula , Southern Ring Nebula , Stephan's Quintet , as well as spectroscopic data of WASP-96b . [ 56 ] [ 57 ]",
+      "title": "Timeline of the James Webb Space Telescope - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:52.217044",
+      "extra": {
+        "snippet": "The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021. [1][2] It is intended to be the premier observatory of the 2020s, combining the largest mirror yet on a near-infrared space telescope with a suite of technologically advanced instruments from around the world."
+      }
+    },
+    {
+      "text": "Due to the lapse in federal government funding, NASA is not updating this website. Even before the Hubble Space Telescope’s launch in 1990, astronomers began posing the question: What is the next step after Hubble? In September 1989, the Space Telescope Science Institute (STScI) and NASA co-hosted the Next Generation Space Telescope Workshop at STScI, bringing together more than 130 astronomers and engineers. The group proposed that NASA investigate the feasibility of a 10-meter, passively cooled, near-infrared telescope in a high-Earth orbit or a 16-meter telescope based on the Moon to study galaxies at high redshift. In 1996, an 18-member committee led by astronomer Alan Dressler formally recommended that NASA develop a space telescope that would view the heavens in infrared light—the wavelength band that enables astronomers to see through dust and gas clouds and extends humanity’s vision farther out into space and back in time. It would have a mirror with a diameter of more than four meters, and operate in an orbit well beyond Earth’s moon. Three teams made up of scientists and engineers from the private and public sectors met to determine whether NASA could realize the committee’s vision. All three came to the conclusion that the proposed telescope would work. NASA agreed in 1997 to fund additional studies to refine the technical and financial requirements for building the telescope. By 2002, the agency had selected the teams to build the instruments and the group of astronomers who would provide construction guidance. Also in 2002, the telescope was formally named the James Webb Space Telescope, after the NASA administrator who led the development of the Apollo program. Engineers and astronomers innovated new ways to meet the Webb telescope’s scientific demands, as well as a mission at an unserviceable distance from Earth. Unlike Hubble, astronauts will not be able to repair and upgrade the telescope. Construction on Webb began in 2004. In 2005, the European Space Agency’s Centre Spatial Guyanais (CSG) spaceport in French Guiana was chosen as the launch site, and an Ariane 5 rocket as the launch vehicle. By 2011, all 18 mirror segments were finished and proven through testing to meet required specifications. Between 2012 and 2013, Webb’s individual pieces, constructed in a variety of locations, began to arrive at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. In 2013, construction of the sunshield layers began. From 2013 to 2016, Webb’s science instruments were subjected to numerous tests of extreme temperature and vibration. From late 2015 to early 2016, all 18 of Webb’s individual mirrors were installed on the telescope’s backplane structure to assemble the 6.6 meter (21.7 feet) mirror. In 2017, the mirrors and science instruments were connected and tested, then shipped to NASA’s Johnson Space Center in Houston, Texas. Additional environmental tests of the coupled telescope and instrument assembly occurred in a giant thermal va",
+      "title": "Webb Mission Timeline - NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/webb-mission-timeline/",
+      "source": "nasa.gov",
+      "provider": "web",
+      "published": "2025-08-29 12:16:57-04:00",
+      "retrieved": "2025-10-08 03:46:53.132133",
+      "extra": {
+        "snippet": "Sep 9, 2025 · NASA’s James Webb Space Telescope launched at 7:20 a.m. EST on an Ariane 5 rocket from Europe's Spaceport in French Guiana, South America. Ground teams began receiving telemetry data from Webb about five minutes after launch."
+      }
+    }
+  ]
+}

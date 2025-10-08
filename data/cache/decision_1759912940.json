@@ -1,0 +1,109 @@
+{
+  "query": "Who discovered penicillin?",
+  "timestamp": "2025-10-08T03:42:20.957812",
+  "claims": [
+    {
+      "sentence": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Sir Alexander Fleming was a Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Subscribe to topic Subscribe to author Print Article PDF The age of antibiotics began in September 1928, with the discovery of penicillin by Alexander Fleming (1881-1955), then a professor of bacteriology at St. Mary's Hospital in London.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Network with colleagues and access the latest research in your field ACS Spring 2026 Atlanta, GA. & Virtual March 22 - 26, 2026 Launch and grow your career with career services and resources Explore Career Options Let ACS help you navigate your career journey with tools, personal coaching and networking.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Most penicillins in clinical use are synthesised by P. chrysogenum using deep tank fermentation and then purified. A number of natural penicillins have been discovered, but only two purified compounds are in clinical use: penicillin G and penicillin V. Penicillins were among the first medications to be effective against many bacterial infections caused by staphylococci and streptococci. They are still widely used today for various bacterial infections, though many types of bacteria have developed resistance following extensive use.",
+      "title": "Penicillin",
+      "url": "https://en.wikipedia.org/wiki/Penicillin",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:16.061311",
+      "extra": {}
+    },
+    {
+      "text": "Sir Alexander Fleming was a Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin. His discovery in 1928 of what was later named benzylpenicillin from the mould Penicillium rubens has been described as the \"single greatest victory ever achieved over disease\". For this discovery, he shared the Nobel Prize in Physiology or Medicine in 1945 with Howard Florey and Ernst Chain.",
+      "title": "Alexander Fleming",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:16.519913",
+      "extra": {}
+    },
+    {
+      "text": "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Primary site navigation Logged in as: Correspondence: Prof Tan Siang Yong, 2226 Liliha Street, Suite B-104, Honolulu, HI 96817, USA. siang@hawaii.edu “ I did not invent penicillin. Nature did that. I only discovered it by accident .” Alexander Fleming was a Scottish physician-scientist who was recognised for discovering penicillin. The simple discovery and use of the antibiotic agent has saved millions of lives, and earned Fleming – together with Howard Florey and Ernst Chain, who devised methods for the large-scale isolation and production of penicillin – the 1945 Nobel Prize in Physiology/Medicine. On August 6, 1881, Alexander Fleming was born to Hugh Fleming and Grace Stirling Morton in Lochfield Farm, Scotland. Initially schooled in Scotland, Fleming eventually moved to London with three brothers and a sister, and completed his youth education at the Regent Street Polytechnic. He did not enter medical school immediately after; instead, he worked in a shipping office for four years. When his uncle John died, he willed equal shares of his estate to his siblings, nieces and nephews, and Fleming was able to use his share to pursue a medical education. In 1906, he graduated with distinction from St Mary’s Medical School at London University. Fleming did not intend to begin a career in research. While serving as a private in the London Scottish Regiment of the Territorial Army, he became a recognised marksman. Wishing to keep Fleming in St Mary’s to join its rifle club, the club’s captain convinced him to pursue a career in research rather than in surgery, as the latter choice would require him to leave the school. The captain introduced him to Sir Almroth Wright, a keen club member and a pioneer in immunology and vaccine research, who agreed to take Fleming under his wing. It was with this research group that Fleming stayed throughout his entire career. When World War I broke out, Fleming served in the Army Medical Corps as a captain. During this time, he observed the death of many of his fellow soldiers, not always from wounds inflicted in battle, but from the ensuing infection that could not be controlled. The primary means to combat infection was antiseptics, which frequently did more harm than good. In an article he wrote during this time, Fleming discussed the presence of anaerobic bacteria in deep wounds, which proliferated despite antiseptics. Initially, his research was not accepted, but Fleming continued undaunted and in 1922, he discovered lysozyme, an enzyme with weak antibacterial properties. History tells us that, while infected with a cold, Fleming transferred some of his nasopharynge",
+      "title": "Alexander Fleming (1881–1955): Discoverer of penicillin - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4520913/",
+      "source": "nih.gov",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:19.817808",
+      "extra": {
+        "snippet": "Alexander Fleming was a Scottish physician-scientist who was recognised for discovering penicillin . The simple discovery and use of the antibiotic agent has saved millions of lives, and earned Fleming - together with Howard Florey and Ernst Chain, who devised methods for the large-scale isolation and production of penicillin - the 1945 Nobel Prize in Physiology/Medicine."
+      }
+    },
+    {
+      "text": "Subscribe to topic Subscribe to author Print Article PDF The age of antibiotics began in September 1928, with the discovery of penicillin by Alexander Fleming (1881-1955), then a professor of bacteriology at St. Mary's Hospital in London. Previously there were no effective treatments against a range of bacterial infections from pneumonia to sepsis. Penicillin became the basis for curing bacterial infections including smallpox, cholera, tuberculosis, scarlet fever, pneumonia, gonorrhea, meningitis, and diphtheria. Later antibiotics would form a class of medicines designed to combat, and cure, bacterial infections but also prevent the further growth of such infections. The use of fungi and molds, which contain antibacterial substances, to treat bacterial infections can be traced back to ancient cultures around the world, but these early attempts were unable to identify the component that provided the medicinal effect. Joseph Lister (1827-1912), an English surgeon and the \"Father of antisepsis,\" recognized the antibacterial component of mold, but did not publish his findings. In the 1870s, Robert Koch (1843-1910), a German biologist, and Louis Pasteur (1825-1895) and Jules Francois Joubert (1834-1910), two French biologists, discovered the germ theory , which established that particular bacteria cause specific diseases. Additionally, they proved that the effects of introducing certain bacteria to various cultures inhibited the growth of more deadly bacteria. The discovery of penicillin represented a turning point in medical history while Fleming would later be recognized by Time magazine as one of the most influential people of the 20th century: When I woke up just after dawn on September 28, 1928 I certainly didn't plan to revolutionize all medicine by discovering the world's first antibiotic, or bacteria killer. But I suppose that is exactly what I did. Alexander Fleming joined the Royal Army Medical Corps during World War I (1914-18). Working primarily in hospitals located on the Western Front, Fleming was exposed to the horrific injuries suffered by troops, especially from explosions from artillery and mortars. As a result of those wounds, soldiers developed sepsis, often dying from that blood infection. Fleming began studying both the wounds and treatments used to combat infections. Fleming's research proved that the Lister approach, aka Lister Antisepsis System named after Joseph Lister who first applied the germ theory to wounds and surgery, which treated wounds with antiseptics like iodine and carbolic acid did not penetrate far enough into the deepest wounds, thus not killing all of the harmful bacteria. In fact, the Lister system contributed to higher casualty rates as the antiseptics also killed natural therapeutic characteristics. Fleming's findings about the Lister system and war wounds were published in a 1917 edition of the Lancet but largely ignored by most frontline doctors. Fleming recommended that the antiseptics be used with a hi",
+      "title": "Discovery of Penicillin - World History Encyclopedia",
+      "url": "https://www.worldhistory.org/article/2490/discovery-of-penicillin/",
+      "source": "worldhistory.org",
+      "provider": "web",
+      "published": "2024-06-20 08:55:49+00:00",
+      "retrieved": "2025-10-08 03:42:20.388283",
+      "extra": {
+        "snippet": "Learn how Alexander Fleming discovered penicillin , the first antibiotic, in 1928 and how he faced skepticism and challenges in developing it. Find out the background, application, and impact of penicillin on medical history."
+      }
+    },
+    {
+      "text": "Network with colleagues and access the latest research in your field ACS Spring 2026 Atlanta, GA. & Virtual March 22 - 26, 2026 Launch and grow your career with career services and resources Explore Career Options Let ACS help you navigate your career journey with tools, personal coaching and networking. Promoting excellence in science education and outreach ACS-Hach Programs Learn about financial support for future and current high school chemistry teachers. Find a chemistry community of interest and connect on a local and global level. ACS Divisions Collaborate with scientists in your field of chemistry and stay current in your area of specialization. Explore the interesting world of science with articles, videos and more. Reactions: Chemistry Science Videos Uncover the Chemistry in Everyday Life Celebrating and advancing your work with awards, grants, fellowships & scholarships. ChemLuminary Awards Recognizing ACS local sections, divisions and other volunteers for their work in promoting chemistry. Designated November 19, 1999, at the Alexander Fleming Laboratory Museum in London, U.K. Also recognized at the U.S. Department of Agriculture National Center for Agricultural Utilization Research in Peoria, Ill., and the five American pharmaceutical companies that contributed to penicillin production research during WWII: Abbott Laboratories, Lederle Laboratories (now Pfizer, Inc.), Merck & Co., Inc., Chas. Pfizer & Co. Inc. (now Pfizer, Inc.) and E.R. Squibb & Sons (now Bristol-Myers Squibb Company). Commemorative Booklet (PDF) In Arabic: اكتشاف البنسلين وتطويره In Mandarin: 青霉素的发现与发展 In Spanish: Descubrimiento y desarrollo de la penicilina The introduction of penicillin in the 1940s, which began the era of antibiotics, has been recognized as one of the greatest advances in therapeutic medicine. The discovery of penicillin and the initial recognition of its therapeutic potential occurred in the United Kingdom, but, due to World War II, the United States played the major role in developing large-scale production of the drug, thus making a life-saving substance in limited supply into a widely available medicine. Penicillin heralded the dawn of the antibiotic age. Before its introduction there was no effective treatment for infections such as pneumonia, gonorrhea or rheumatic fever. Hospitals were full of people with blood poisoning contracted from a cut or a scratch, and doctors could do little for them but wait and hope. Antibiotics are compounds produced by bacteria and fungi which are capable of killing, or inhibiting, competing microbial species. This phenomenon has long been known; it may explain why the ancient Egyptians had the practice of applying a poultice of moldy bread to infected wounds. But it was not until 1928 that penicillin, the first true antibiotic, was discovered by Alexander Fleming, Professor of Bacteriology at St. Mary's Hospital in London. Returning from holiday on September 3, 1928, Fleming began to sort through petri dishe",
+      "title": "Alexander Fleming Discovery and Development of Penicillin - Landmark - American Chemical Society",
+      "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "source": "acs.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:20.950812",
+      "extra": {
+        "snippet": "Learn how Fleming discovered penicillin in 1928 and how it was developed into a life-saving drug during WWII. Explore the history, chemistry and landmarks of penicillin production and use."
+      }
+    }
+  ]
+}

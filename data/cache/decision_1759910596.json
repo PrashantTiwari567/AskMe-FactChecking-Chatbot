@@ -1,0 +1,130 @@
+{
+  "query": "What does HTTP stand for?",
+  "timestamp": "2025-10-08T03:03:16.388819",
+  "claims": [
+    {
+      "sentence": "A non sequitur is a conversational literary device, often used for comedic purposes.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Anthony Patrick Carr is an Irish-British comedian.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "This is an accepted version of this page Hypertext Transfer Protocol Secure ( HTTPS ) is an extension of the Hypertext Transfer Protocol (HTTP).",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "HTTP ( RFC 2068 ) is an essential technology for transferring and translating information online.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Author Marko Krstic Bob : Hey Alice, you are working with computers and building web applications, right?",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "HTTP Stands for H yper T ext T ransfer P rotocol.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "A non sequitur is a conversational literary device, often used for comedic purposes. It is something said that, because of its apparent lack of meaning relative to what preceded it, seems absurd to the point of being humorous or confusing. This use of the term is distinct from the non sequitur in logic, where it is a fallacy.",
+      "title": "Non sequitur (literary device)",
+      "url": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:03:10.570884",
+      "extra": {}
+    },
+    {
+      "text": "James Anthony Patrick Carr is an Irish-British comedian. He began his career in 1997 with a series of successful stand-up performances. He has regularly appeared on television as the host of Channel 4 panel shows such as The Big Fat Quiz of the Year, 8 Out of 10 Cats (2005–2021), and 8 Out of 10 Cats Does Countdown. Carr is known for his rapid-fire deadpan delivery of one-liners.",
+      "title": "Jimmy Carr",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carr",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:03:11.100650",
+      "extra": {}
+    },
+    {
+      "text": "This is an accepted version of this page Hypertext Transfer Protocol Secure ( HTTPS ) is an extension of the Hypertext Transfer Protocol (HTTP). It uses encryption for secure communication over a computer network , and is widely used on the Internet . [ 1 ] [ 2 ] In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS , [ 3 ] or HTTP over SSL . The principal motivations for HTTPS are authentication of the accessed website and protection of the privacy and integrity of the exchanged data while it is in transit. It protects against man-in-the-middle attacks , and the bidirectional block cipher encryption of communications between a client and server protects the communications against eavesdropping and tampering . [ 4 ] [ 5 ] The authentication aspect of HTTPS requires a trusted third party to sign server-side digital certificates . This was historically an expensive operation, which meant fully authenticated HTTPS connections were usually found only on secured payment transaction services and other secured corporate information systems on the World Wide Web . In 2016, a campaign by the Electronic Frontier Foundation with the support of web browser developers led to the protocol becoming more prevalent. [ 6 ] HTTPS is since 2018 [ 7 ] used more often by web users than the original, non-secure HTTP, primarily to protect page authenticity on all types of websites, secure accounts, and keep user communications, identity, and web browsing private. The Uniform Resource Identifier (URI) scheme HTTPS has identical usage syntax to the HTTP scheme. However, HTTPS signals the browser to use an added encryption layer of SSL/TLS to protect the traffic. SSL/TLS is especially suited for HTTP, since it can provide some protection even if only one side of the communication is authenticated . This is the case with HTTP transactions over the Internet, where typically only the server is authenticated (by the client examining the server's certificate ). HTTPS creates a secure channel over an insecure network. This ensures reasonable protection from eavesdroppers and man-in-the-middle attacks , provided that adequate cipher suites are used and that the server certificate is verified and trusted. Because HTTPS piggybacks HTTP entirely on top of TLS, the entirety of the underlying HTTP protocol can be encrypted. This includes the request's URL , query parameters, headers, and cookies (which often contain identifying information about the user). However, because website addresses and port numbers are necessarily part of the underlying TCP/IP protocols, HTTPS cannot protect their disclosure. In practice this means that even on a correctly configured web server, eavesdroppers can infer the IP address and port number of the web server, and sometimes even the domain name (e.g. www.example.org, but not the rest of the URL) that a user is communic",
+      "title": "HTTPS - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HTTPS",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:03:14.099725",
+      "extra": {
+        "snippet": "HTTPS is also important for connections over the Tor network , as malicious Tor nodes could otherwise damage or alter the contents passing through ..."
+      }
+    },
+    {
+      "text": "HTTP ( RFC 2068 ) is an essential technology for transferring and translating information online. HTTP and web servers are part of a sysadmin’s life, but we don’t always have the time to deep dive into how it works. That’s where this article comes in. What follows is a primer on HTTP : what it is, how it’s used, what its limitations are, and how we, as sysadmins, can better use it for more secure browsing. HTTP stands for Hypertext Transfer Protocol. It’s an application protocol for hypermedia information systems that facilitates the communication of data on the World Wide Web. In essence, it’s the way in which information is sent from a user’s web browser to the website they’re visiting. It was invented alongside HTML in the years 1989-1991 by Tim Berners-Lee at CERN. Initially used to create the first interactive, text-based browser it remains today as one of the primary means of using the internet. HTTP standards are developed by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF), resulting in the publication of a series of Requests for Comments (RFCs). HTTP has four versions: HTTP/1.1 is the most commonly used version today however HTTP/2.0 is a promising up-and-comer. HTTP has seen three main iterations since its inception. The initial version of HTTP, HTTP/0.9 was a simple client-server, request-response, Telenet-friendly protocol. It sported a single-line request nature and supported GET methods only. HTTP/1.0 was the first browser-friendly protocol. It provided header fields including metadata about both request and response. It supported GET, HEAD, and POST methods with responses no longer limited to hypertext. The most commonly used protocol today, HTTP/1.1 introduced critical performance optimizations and feature enhancements, including: It supports GET, HEAD, POST, PUT, DELETE, TRACE, and OPTIONS methods. HTTPS stands for Hypertext Transfer Protocol Secure. It’s essentially the same concept as HTTP but with one major difference: security. Instead of using its own application layer protocol, it uses different protocols called Transport Layer Security (TLS) and Secure Sockets Layer (SSL). Both TLS and SSL act as secure “tunnels” through which information travels to get to a user’s browser. They also encrypt the information sent, making it harder to crack and read if it is intercepted. The majority of browsers nowadays support HTTPS for more secure browsing. Mozilla Firefox, Google Chrome, and Internet explorer all display a padlock icon to denote a secure HTTPS connection. Both protocols have their uses on the web, but HTTPS is fast becoming the preferred method by which to deliver and receive information online. Not only is it more secure, browsers like Google Chrome actually parse digital data faster over HTTPS. This is because the information is more trusted and doesn’t have to be cached and scanned before delivery. HTTPS is also preferred by search engines like Google. Faster load times and lower boun",
+      "title": "What does HTTP stand for? - DevOps Squad",
+      "url": "https://elevenguard.com/blog/what-does-http-stand-for/",
+      "source": "elevenguard.com",
+      "provider": "web",
+      "published": "2021-07-22 08:14:57+00:00",
+      "retrieved": "2025-10-08 03:03:15.100165",
+      "extra": {
+        "snippet": "Home What does HTTP stand for ? ... What does HTTP stand for ? ... HTTP standards are developed by the World Wide Web Consortium (W3C) and the Internet ..."
+      }
+    },
+    {
+      "text": "Author Marko Krstic Bob : Hey Alice, you are working with computers and building web applications, right? Alice : Hey Bob, yes, that's true. Bob : Cool. I have been using the internet for a long time and noticed that HTTP is everywhere, but I've no idea what it is. Could you please explain it to me? Alice : Sure. HTTP is Hypertext Transfer Protocol. Bob : Ummm, sorry? Alice : Hypertext Transfer Protocol is a protocol for distributed information systems that allows different parties to communicate and exchange data on the Web. Bob : I am not quite sure I understood you. Alice : Alright, let's imagine the following scenario: You meet your good friend on the street; what would you say in that situation? Bob : I'd probably say something like: Hey bro, what's up? All good? You have time to grab a beer? Alice : Yes, and he would respond like, Hey man, long time no see. Sure, let's have a beer. Bob : Yes, probably Alice : Would you repeat the same sentence to an unknown lady who is supposed to interview you for a new job? Bob: : Absolutely not. Alice: : Why not? Bob: : Because it's not a proper way to greet an unknown person; It can also be rude. I wouldn't talk with two different persons the same way. Alice: : Correct. Depending on who you talk to, different rules of the conversation apply. Defined rules of a conversation are usually called a protocol. So, there would be one protocol (the way) for talking to your friend and another for an unknown person. Bob : Yes, I get it. Basically, the protocol is a set of rules on how to talk to someone. One protocol is used for talking to a friend, another to an unknown person, the third one in some other case, etc. Alice : That's right. Let's go back to our problem. Do you know that computers can talk to each other? Bob : Really? Alice : Well, not like humans do, but in some way, yes. Let's say you want to visit one website. You normally type the URL in your favorite browser and press the enter key. In the background, your computer \"talks\" to the website you would like to visit. Your computer sends a message to the website asking for the desired page. Then the website (to be more precise, a server where the website sits, but for the sake of simplicity, we will say the website) responds with a message. Then your browser knows how to read and present the message. Now you can see the website in your browser. Sometimes we refer to these messages and call them data. Is it clear so far? Bob : Yes, it's clear. That means my computer is asking something, and the website is responding to it with an answer. Like humans, two parties are involved in the communication, in this case, my computer and the website, exchanging messages or data. Alice : A good catch, Bob. Two parties are involved in the communication, your computer and the website. Your computer initiates a conversation and asks to see the website, and the website responds and allows you to see it. Since your browser and the website are not sitting on the same com",
+      "title": "What does HTTP stand for, and what is it?",
+      "url": "https://www.cyberoutput.net/blog/what-does-http-stand-for",
+      "source": "cyberoutput.net",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:03:15.792106",
+      "extra": {
+        "snippet": "What does HTTP stand for , and what is it? ... Bob : So, does that mean that the HTTP protocol defines what these two messages should look like? I ..."
+      }
+    },
+    {
+      "text": "HTTP Stands for H yper T ext T ransfer P rotocol. It is a protocol used to request, view and transfer files across the internet. HTTP is the most important protocol on the World Wide Web and it is how web pages are accessed. This is why URLs begin with http:// - to let the browser know you are making an HTTP request. HTTP requires a client program at one end (e.g. a browser such as Internet Explorer or Mozilla) and an HTTP server at the other end. For more information about this system, see How the Internet Works . See also: HTTP Status Codes",
+      "title": "HTTP",
+      "url": "https://www.mediacollege.com/internet/http/",
+      "source": "mediacollege.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:03:16.376831",
+      "extra": {
+        "snippet": "HTTP Stands for H yper T ext T ransfer P rotocol. ... HTTP is the most important protocol on the World Wide Web and it is how web pages are accessed."
+      }
+    }
+  ]
+}

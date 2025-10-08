@@ -1,0 +1,109 @@
+{
+  "query": "What is the capital city of Canada?",
+  "timestamp": "2025-10-08T03:42:58.854994",
+  "claims": [
+    {
+      "sentence": "Ottawa is the capital city of Canada.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A capital city, or just capital, is the municipality holding primary status in a country, state, province, department, or other subnational division, usually as its seat of the government.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Ottawa sits in eastern Ontario at the confluence of the Ottawa and Rideau rivers, directly across from Gatineau, Québec.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "General Education Whether you’re preparing for a geography exam or simply want to learn more about your friendly neighbor to the north, we’ve got you covered.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Ottawa is the capital city of Canada. It is located in the southern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River. Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2021, Ottawa had a city population of 1,017,449 and a metropolitan population of 1,488,307, making it the fourth-largest city and fourth-largest metropolitan area in Canada.",
+      "title": "Ottawa",
+      "url": "https://en.wikipedia.org/wiki/Ottawa",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:53.133678",
+      "extra": {}
+    },
+    {
+      "text": "A capital city, or just capital, is the municipality holding primary status in a country, state, province, department, or other subnational division, usually as its seat of the government. A capital is typically a city that physically encompasses the government's offices and meeting places; the status as capital is often designated by its law or constitution. In some jurisdictions, including several countries, different branches of government are in different settlements, sometimes meaning multiple official capitals. In some cases, a distinction is made between the official (constitutional) capital and the seat of government, which is in another place.",
+      "title": "Capital city",
+      "url": "https://en.wikipedia.org/wiki/Capital_city",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:53.591268",
+      "extra": {}
+    },
+    {
+      "text": "Ottawa sits in eastern Ontario at the confluence of the Ottawa and Rideau rivers, directly across from Gatineau, Québec. Together they form the Ottawa–Gatineau Census Metropolitan Area (CMA) and the legally defined National Capital Region (NCR). The city’s compact downtown clusters around Parliament Hill, while suburbs stretch along the Greenbelt and into both provinces. As of the 2021 Census, the City of Ottawa had 1,017,449 residents; the wider CMA registered 1,488,307, making it Canada’s fourth-largest metro area. These figures come from Statistics Canada and are the most comparable across cities; more recent 2024 estimates show continued growth, driven largely by immigration to major metropolitan areas. Downtown Ottawa lies near 45.4215° N, 75.6972° W at roughly 230 ft (70 m) above sea level. The city center is roughly 124 mi (200 km) from Montréal and about 280 mi (450 km) from Toronto by road. The Ottawa and Rideau waterways shaped the settlement, with the Rideau Canal linking the Ottawa River to Lake Ontario at Kingston. Before Ottawa, legislators shuttled between Kingston, Montréal, Toronto, and Québec City, sparking years of rivalry. In 1857, the Province of Canada asked Queen Victoria to choose a permanent seat. On 31 December 1857, she selected Ottawa—remote enough to be defensible (especially after the War of 1812), yet positioned between Canada West (Ontario) and Canada East (Québec), a political compromise between English and French Canada. Construction of Parliament Buildings began in 1859. By 1866, legislators held sessions in Ottawa’s new Centre, East, and West Blocks. One year later, on 1 July 1867, the Dominion of Canada was born, and Ottawa continued as the national capital. Local archives document how Bytown (founded 1826) became Ottawa (incorporated 1855) and how the decision was communicated by Colonial Secretary Henry Labouchere’s letter of 31 December 1857. City of Ottawa Archives (PDF) ; The choice balanced strategy and unity: Ottawa’s inland, cliff-top setting was easier to defend than border cities, and its location on the Ontario–Québec line symbolized a bilingual, bicultural state. Water routes via the Ottawa River and the Rideau Canal also linked it to Montréal and Kingston. Parliament Hill—overlooking the Ottawa River—is the symbolic heart of Canada’s democracy. The Hill houses the Senate and House of Commons in Gothic Revival buildings on landscaped grounds. It remains the site of national ceremonies, Canada Day events, and public gatherings, and it’s administered in part by the National Capital Commission (NCC). Ottawa also embodies Canada’s bilingual identity. While Canada’s official languages are English and French, the municipality has its own bilingualism by-law that guarantees city services in both languages, reaffirmed by provincial legislation. Street signs, transit information, and City Hall services are routinely available in English and French. Ottawa’s setting defines its look and lifestyle. The Rideau",
+      "title": "Capital of Canada: Ottawa – Facts & Why It Was Chosen",
+      "url": "https://geographypin.com/capital-of-canada-ottawa/",
+      "source": "geographypin.com",
+      "provider": "web",
+      "published": "2025-09-25 13:48:51+00:00",
+      "retrieved": "2025-10-08 03:42:57.593183",
+      "extra": {
+        "snippet": "What is capital of Canada ? Ottawa is Canada ’s capital city , chosen by Queen Victoria on 31 December 1857 for its defensible location and position between English-speaking Ontario and French-speaking Québec."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. Ottawa , city, capital of Canada , located in southeastern Ontario . In the eastern extreme of the province, Ottawa is situated on the south bank of the Ottawa River across from Gatineau , Quebec , at the confluence of the Ottawa (Outaouais), Gatineau , and Rideau rivers. The Ottawa River (some 790 miles [1,270 km] long), the principal tributary of the St. Lawrence River , was a key factor in the city’s settlement and development; its watershed, covering more than 57,000 square miles (148,000 square km), facilitated the transport of resources such as furs, timber, and minerals from the region. The river’s Chaudière Falls, just west of the Rideau Canal , while initially a navigational hazard for the fur trade and later for the transport of logging rafts, ultimately proved to be an asset in the production of hydroelectric power for the city and a boon to the growth of industry. Originally a trading and lumbering community that grew into a town of regional significance, Ottawa was named the capital of the Province of Canada in 1857 and retained that status when Canada became a dominion within the British Commonwealth in 1867. Because of its location on the boundary between English-speaking Ontario and French-speaking Quebec and its position as national capital, Ottawa is one of the most bilingual cities in the country. Area, 1,077 square miles (2,790 square km); Ottawa-Gatineau metro. area, 2,427 square miles (6,287 square km). Pop. (2011) 883,391; Ottawa-Gatineau metro. area, 1,254,919; (2021) 1,017,449; Ottawa-Gatineau metro. area, 1,488,307. The earliest inhabitants of the Ottawa region were members of the Algonquin First Nation (Native Americans), who established settlements in the Ottawa River valley. The tribe known as the Ottawa (Outaouais), however, settled in the area for only a short period during the mid-1600s; their traditional territory was considerably farther west on Lake Huron . They were well known as traders (the name Ottawa is believed to be derived from an Algonquian word meaning “to trade”), and they took part in the local fur trade. The first descriptions of Ottawa’s future site were written in 1613 by the founder of New France , Samuel de Champlain . The rivers served as passageways for explorers and fur traders over the following two centuries. In 1763 France ceded all of New France east of the Mississippi River to Great Britain under the Treaty of Paris . The Napoleonic Wars (1792–1815) increased Britain’s need for shipbuilding timber, and the Ottawa River valley offered just such resources. In 1800 a group of farmers from Massachusetts led by Philemon Wright established the area’s first permanent town, Wrightsville, north of the Ottawa River. (It was incorporated in 1875 as the city of Hull , now part of Gatineau.) Wright began harvesting trees in 1806, giving rise to a timber trade that attracted lumberjacks and other itinerant worke",
+      "title": "Ottawa | History, Facts, Map, & Points of Interest | Britannica",
+      "url": "https://www.britannica.com/place/Ottawa",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:58.257393",
+      "extra": {
+        "snippet": "Ottawa, city , capital of Canada , located in southeastern Ontario. In the eastern extreme of the province, Ottawa is situated on the south bank of the Ottawa River across from Gatineau, Quebec, at the confluence of the Ottawa (Outaouais), Gatineau, and Rideau rivers. The Ottawa River (some 790 miles [1,270 km] long), the principal tributary of the St. Lawrence River, was a key factor in the city ’s settlement and development; its watershed, covering more than 57,000 square miles (148,000 square km), facilitated the transport of resources such as furs, timber, and minerals from the region. The river’s Chaudière Falls, just west of the Rideau Canal, while initially a navigational hazard for the fur trade and later for the transport of logging rafts, ultimately proved to be an asset in the production of hydroelectric power for the city and a boon to the growth of industry. Originally a trading and lumbering community that grew into a town of regional significance, Ottawa was named the capital of the Province of Canada in 1857 and retained that status when Canada became a dominion within the British Commonwealth in 1867. Because of its location on the boundary between English-speaking Ontario and French-speaking Quebec and its position as national capital , Ottawa is one of the most bilingual cities in the country. Area, 1,077 square miles (2,790 square km); Ottawa-Gatineau metro. area, 2,427 square miles (6,287 square km). Pop. (2011) 883,391; Ottawa-Gatineau metro. area, 1,254,919; (2021) 1,017,449; Ottawa-Gatineau metro. area, 1,488,307. See full list on britannica.com The earliest inhabitants of the Ottawa region were members of the Algonquin First Nation (Native Americans), who established settlements in the Ottawa River valley. The tribe known as the Ottawa (Outaouais), however, settled in the area for only a short period during the mid-1600s; their traditional territory was considerably farther west on Lake Huron. They were well known as traders ( the name Ottawa is believed to be derived from an Algonquian word meaning “to trade”), and they took part in the local fur trade. The first descriptions of Ottawa’s future site were written in 1613 by the founder of New France, Samuel de Champlain. The rivers served as passageways for explorers and fur traders over the following two centuries. In 1763 France ceded all of New France east of the Mississippi River to Great Britain under the Treaty of Paris. The Napoleonic Wars (1792–1815) increased Britain’s need for shipbuilding timber, and the Ottawa River valley offered just such resources. In 1800 a group of farmers from Massachusetts led by Philemon Wright established the area’s first permanent town, Wrightsville, north of the Ottawa River. (It was incorporated in 1875 as the city of Hull, now part of Gatineau.) Wright began harvesting trees in 1806, giving rise to a timber trade that attracted lumberjacks and other itinerant workers. Permanent settlement on the south bank of the river did not occur until the following decade, when, during the War of 1812 between Britain and the United States, it became apparent that the St. Lawrence River between Montreal and Kingston, Ontario, was vulnerable to attack as both a military and an economic target. The British proposed turning the Rideau River into a canal to serve as an alternate shipping and transportation route, diverting traffic up the Ottawa River to Chaudière Falls and back down to Kingston. Lieut. Col. John By of the Royal Engineers was in charge of constructing the more than 126-mile- (203-km-) long canal (1826–32). He also surveyed and laid out a town site on the south bank as a place of residence for his workers and himself; that village became known as Bytown. It was incorporated as a town in 1850 and as the city of Ottawa in 1855. Britannica Quiz Capital Cities by Continent Quiz, Easier Edition The Rideau Canal was never used as a military route, but its importance in the transportation of timbers, goods, and people was the main factor in the city ’s early growth, especially during the period of high U.S. demand for forest products that lasted through the 1800s. Political unrest within Britain’s Canadian colonies (including armed rebellion in 1837) resulted in Britain’s unification of the separate colonies of Upper and Lower Canada into one province, the Province of Canada (1841). When it came time to designate a capital for united Canada , however, political quarrels between rival cities, such as between Quebec city and Toronto and between Montreal and Kingston, induced leaders to call upon Queen Victoria to settle the question. The queen selected Ottawa in late 1857. Although Ottawa was a strong candidate because of its location and its accessibility by rail, the choice still surprised many, given the city ’s relatively small size and its identification primarily with the processing and distribution of lumber. When the Dominion of Canada was formed a decade later, Ottawa remained the capital , and it continued to grow as a major administrative centre. A large portion of Ottawa was razed by a fire in 1900 that destroyed Hull, and in 1916 another fire consumed most of the Parliament Buildings. Reconstruction began soon afterward, and the Centre Block was completed in 1922. The growth of civil service jobs was slow but expanded in response to events such as World War I, the institution of an income tax, the Great Depression of the 1930s, and World War II. Still, the capital city , to all appearances, remained an industrial pulp and paper mill town, with smokestacks and railways dominating the waterfront. See full list on britannica.com Learn why Ottawa is the capital of Canada and how it became the official seat of government in 1866. Find out the capital cities of all the provinces and territories in Canada and their populations. May 27, 2025 · Ottawa is the capital of Canada , and Toronto, Victoria, Quebec City , Edmonton, Winnipeg, Regina, Halifax, St. John’s, Fredericton, Charlottetown, Yellowknife, Whitehorse and Iqaluit are the 13 provincial and territorial capitals. Ottawa is the capital of Canada and the fourth-largest city in the country. It lies on the Ottawa River, has a humid continental climate, and is home to many government and high-tech industries."
+      }
+    },
+    {
+      "text": "General Education Whether you’re preparing for a geography exam or simply want to learn more about your friendly neighbor to the north, we’ve got you covered. In this guide, we'll answer an important question everyone should know the answer to: what is the capital of Canada? In addition, we'll explain how this place came to be the capital city of Canada and what all the capital cities of the Canadian provinces and territories are currently. The capital of Canada is Ottawa, which is located in Ontario —that is, the province directly above the Great Lakes and the US states of Minnesota, Wisconsin, Michigan, Ohio, and (part of) New York. Ottawa lies on the south bank of the Ottawa River, which runs between and defines the borders of the provinces Ontario and Quebec. Opus Penguin /Flickr Together, Ottawa and the city of Gatineau, which is located directly across from Ottawa in Quebec, make up the National Capital Region called Ottawa-Gatineau. This specially designated region refers to not only the cities themselves but also their surrounding Census Metropolitan Areas. Due to Ottawa’s placement between the primarily English-speaking Ontario and the mostly French-speaking Quebec, it is one of the most bilingual cities in Canada. Below are some quick facts to know about Ottawa, the capital city of Canada: Ottawa has been the capital city of Canada ever since Canada became a self-governing country. But how exactly did it manage to become the capital of Canada — and why? In 1841, what was originally called the Province of Canada (the present-day provinces of Ontario and Quebec) came under British colonial control. The next 16 years witnessed ongoing disputes over what the capital of the new province should be; contenders included Quebec City, Toronto, Montreal, Kingston, and finally Ottawa. Each of these cities held the title of capital of Canada for varying lengths of time. Here is a chronology of exactly how the capital city of Canada changed in just two and a half decades: It was clear already by 1857 that the decision of where to place the capital of Canada was going to be difficult and time-consuming. At this time, Queen Victoria was asked to select the capital city of Canada. Her choice of Ottawa — a fairly small and newly incorporated city — surprised many. Still, Ottawa had a lot of promise: it was starting to experience economic growth and was home to an impressive railway system; it also had a long history of trade due to its location near several rivers. But not everyone agreed with the queen’s pick, which led Toronto to remain the capital for another two years followed by Quebec City for another six years. It wasn’t until 1866 that Ottawa was officially designated the capital city of the Province of Canada and began to hold Parliament. In 1867, the Province of Canada became the Dominion of Canada, making it an official, self-governing colony of the British empire. This also meant that Ottawa was the first (and so far only) official capital of",
+      "title": "Capital City of Canada: Why Ottawa? · PrepScholar",
+      "url": "https://blog.prepscholar.com/what-is-the-capital-of-canada",
+      "source": "prepscholar.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:58.847977",
+      "extra": {
+        "snippet": "Learn why Ottawa is the capital of Canada and how it became the official seat of government in 1866. Find out the capital cities of all the provinces and territories in Canada and their populations."
+      }
+    }
+  ]
+}

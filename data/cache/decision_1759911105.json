@@ -1,0 +1,122 @@
+{
+  "query": "Who founded Tesla Motors?",
+  "timestamp": "2025-10-08T03:11:45.063624",
+  "claims": [
+    {
+      "sentence": "Tesla, Inc. is an American multinational automotive and clean energy company.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning.",
+      "support_evidence_idx": [
+        1,
+        2
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    },
+    {
+      "sentence": "Tesla, Inc. is an American manufacturer of electric automobiles , solar panels, and batteries for cars and home power storage.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "By Q.ai - Powering a Personal Wealth Movement , Former Contributor.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Suzanne is a content marketer, writer, and fact-checker.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Tesla, Inc. is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.",
+      "title": "Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:38.993693",
+      "extra": {}
+    },
+    {
+      "text": "Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning. The company is named after Serbian-American inventor Nikola Tesla. Tesla is the world's leading electric vehicle manufacturer by market cap. As of 2023, Tesla's global vehicle sales were 1.77 million units annually, the 14th-highest total among auto manufacturers worldwide.",
+      "title": "History of Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tesla%2C_Inc.",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:39.590060",
+      "extra": {}
+    },
+    {
+      "text": "Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning . The company is named after Serbian-American inventor Nikola Tesla . Tesla is the world's leading electric vehicle manufacturer by market cap. [ 1 ] As of 2023, Tesla's global vehicle sales were 1.77 million units annually, the 14th-highest total among auto manufacturers worldwide. [ 2 ] Tesla was incorporated (as Tesla Motors) on July 1, 2003, by Martin Eberhard and Marc Tarpenning in San Carlos, California. [ 3 ] [ 4 ] [ 5 ] The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, [ 6 ] and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles . [ 7 ] The AC Propulsion tzero also inspired the company's first vehicle, the Roadster . [ 8 ] [ 9 ] Eberhard said he wanted to build \"a car manufacturer that is also a technology company\", with its core technologies as \"the battery, the computer software, and the proprietary motor\". [ 10 ] Ian Wright was the third employee, joining a few months later. [ 3 ] The three went looking for venture capital (VC) funding in January 2004 [ 3 ] and connected with Elon Musk , who contributed US$6.5 million of the initial ( Series A ) US$7.5 million [ 11 ] round of investment in February 2004 and became chairman of the board of directors. [ 3 ] Musk then appointed Eberhard as the CEO. [ 12 ] J.B. Straubel joined in May 2004 [ 3 ] as the fifth employee. [ 13 ] A lawsuit settlement agreed to by Eberhard and Tesla in September 2009 allows all five (Eberhard, Tarpenning, Wright, Musk and Straubel) to call themselves co-founders. [ 14 ] Musk took an active role within the company and oversaw Roadster product design, but was not deeply involved in day-to-day business operations. [ 15 ] Musk insisted from the beginning on a carbon-fiber-reinforced polymer body and contributed to the car style. [ 16 ] Tesla Motors received the Global Green 2006 product design award for the design of the Tesla Roadster, presented by Mikhail Gorbachev . [ 17 ] Elon Musk, Martin Eberhard, Barney Hatt, Tesla Motors also received the 2007 Index Design award for their design of the Tesla Roadster. [ 18 ] Musk consistently maintained that Tesla's long-term strategic goal was to create affordable mass market electric vehicles. [ 19 ] Tesla's goal was to start with a premium sports car aimed at early adopters before moving into more mainstream vehicles including sedans and affordable compacts. [ 20 ] In February 2005, Musk led Tesla's Series B US$13 million investment round which added Valor Equity Partners to the funding team. [ 21 ] Musk co-led the third, US$40 million round in May 2006 along with Technology Partners. [ 21 ] This round included investment from prominent entrepren",
+      "title": "History of Tesla, Inc. - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tesla,_Inc.",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:42.518485",
+      "extra": {
+        "snippet": "Tesla was founded not by Elon Musk, but rather by Martin Eberhard and Marc Tarpenning in July 2003. The two bootstrapped the fledgling auto company until Elon Musk led the company's US$7.5 million Series A financing round in February 2004."
+      }
+    },
+    {
+      "text": "Tesla, Inc. is an American manufacturer of electric automobiles , solar panels, and batteries for cars and home power storage. It was founded in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning and was named after Serbian American inventor Nikola Tesla . It quickly became one of the most recognizable car brands in the world. Although Tesla is best known for its electric vehicles, it also produces energy storage systems and technology products. As of 2025, its operations comprise three main business areas. For years, Tesla also profited from the sale of regulatory carbon credits—$2.76 billion in 2024 alone—though that revenue stream has been increasingly constrained by changing emissions regulations (particularly those included in the One Big Beautiful Bill Act of 2025) and the broader shift toward zero-emissions vehicles within the industry, which has reduced the need for competitors to purchase such credits. Tesla Motors was formed to develop an electric sports car. Eberhard was Tesla’s chief executive officer (CEO) and Tarpenning its chief financial officer (CFO). Funding for the company was obtained from a variety of sources, most notably PayPal cofounder Elon Musk , who contributed more than $30 million to the new venture and served as chair of the company beginning in 2004. In 2008, Tesla Motors released its first car, the completely electric Roadster . In company tests, it achieved 245 miles (394 km) on a single charge, a range unprecedented for a production electric car . Additional tests showed that its performance was comparable to that of many gasoline-powered sports cars: The Roadster’s body was made of carbon fiber, the lightweight—but stronger than steel—material used in many of the world’s top supercars. Plus, the automobile produced no tailpipe emissions, as it did not use an internal-combustion engine . Its electric motor was powered by lithium - ion cells—often used in laptop computer batteries—that could be recharged from a standard electrical outlet. Despite a federal tax credit of $7,500 that applied to purchasing an electric vehicle, the Roadster’s cost of $109,000 made it a luxury item. In late 2007, Eberhard resigned as CEO and president of technology and joined the advisory board of the company. He formally left Tesla in 2008 but remained a shareholder. Tarpenning, who was vice president of electrical engineering, supervising the development of electronic and software systems for the Roadster, also left the company in 2008. Musk took over as CEO. In 2010, Tesla’s initial public offering raised some $226 million.",
+      "title": "Tesla, Inc. | History, Cars, Elon Musk, & Facts | Britannica Money",
+      "url": "https://www.britannica.com/money/Tesla-Motors",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:43.298826",
+      "extra": {
+        "snippet": "Tesla, Inc. is an American manufacturer of electric automobiles, solar panels, and batteries for cars and home power storage. It was founded in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning and was named after Serbian American inventor Nikola Tesla."
+      }
+    },
+    {
+      "text": "By Q.ai - Powering a Personal Wealth Movement , Former Contributor. Tesla has driven a long, potholed road to success. Since its 2010 IPO, the famous (and occasionally infamous) auto manufacturer has enjoyed stratospheric highs, cratered to purgatorial lows and rumbled over everything in-between. Through its ups and downs, the company has broken records and brought electric vehicles into the mainstream. Now, 18 years after its founding and 12 years after going public, Tesla is preparing for a fully-electric, fully-autonomous future. But the road here hasn’t been easy—and the journey isn’t over yet. Let’s take a look at Tesla’s history by way of its major innovations. Tesla was founded in July 2003 by a pair of engineers, Martin Eberhard and Marc Tarpenning, in San Carlos, California. Originally called Tesla Motors, the company was named after famous Serbian-American physicist Nikola Tesla. At its founding, Eberhard claimed the title of CEO, while Tarpenning served as Tesla’s CFO. According to Eberhard , Tesla was to become “a car manufacturer that is also a technology company,” centered around crucial technologies like “the battery, the computer software and the proprietary motor.” Their ultimate goal: to engineer and mass produce a 100% electric vehicle (EV) that refused to compromise on mileage or comfort. Nowadays, it’s hard to separate the mercurial Elon Musk from Tesla’s image. But the famous entrepreneur didn’t join up with Tesla until 2004, when he contributed $6.5 million in initial funding. Musk’s contribution—and interest—compelled him to join Tesla’s Board of Directors as chairman. The year 2006 was a busy one for Tesla. After two years of strategizing and tinkering, Elon Musk spearheaded two new rounds of funding. Series B raised $13 million and added Valor Equity Partners to the funding team, previously composed of Musk, Compass Technology Partners and SDL Ventures. A few months later, Musk co-led the Series C round , raking in $40 million from prominent figures like Google co-founders Larry Page and Sergey Brin, JPMorgan Chase’s Bay Area Equity Fund and former eBay president Jeff Skoll. Musk would later champion a fourth funding round in May 2007 , bringing total private financing to $105 million. Tesla revealed its first prototype in Santa Monica, California to an invitation-only crowd of 350 people. The original Tesla Roadster used a lithium-ion battery pack and boasted a driving range of nearly 250 miles. Customers—including a few famous names like George Clooney—laid down $100,000 to secure one of the first units in production. The then-expected release date was sometime in 2007. Two months later, Musk published “ The Secret Tesla Motors Master Plan (Just Between You and Me) .” The company’s long-term mission: “To help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy,” heralded by “a wide range of models, including affordably priced family cars.” Tesla co-founder Martin Eberhard resigne",
+      "title": "Tesla: A History Of Innovation (and Headaches)",
+      "url": "https://www.forbes.com/sites/qai/2022/09/29/tesla-a-history-of-innovation-and-headaches/",
+      "source": "forbes.com",
+      "provider": "web",
+      "published": "2022-09-29 00:00:00",
+      "retrieved": "2025-10-08 03:11:44.257611",
+      "extra": {
+        "snippet": "Stock Price: Pre-IPO Tesla was founded in July 2003 by a pair of engineers, Martin Eberhard and Marc Tarpenning, in San Carlos, California. Originally called Tesla Motors , the company was named after famous Serbian-American physicist Nikola Tesla . At its founding, Eberhard claimed the title of CEO, while Tarpenning served as Tesla ’s CFO. According to Eberhard, Tesla was to become “a car manufacturer that is also a technology company,” centered around crucial technologies like “the battery, the computer software a... See full list on forbes.com Stock Price: Pre-IPO Nowadays, it’s hard to separate the mercurial Elon Musk from Tesla ’s image. But the famous entrepreneur didn’t join up with Tesla until 2004, when he contributed $6.5 million in initial funding. Musk’s contribution—and interest—compelled him to join Tesla ’s Board of Directors as chairman. See full list on forbes.com Stock Price: Pre-IPO The year 2006 was a busy one for Tesla . After two years of strategizing and tinkering, Elon Musk spearheaded two new rounds of funding. Series B raised $13 million and added Valor Equity Partners to the funding team, previously composed of Musk, Compass Technology Partners and SDL Ventures. A few months later, Musk co-led the Series C round, raking in $40 million from prominent figures like Google co-founders Larry Page and Sergey Brin, JPMorgan Chase’s Bay Area Equity Fund and former eBay pr... See full list on forbes.com Stock Price: Pre-IPO Tesla revealed its first prototype in Santa Monica, California to an invitation-only crowd of 350 people. The original Tesla Roadster used a lithium-ion battery pack and boasted a driving range of nearly 250 miles. Customers—including a few famous names like George Clooney—laid down $100,000 to secure one of the first units in production. The then-expected release date was sometime in 2007. See full list on forbes.com Stock Price: Pre-IPO Two months later, Musk published “The Secret Tesla Motors Master Plan (Just Between You and Me).” The company’s long-term mission: “To help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy,” heralded by “a wide range of models, including affordably priced family cars.” See full list on forbes.com Stock Price: Pre-IPO Tesla co-founder Martin Eberhard resigned as CEOat the request of the Board of Directors. He remained on the company’s advisory board and moved to the role of President of Technology for a short time. He was briefly succeeded by early Tesla investor Michael Marks. See full list on forbes.com Stock Price: Pre-IPO Marks didn’t last long in the role, stepping down just a few months later. At the end of November 2007, Israeli engineer Ze’ev Drori was tappedto helm Tesla . His primary task was to bring the already-delayed Roadster to market by Q1 2008. See full list on forbes.com Stock Price: Pre-IPO In January 2008, former Tesla CEO and co-founder Martin Eberhard officially left the company. Co-founder Marc Tarpenning, who served first as CFO and then Vice President of Electrical Engineering, bowed out, as well. Eberhard would later file a lawsuit claiming he was forced out of the company. In the same month, Tesla ’s CEO let go of about 10% of the corporation’s staff after a company-wide performance review. According to Musk—whose investments in Tesla now totaled some $70 million—the auto... See full list on forbes.com Stock Price: Pre-IPO The first working Tesla Roadster finally roared off the production line in February 2008, delivered to Elon Musk himself and credit of Ze’ev Drori’s leadership. To celebrate, Musk led a train of prototype Roadsters down Highway 101 in Palo Alto, California. Following the successful road trip, Roadster production kicked in two months later, hailedas “a milestone for the company and a watershed for the new era of electric vehicles.” However, the Roadster almost immediately encountered problems.... See full list on forbes.com Stock Price: Pre-IPO By October, Tesla was on the brink of bucklingunder the weight of the global financial crisis. Musk was promoted to CEO, while Drori stepped down to Vice Chairman briefly before leaving in December. At the time, Musk said: “The global financial system has gone through the worst crisis since the Great Depression… Our goal as a company is to be cash-flow positive within six to nine months. To do so, we must continue to ramp up our production rate, improve Roadster contribution margin and reduce... See full list on forbes.com Sep 8, 2025 · When Was Tesla Motors Founded? Tesla Motors was established in 2003 as an electric car maker by a pair of American engineers: Marc Tarpenning and Martin Eberhard . Jun 22, 2023 · Tesla , named after the famous physicist Nikola Tesla, was incorporated in 2003 by two engineers, Martin Eberhard and Marc Tarpenning. Later co-founders included JB Straubel, Ian Wright, and Musk. Jan 18, 2024 · After Tesla was founded by Martin Eberhard and Marc Tarpenning, Elon Musk’s entry marked a new chapter. He provided substantial investment, leading to his appointment as Tesla CEO. Who founded Tesla Motors? Tesla was founded in July 2003 by a pair of engineers, Martin Eberhard and Marc Tarpenning , in San Carlos, California. Originally called Tesla Motors, the company was named after famous Serbian-American physicist Nikola Tesla. At its founding, Eberhard claimed the title of CEO, while Tarpenning served as Tesla’s CFO. What is Tesla's history? Let’s take a look at Tesla’s history by way of its major innovations. Tesla was founded in July 2003 by a pair of engineers, Martin Eberhard and Marc Tarpenning, in San Carlos, California. Originally called Tesla Motors, the company was named after famous Serbian-American physicist Nikola Tesla. Who owns Tesla Motors? Tesla Motors was founded as an electric carmaker by engineers Martin Eberhard and Marc Tarpenning in 2003. Elon Musk , co-founder of X.com, which later merged to form PayPal Holdings Inc. (PYPL), was an early investor in Tesla and a board member before taking over as CEO in 2008. When did Tesla start making cars? Tesla Motors was established in 2003 as an electric car maker by a pair of American engineers: Marc Tarpenning and Martin Eberhard. When Did Tesla Start Producing Cars? Is Tesla a real company? Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning. The company is named after Serbian-American inventor Nikola Tesla. Tesla is the world's leading electric vehicle manufacturer by market cap. Why is Tesla called Tesla Motors? It was originally called Tesla Motors, a name the company would truncate in 2017. The company was named after the 19th-century inventor Nikola Tesla , best known for discovering the properties of rotating electromagnetic fields. His work led to what is known as \"alternating current,\" a form of electrical transmission used in most households today. Tesla was founded in 2003 by engineers Martin Eberhard and Marc Tarpenning in San Carlos, California. It was originally called Tesla Motors, a name the company would truncate in 2017."
+      }
+    },
+    {
+      "text": "Suzanne is a content marketer, writer, and fact-checker. She holds a Bachelor of Science in Finance degree from Bridgewater State University and helps develop content strategies. Odd Andersen/Getty Images Tesla, Inc. ( TSLA ) is often synonymous with its CEO, Elon Musk, whose leadership and controversies have often kept the company in the limelight. Tesla's sleek designs, once cutting-edge technology, and skyrocketing stock price have made it one of the most valuable and most-watched companies in the world. Yet beneath the surface lies a more complex and intriguing story—one that begins not with Musk, but with two engineers, Martin Eberhard and Marc Tarpenning, whose work prepared the way for Tesla to become perhaps the most important car company of the past two decades. Martin Eberhard and Marc Tarpenning founded Tesla Motors in July 2003, choosing the company name as a tribute to the inventor and electrical engineer Nikola Tesla. Both had backgrounds as technology entrepreneurs, not automobiles, with Eberhard earning bachelor's and master's degrees in electrical engineering from the University of Illinois Urbana-Champaign and Tarpenning completing computer science studies at the University of California, Berkeley. Eberhard became CEO of the new company, while Tarpenning headed up its engineering and financial operations. Eberhard and Tarpenning met in the 1990s when they co-founded NuvoMedia, a company that produced one of the first successful e-readers, the Rocket eBook. After selling NuvoMedia to Gemstar-TV Guide for $187 million in 2000, the duo began exploring new ideas. Eberhard's interest in sports cars, combined with a growing concern about climate change and America's dependence on foreign oil (particularly after 9/11), led them to turn to electric vehicles ( EVs .) \"I got interested in the idea of the electric car somewhere in 2002, just because I was looking for my next car,\" Eberhard recalled in an interview. The transition from e-readers to EVs wasn't that far of a leap. Both combined new technologies with established product categories, and both required solving complex problems concerning battery life and power management. Tesla wouldn't be the first to attempt to build and market EVs for the masses. General Motors ( GM ) had produced the EV1 between 1996 and 1999, though they recalled and destroyed most units. Toyota Motor Company ( TM ) released the RAV4 EV in 1997, and various startups like AC Propulsion (whose tzero sports car would later influence Tesla) had promising prototypes. Other companies during the 2000s, like Fisker Automotive, Think Global, and Coda Automotive, were also working on EV technologies, though most failed. What set apart Eberhard and Tarpenning's vision for Tesla was their aim to design a high-performance mainstream electric sports car that would overturn the common view that EVs could only be slow-moving and golf cart-like. Other co-founders of Tesla originally included J.B. Straubel—the company's chief",
+      "title": "Tesla: The True Untold Story",
+      "url": "https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp",
+      "source": "investopedia.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:45.056065",
+      "extra": {
+        "snippet": "Sep 8, 2025 · When Was Tesla Motors Founded? Tesla Motors was established in 2003 as an electric car maker by a pair of American engineers: Marc Tarpenning and Martin Eberhard ."
+      }
+    }
+  ]
+}

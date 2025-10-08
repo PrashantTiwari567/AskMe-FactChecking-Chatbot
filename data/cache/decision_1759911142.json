@@ -1,0 +1,109 @@
+{
+  "query": "What is the chemical symbol for gold?",
+  "timestamp": "2025-10-08T03:12:22.666701",
+  "claims": [
+    {
+      "sentence": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a chemical element; it has chemical symbol Au and atomic number 79.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a chemical element with atomic number 79 which means there are 79 protons and 79 electrons in the atomic structure.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Home » Unique Symbols The chemical symbol for gold is ' Au ,' derived from the Latin name 'Aurum,' which translates to ' shining dawn .'",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities. Element symbols for chemical elements, also known as atomic symbols, normally consist of one or two letters from the Latin alphabet and are written with the first letter capitalised.",
+      "title": "Chemical symbol",
+      "url": "https://en.wikipedia.org/wiki/Chemical_symbol",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:17.956390",
+      "extra": {}
+    },
+    {
+      "text": "Gold is a chemical element; it has chemical symbol Au and atomic number 79. In its pure form, it is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal, a group 11 element, and one of the noble metals. It is one of the least reactive chemical elements, being the second lowest in the reactivity series, with only platinum ranked as less reactive. Gold is solid under standard conditions.",
+      "title": "Gold",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:18.408658",
+      "extra": {}
+    },
+    {
+      "text": "Gold is a chemical element with atomic number 79 which means there are 79 protons and 79 electrons in the atomic structure. The chemical symbol for Gold is Au . Gold is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal. Gold is a transition metal and a group 11 element. It is one of the least reactive chemical elements and is solid under standard conditions. Gold is thought to have been produced in supernova nucleosynthesis, from the collision of neutron stars. The atom consist of a small but massive nucleus surrounded by a cloud of rapidly moving electrons . The nucleus is composed of protons and neutrons . Total number of protons in the nucleus is called the atomic number of the atom and is given the symbol Z . The total electrical charge of the nucleus is therefore +Ze, where e (elementary charge) equals to 1,602 x 10 -19 coulombs . In a neutral atom there are as many electrons as protons moving about nucleus. It is the electrons that are responsible for the chemical bavavior of atoms, and which identify the various chemical elements. See also: Atomic Number – Does it conserve in a nuclear reaction? Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. The chemical properties of the atom are determined by the number of protons, in fact, by number and arrangement of electrons. The configuration of these electrons follows from the principles of quantum mechanics. The number of electrons in each element’s electron shells, particularly the outermost valence shell, is the primary factor in determining its chemical bonding behavior. In the periodic table, the elements are listed in order of increasing atomic number Z. It is the Pauli exclusion principle that requires the electrons in an atom to occupy different energy levels instead of them all condensing in the ground state. The ordering of the electrons in the ground state of multielectron atoms, starts with the lowest energy state (ground state) and moves progressively from there up the energy scale until each of the atom’s electrons has been assigned a unique set of quantum numbers. This fact has key implications for the building up of the periodic table of elements. Hydrogen Nonmetals Hydrogen is a chemical element with atomic number 1 which means there are 1 protons and 1 electrons in the atomic structure. The chemical symbol for Hydrogen is H . With a standard atomic weight of circa 1.008, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass. Helium Noble gas Helium is a chemical element with atomic number 2 which means there are 2 protons and 2 electrons in the atomic structure. The chemical symbol for Helium is He. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas, the first in the noble gas group in the periodic table. Its boiling point is the lowest among all the elements. Lithium Alkali me",
+      "title": "Chemical Symbol for Gold - Au",
+      "url": "https://www.periodic-table.org/gold-chemical-symbol/",
+      "source": "periodic-table.org",
+      "provider": "web",
+      "published": "2020-11-21 15:22:39+00:00",
+      "retrieved": "2025-10-08 03:12:20.529758",
+      "extra": {
+        "snippet": "Nov 21, 2020 · Learn about the chemical element gold, its atomic number, mass, radius, density, electron configuration, and more. The chemical symbol for gold is Au, derived from the Latin name for gold, aurum."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. gold (Au) , chemical element , a dense lustrous yellow precious metal of Group 11 (Ib), Period 6, of the periodic table of the elements . Gold has several qualities that have made it exceptionally valuable throughout history. It is attractive in colour and brightness, durable to the point of virtual indestructibility, highly malleable , and usually found in nature in a comparatively pure form. The history of gold is unequaled by that of any other metal because of its perceived value from earliest times.",
+      "title": "Gold | Facts, Properties, & Uses | Britannica",
+      "url": "https://www.britannica.com/science/gold-chemical-element",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:22.079013",
+      "extra": {
+        "snippet": "5 days ago · chemical properties of gold The precious metal gold is a chemical element with the symbol Au. Its square on the periodic table details some of its properties, including its atomic weight, atomic number, and crystal structure."
+      }
+    },
+    {
+      "text": "Home » Unique Symbols The chemical symbol for gold is ' Au ,' derived from the Latin name 'Aurum,' which translates to ' shining dawn .' Gold holds the atomic number 79 and is symbolized as 'Au' by the International Union of Pure and Applied Chemistry (IUPAC). This symbol is integral to various scientific disciplines, including chemistry and materials science. Historically, gold has been significant in alchemy and ancient civilizations, contributing to its modern designation. Gold's properties such as corrosion resistance , malleability, and conductivity make it valuable in industrial applications. For a deeper exploration of gold's properties and uses, continue. The chemical symbol for gold is ' Au ,' derived from its Latin name 'Aurum.' This symbol is used universally across scientific disciplines, ensuring clear communication regarding this element. Gold, with an atomic number of 79, is classified as a metal in the periodic table. The symbol 'Au' is standardized by the International Union of Pure and Applied Chemistry (IUPAC), which oversees the naming of chemical elements. Gold's unique properties, such as high malleability , ductility, conductivity, and resistance to corrosion, make it invaluable in various industrial applications. Understanding the chemical symbol 'Au' is essential for professionals in chemistry, materials science, and related fields, enabling precise identification and utilization of this precious metal. The chemical symbol for gold, Au, originates from its Latin name, aurum, which translates to ' shining dawn .' Historically, gold has been a significant element in alchemy, symbolizing perfection and immortality. Over time, its representation has evolved within the scientific community to reflect its established place on the periodic table. Alchemical traditions trace the symbol for gold, Au, back to ancient civilizations where it was revered as the most precious of metals. Alchemists across diverse cultures, including Egyptians, Greeks, and Chinese, sought to transmute base metals into gold, symbolizing perfection and immortality. The practice of alchemy combined elements of philosophy, mysticism, and early scientific inquiry. Gold's unique properties, such as its resistance to tarnish and malleability, made it a focal point of these endeavors. The symbol, Au, is derived from ancient practices, underscoring gold's enduring significance. Understanding these origins provides insight into gold's historical and cultural importance. Derived from the Latin word ' aurum ,' the chemical symbol for gold, Au, reflects the metal's historical significance within ancient Roman civilization . The term 'aurum' itself is rooted in the Proto-Indo-European word 'h₂é-h₂us-o,' which signifies 'glow' or 'shining dawn,' underscoring gold's lustrous and radiant properties. The Romans, who highly valued gold for its rarity and beauty, played a pivotal role in the metal's historical context, utilizing it for coinage, jewelry, and ceremonial artif",
+      "title": "Gold's Chemical Symbol: What Is It And Why?",
+      "url": "https://symbolall.com/what-is-chemical-symbol-of-gold/",
+      "source": "symbolall.com",
+      "provider": "web",
+      "published": "2025-10-05 10:56:24+06:00",
+      "retrieved": "2025-10-08 03:12:22.660697",
+      "extra": {
+        "snippet": "3 days ago · The Chemical Symbol for Gold The chemical symbol for gold is ' Au,' derived from its Latin name 'Aurum.' This symbol is used universally across scientific disciplines, ensuring clear communication regarding this element . Gold , with an atomic number of 79, is classified as a metal in the periodic table."
+      }
+    }
+  ]
+}

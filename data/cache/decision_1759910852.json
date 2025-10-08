@@ -1,0 +1,80 @@
+{
+  "query": "When did the James Webb Space Telescope launch?",
+  "timestamp": "2025-10-08T03:07:32.811204",
+  "claims": [
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+      "support_evidence_idx": [
+        0,
+        1
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    },
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Due to the lapse in federal government funding, NASA is not updating this website.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. As the largest telescope in space, it is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.",
+      "title": "James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:07:26.591295",
+      "extra": {}
+    },
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed primarily to conduct infrared astronomy. Its complex launch and commissioning process lasted from late 2021 until mid-2022.",
+      "title": "Launch and commissioning of the James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/Launch_and_commissioning_of_the_James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:07:27.132028",
+      "extra": {}
+    },
+    {
+      "text": "The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021. [ 1 ] [ 2 ] It is intended to be the premier observatory of the 2020s, combining the largest mirror yet on a near-infrared space telescope with a suite of technologically advanced instruments from around the world. [ 3 ] The telescope is designed to last at least five and a half years (six months calibration plus five years science operations), but with a goal of ten years. [ 4 ] The limiting factor is expected to be fuel to maintain its halo orbit , of which there is enough for at least ten years. [ 4 ] It was announced in December 2021 that due to the accuracy of the orbital insertion and course correction burns, the telescope had more fuel available than originally planned and could operate for \"significantly\" longer than the original ten year planned life span. [ 5 ] JWST cost approximately $10 billion in its design, construction, and five years of operations (does not include extended mission funding), as well as international contributions. [ 6 ] [ 7 ] Nearly a month after launch, a trajectory correction was initiated to place the James Webb Space Telescope into a halo orbit at L 2 . [ 48 ] [ 49 ] Its next five months were spent cooling NIRCam and the Mid-Infrared Instrument down further, aligning and calibrating its mirrors while focusing on HD 84406, a bright star in the constellation Ursa Major , and testing the instruments. [ 50 ] [ 51 ] [ 52 ] [ 53 ] Webb's first operational image was the Webb's First Deep Field , released on July 11, 2022, with it being the deepest sharp infrared image of the universe to date. [ 55 ] The rest of the first set of images was released the next day, which include full-color processed images of the Carina Nebula , Southern Ring Nebula , Stephan's Quintet , as well as spectroscopic data of WASP-96b . [ 56 ] [ 57 ]",
+      "title": "Timeline of the James Webb Space Telescope - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:07:31.149435",
+      "extra": {
+        "snippet": "February 16, 2025 - The James Webb Space Telescope (JWST) is an international 21st-century space observatory that was launched on 25 December 2021 ."
+      }
+    },
+    {
+      "text": "Due to the lapse in federal government funding, NASA is not updating this website. Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the history of our Universe. Webb studies every phase in the history of our Universe, ranging from the first luminous glows after the Big Bang, to the formation of solar systems capable of supporting life on planets like Earth, to the evolution of our own Solar System. Webb launched on Dec. 25th 2021. It does not orbit around the Earth like the Hubble Space Telescope, it orbits the Sun 1.5 million kilometers (1 million miles) away from the Earth at what is called the second Lagrange point or L2. Mission Type Partners Launch Arrival at L2 extending the tantalizing discoveries of the Hubble Space Telescope. So big it has to fold origami-style to fit in the rocket and will unfold like a “Transformer” in space. Webb orbits the Sun 1.5 million kilometers from the Earth. (Hubble orbits 560 kilometers above the Earth.) Webb has a 5-layer sunshield that protects the telescope from the infrared radiation of the Sun, Earth, and Moon; like having sun protection of SPF 1 million. iIt will peer back in time over 13.5 billion years to see the first galaxies born after the Big Bang.in the ISS. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential… Webb's latest news releases in reverse chronological order. Search and sort the news feed with the controls immediately below. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625… NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy. “Webb’s powerful infrared instruments provide… A blowtorch of seething gasses erupting from a volcanically growing monster star has been captured by NASA’s James Webb Space Telescope. Stretching across 8 light-years, the length of the stellar eruption is approximately twice the distance between our Sun and… An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets. Why has silicon, one of the most common elements in the universe, gone largely undetected in… Webb's Blog offers an insider's point of view covering a variety of topics that include on going operations as well as exciting Webb science images/spectra that are not yet peer reviewed and therefore not released as NASA feature articles ( IE the above official Webb News Feed). Blog posts are often co-authored by scientists and engineers and offer unique insights. Search and sort the new",
+      "title": "James Webb Space Telescope - NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/",
+      "source": "nasa.gov",
+      "provider": "web",
+      "published": "2023-05-25 08:11:06-04:00",
+      "retrieved": "2025-10-08 03:07:32.806187",
+      "extra": {
+        "snippet": "1 week ago - Webb studies every phase in the ... on planets like Earth, to the evolution of our own Solar System. Webb launched on Dec. 25th 2021 . It does not orbit around the Earth like the Hubble Space Telescope, it orbits the Sun 1.5 million kilometers (1 million miles) away from ..."
+      }
+    }
+  ]
+}

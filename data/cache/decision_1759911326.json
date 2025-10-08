@@ -1,0 +1,122 @@
+{
+  "query": "Who is the CEO of Microsoft?",
+  "timestamp": "2025-10-08T03:15:26.697160",
+  "claims": [
+    {
+      "sentence": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Join our community of traders FOR FREE!",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Microsoft's new CEO is Satya Nadella, a 22-year veteran of the company who previously headed up Microsoft’s Cloud and Enterprise group.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Satya Nadella is the new CEO of Microsoft and follows the footsteps of Steve Ballmer who was the CEO before.",
+      "support_evidence_idx": [
+        4,
+        5
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022. Its five development and publishing labels consist of: Xbox Game Studios, Bethesda Softworks, Activision, Blizzard Entertainment, and King. It produces the Xbox video game consoles and services, in addition to overseeing production and sales, and is led by CEO Phil Spencer, who has overseen Xbox since 2014.",
+      "title": "Microsoft Gaming",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Gaming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:20.648430",
+      "extra": {}
+    },
+    {
+      "text": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "title": "Satya Nadella",
+      "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:21.272434",
+      "extra": {}
+    },
+    {
+      "text": "Join our community of traders FOR FREE! Last month Microsoft Corp.s co-founder Bill Gates announced that the companys chief executive officer is a “complex role to fill” in front of the software makers shareholders. This could be valid, in fact considering Microsofts board is still looking for a final candidate. On December the 12th, the No. 2 executive of Qualcomm Inc.s – Steve Mollenkopf, was named CEO replacing Steve Ballmer at Microsoft. Alan Mulally, who is the CEO of Ford Motor Co., was also one of the options for the position, but it is his age, 68, and his lack of technology experience that makes the companys board believe such a choice would be risky and inappropriate. The CEO of Ebay Inc. – John Donahoe and the former CEO of Vmware Inc. – Paul Maritz both refused to be considered for the position. The Microsofts board is facing a real challenge of finding a new CEO, who would deal with the difficulties in front of the company, making this Microsofts biggest transition in decades. An experienced person is looked for in order to be able to run one of the largest public companies worldwide. It is a companys paramount to transform itself into a provider of devices and services amid declining personal-computer sales. Joseph McCool, who is the president of McCool Group – a search-committee advisory company based in New Hampshire, said for Bloomberg: “Going outside for a CEO is always riskier and always more costly. For Microsoft, which has only had two CEOs, naming a new leader is one of the most critical decisions in its history. It has serious long-term implications because so much is hanging in the balance: the brand, the workforce, the customer base and investors.” The new CEOs salary is another complicated matter, because Microsoft would probably need to offer much more than the 1.26 million dollars paid to Ballmer as a compensation. At least one external candidate, whose name has not been named in public is also being considered by the companys board. Microsoft has refused to comment these issues. People with knowledge of these matters said that Satya Nadella, who is the companys head of cloud services, is one of the leading contenders for the position. Stephen Elop, who is a former Nokia Oyj CEO, as well as Tony Bates, who is a business development and evangelism chief, are also competing for the job, although they are less likely to be offered to take the lead. According to CNN Money, the current share price of Microsoft Corp. is 1.42% down, and its one-year return rate is 37.37% up. The 29 analysts offering 12-month price forecasts for Microsoft Corp. have a median target of 36.00, with a high estimate of 45.00 and a low estimate 0f 25.00. The median estimate represents a 1.88% decrease from the last price of 36.69. Founded in 2013, Tradingpedia aims at providing its readers accurate and actual financial news coverage. Our website is focused on major segments in financial markets – stocks, currencies and commodities, and interactive ",
+      "title": "Microsoft faces the challenge of CEO hunt",
+      "url": "https://www.tradingpedia.com/2013/12/16/microsoft-faces-the-challenge-of-ceo-hunt/",
+      "source": "tradingpedia.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:24.840551",
+      "extra": {
+        "snippet": "The Microsofts board is facing a real challenge of finding a new CEO , who would deal with the difficulties in front of the company, making this ..."
+      }
+    },
+    {
+      "text": "Microsoft's new CEO is Satya Nadella, a 22-year veteran of the company who previously headed up Microsoft’s Cloud and Enterprise group. Microsoft's new CEO is Satya Nadella, a 22-year veteran of the company who previously headed up Microsoft’s lucrative Cloud and Enterprise group. The announcement ends a months-long search for a CEO to replace Steve Ballmer. Here's Microsoft's statement on the promotion: As Satya Nadella becomes the third CEO of Microsoft, he brings a relentless drive for innovation and a spirit of collaboration to his new role. He joined Microsoft 22 years ago because he saw how clearly Microsoft empowers people to do magical things and ultimately make the world a better place. Many companies, he says, “aspire to change the world. But very few have all the elements required: talent, resources and perseverance. Microsoft has proven that it has all three in abundance.” The most recent rumors of Microsoft's CEO search correctly pegged Nadella as the front runner, over more high-profile choices like Nokia CEO Stephen Elop , whose company was acquired by Microsoft in mid-2013. As Time notes, the 46-year-old is now \"the most powerful Indian-born tech executive in the world.\" Those outside of Microsoft might not know a lot about the company's new chief executive, but his reputation inside the company is reportedly stellar. Over the years, he has personally worked with the previous two CEO (the only ones the company has ever had) Ballmer and Microsoft founder Bill Gates. Given his low profile, the company is already attempting to \"introduce\" the public to its newest leader with a splashy website. In a video interview following the announcement, Nadella said he was \"honored, humbled, [and] excited\" to take over. His primary focus, he added, would be to \"remove any obstacles that allow us to innovate.\" In addition to the CEO announcement, Microsoft also confirmed that Gates will step down as Chairman, but will remain on the board as a \"technology advisor.\" TheAtlantic.com © 2025 The Atlantic Monthly Group. All Rights Reserved. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply",
+      "title": "Microsoft Has Found Its New CEO: Satya Nadella - The Atlantic",
+      "url": "https://www.theatlantic.com/technology/archive/2014/02/microsoft-has-new-ceo-satya-nadella/357699/",
+      "source": "theatlantic.com",
+      "provider": "web",
+      "published": "2014-02-04 14:25:45+00:00",
+      "retrieved": "2025-10-08 03:15:25.554070",
+      "extra": {
+        "snippet": "Microsoft s new CEO is Satya Nadella, a 22-year veteran of the company who previously headed up Microsoft ’ s Cloud and Enterprise group."
+      }
+    },
+    {
+      "text": "Satya Nadella is the new CEO of Microsoft and follows the footsteps of Steve Ballmer who was the CEO before. Microsoft did set up a profile page for Satya Nadella here . Here is a quote from the profile page: As Satya Nadella becomes the third CEO of Microsoft, he brings a relentless drive for innovation and a spirit of collaboration to his new role. He joined Microsoft 22 years ago because he saw how clearly Microsoft empowers people to do magical things and ultimately make the world a better place. Many companies, he says, “aspire to change the world. But very few have all the elements required: talent, resources and perseverance. Microsoft has proven that it has all three in abundance.” Bill Gates who will remain a member of Microsoft said “, there is no better person to lead Microsoft than Satya Nadella,” and “Satya is a proven leader with hard-core engineering skills, business vision and the ability to bring people together.”. Satya Nadella said in an interview “Microsoft is one of those rare companies to have truly revolutionized the world through technology, and I couldn’t be more honored to have been chosen to lead the company.”. That promises much, so let´s see which direction he will lead Microsoft to. I think there were some wrong decisions when Steve Ballmer was still the CEO of Microsoft. And finally here is a first interview of Satya Nadella, I found: Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Enter your email address to subscribe to this blog and receive notifications of new posts by email. Email Address: Sign me up!",
+      "title": "Microsoft Has A New CEO – Diary of Dennis",
+      "url": "https://diaryofdennis.com/2014/02/05/microsoft-has-a-new-ceo/",
+      "source": "diaryofdennis.com",
+      "provider": "web",
+      "published": "2014-02-05 23:24:05+00:00",
+      "retrieved": "2025-10-08 03:15:26.153985",
+      "extra": {
+        "snippet": "Satya Nadella is the new CEO of Microsoft and follows the footsteps of Steve Ballmer who was the CEO before. ... who will remain a member of Microsoft ..."
+      }
+    },
+    {
+      "text": "Satya Nadella is the new CEO of Microsoft and follows the footsteps of Steve Ballmer who was the CEO before. Microsoft did set up a profile page for Satya Nadella here. Here is a quote from the profile page: As Satya Nadella becomes the third CEO of Microsoft, he brings a relentless drive for innovation and a spirit of collaboration to his new role. He joined Microsoft 22 years ago because he saw how clearly Microsoft empowers people to do magical things and ultimately make the world a better place. Many companies, he says, “aspire to change the world. But … Continue reading Microsoft Has A New CEO",
+      "title": "CEO – Diary of Dennis",
+      "url": "https://diaryofdennis.com/tag/ceo/",
+      "source": "diaryofdennis.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:26.691150",
+      "extra": {
+        "snippet": "Satya Nadella is the new CEO of Microsoft and follows the footsteps of Steve Ballmer who was the CEO before. ... is a quote from the profile page: As ..."
+      }
+    }
+  ]
+}

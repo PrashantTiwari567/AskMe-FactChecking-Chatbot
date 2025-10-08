@@ -1,0 +1,88 @@
+{
+  "query": "Distance from Earth to the Moon in km",
+  "timestamp": "2025-10-08T03:47:01.925503",
+  "claims": [
+    {
+      "sentence": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The driving distance or the travel distance between Earth to Moon is 2326 KM and 867 meters.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "(ByREV) How far is the moon from the earth ?",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon. In contrast, the Lunar distance, or Earth–Moon characteristic distance, is a unit of measure in astronomy. More technically, it is the semi-major axis of the geocentric lunar orbit. The average lunar distance is approximately 385,000 km (239,000 mi), or 1.3 light-seconds. It is roughly 30 times Earth's diameter and a non-stop plane flight traveling that distance would take more than two weeks. Around 389 lunar distances make up an astronomical unit.",
+      "title": "Lunar distance",
+      "url": "https://en.wikipedia.org/wiki/Lunar_distance",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:55.519905",
+      "extra": {}
+    },
+    {
+      "text": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "title": "Orbit of the Moon",
+      "url": "https://en.wikipedia.org/wiki/Orbit_of_the_Moon",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:56.118904",
+      "extra": {}
+    },
+    {
+      "text": "The driving distance or the travel distance between Earth to Moon is 2326 KM and 867 meters. The mile based, road distance between these two travel point is 1445.8 miles.",
+      "title": "Distance between Earth and Moon is 2298 KM / 1428.4 miles",
+      "url": "https://distancebetween2.com/earth/moon",
+      "source": "distancebetween2.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:46:59.845349",
+      "extra": {
+        "snippet": "The total straight line distance between Earth and Moon is 2075 KM (kilometers) and ... The miles based distance from Earth to Moon is 1289.5 miles."
+      }
+    },
+    {
+      "text": "(ByREV) How far is the moon from the earth ? At its furthest point from the Earth, the Moon is about 405,696 km and at its closest approach to the Earth the distance between them is about 363,104 km, so, the average distance is about 384,400 km. The average distance from the Moon to the Earth is 384,403 km, about thirty times the diameter of the Earth or 1.28 seconds in ligth speed . Previous Post Radiatia Solara – Graficul Energiei Solare in fiecare Luna (kWh/mp/zi) Next Post Rewrite-Change Your WordPress Login URL via HAProxy Load Balancer Categories Cultura Tech Univers Tags earth en space Your email address will not be published. Required fields are marked * Your Comment Your Name Your Email Your Website URL Gateste Romaneste – Retete de mancare Poezii si Versuri Scurt pe Doi – Știri care Contează Tracks WordPress Theme by Compete Themes.",
+      "title": "384,400 km from the Moon to the Earth and 1.28 seconds in ligth speed – Emilian Robert Vicol",
+      "url": "https://robertvicol.com/cultura/384403-km-from-the-moon-to-the-earth-and-1-28-seconds-in-ligth-speed/",
+      "source": "robertvicol.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:01.921502",
+      "extra": {
+        "snippet": "The average distance from the Moon to the Earth is 384,403 km , about thirty times the diameter of the Earth or 1.28 seconds in ligth speed ."
+      }
+    }
+  ]
+}

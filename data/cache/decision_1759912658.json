@@ -1,0 +1,88 @@
+{
+  "query": "What is the boiling point of water in Celsius?",
+  "timestamp": "2025-10-08T03:37:38.982901",
+  "claims": [
+    {
+      "sentence": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous At STP ie (1 Atm or 101.325 kPa, 760mm Hg) The boiling point of pure water is 212 °F or 100 °C The freezing point of pure water is 32 °F or 0 °C Wiki User Fahrenheit scale is linked to the freezing and boiling points of water, defining 32°F as the freezing point and 212°F as the boiling point at sea level.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous The temperature at which water boils is not affected by the location, but rather by the atmospheric pressure.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The degree Celsius is the unit of temperature on the Celsius temperature scale, one of two temperature scales used in the International System of Units (SI), the other being the closely related Kelvin scale. The degree Celsius can refer to a specific point on the Celsius temperature scale or to a difference or range between two temperatures. It is named after the Swedish astronomer Anders Celsius (1701–1744), who proposed the first version of it in 1742. The unit was called centigrade in several languages for many years. In 1948, the International Committee for Weights and Measures renamed it to honor Celsius and also to remove confusion with the term for one hundredth of a gradian in some languages. Most countries use this scale.",
+      "title": "Celsius",
+      "url": "https://en.wikipedia.org/wiki/Celsius",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:36.155108",
+      "extra": {}
+    },
+    {
+      "text": "A boiling water reactor (BWR) is a type of nuclear reactor used for the generation of electrical power. It is the second most common type of electricity-generating nuclear reactor after the pressurized water reactor (PWR).",
+      "title": "Boiling water reactor",
+      "url": "https://en.wikipedia.org/wiki/Boiling_water_reactor",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:36.701236",
+      "extra": {}
+    },
+    {
+      "text": "0 Anonymous At STP ie (1 Atm or 101.325 kPa, 760mm Hg) The boiling point of pure water is 212 °F or 100 °C The freezing point of pure water is 32 °F or 0 °C Wiki User Fahrenheit scale is linked to the freezing and boiling points of water, defining 32°F as the freezing point and 212°F as the boiling point at sea level. Celsius scale is linked to the freezing and boiling points of water, defining 0°C as the freezing point and 100°C as the boiling point at sea level. Fahrenheit is a person or a temperature scale, while boiling and freezing points are physical properties of chemicals. You need to be specific in asking which chemical's boiling and freezing points. Water has a freezing point of 32 degrees F, and a boiling point of 212 degrees F. For water, the freezing points are Zero C and 32 F. The boiling points are 100 C and 212 F. The Celsius scale is considered more accurate than the Fahrenheit scale for measuring temperature because it is based on the freezing and boiling points of water, making it easier to understand and use in scientific calculations. The melting point of magnesium is 1,202 degrees Fahrenheit (650 degrees Celsius) and its boiling point is 1,994 degrees Fahrenheit (1,090 degrees Celsius). The melting point of chlorine is -150.7 degrees Fahrenheit (-101.5 degrees Celsius) and its boiling point is -29.27 degrees Fahrenheit (-34.04 degrees Celsius). Boiling points and melting points differ for different elements and compounds. However, if water is considered, the freezing point is 0 degree Celsius which is 32 degree Fahrenheit. Boiling point is 100 degree Celsius which is 212 degree Fahrenheit. Fahrenheit scale is linked to the freezing and boiling points of water, defining 32°F as the freezing point and 212°F as the boiling point at sea level. Celsius scale is linked to the freezing and boiling points of water, defining 0°C as the freezing point and 100°C as the boiling point at sea level. Fahrenheit is a person or a temperature scale, while boiling and freezing points are physical properties of chemicals. You need to be specific in asking which chemical's boiling and freezing points. Water has a freezing point of 32 degrees F, and a boiling point of 212 degrees F. Not sure that they are different necessarily, just different scales. The freezing and boiling points of water are the same no matter which scale is used. In degrees, the Celsius scale measures the temp at 0 degrees for freezing and 100 degrees for boiling. Farenheit scales measures the freezing point at 32 degrees and the boiling point at 212 degrees. Sure! Here are the freezing and boiling points of water on both Fahrenheit and Celsius scales: Freezing point of water: 32°F (0°C) Boiling point of water: 212°F (100°C) One degree Celsius is larger than one degree Fahrenheit. This is because the Celsius scale is based on the freezing and boiling points of water (0°C and 100°C) while the Fahrenheit scale is based on historical values that do not have a direct correlation ",
+      "title": "What are the boiling point and the freezing points of water in Fahrenheit and Celsius? - Answers",
+      "url": "https://www.answers.com/chemistry/What_are_the_boiling_point_and_the_freezing_points_of_water_in_Fahrenheit_and_Celsius",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:38.221646",
+      "extra": {
+        "snippet": "Jun 4, 2024 · Celsius scale is linked to the freezing and boiling points of water, defining 0°C as the freezing point and 100°C as the boiling point at sea level."
+      }
+    },
+    {
+      "text": "0 Anonymous The temperature at which water boils is not affected by the location, but rather by the atmospheric pressure. In Utah , where the elevation varies, the boiling point of water will be slightly lower than at sea level due to the lower atmospheric pressure. On average, water boils at around 200°F to 205°F in Utah, depending on the specific elevation. ProfBot Boiling water has a higher temperature than ice. Boiling water is heated to 100 degrees Celsius (212 degrees Fahrenheit), while ice is typically at 0 degrees Celsius (32 degrees Fahrenheit). The temperature of the water is 100 degrees celsius. Alcohol thermometers are not suitable for measuring the temperature of boiling water because alcohol has a lower boiling point than water. The alcohol inside the thermometer would evaporate before reaching the temperature of boiling water, therefore providing an inaccurate reading. Boiling occurs at a specific temperature known as the boiling point. For water, the boiling point is 100 degrees Celsius at sea level. At this temperature, liquid water turns into steam as the vapor pressure of the water equals the atmospheric pressure. The boiling point is the temperature at which water turns into a gas. The temperature of boiling water at sea level is 100 The temperature of boiling water at sea level is 211.149&deg;F. Boiling water temperature in Fahrenheit is 212°F. The boiling point of sea water is higher compared with pure water. Temperature remain constant during boiling. The boiling point of water depends on the purity of the water as well as the atmospheric pressure. It is the approximate boiling temperature of water. Boiling water has a higher temperature than ice. Boiling water is heated to 100 degrees Celsius (212 degrees Fahrenheit), while ice is typically at 0 degrees Celsius (32 degrees Fahrenheit). A cup of boiling water since it has higher temperature. Note that heat transfer depends more on the temperature. Which is most likely be the temperature of boiling water? 100oC is the boiling point of pure water - when water is boiling, it stays at a constant temperature until all of it is evaporated. It is the water boiling temperature under atmospheric pressure. The temperature of the water is 100 degrees celsius. Boiling water is when water reaches a temperature of 212 degrees Fahrenheit (100 degrees Celsius) at sea level. No, the above thermometer cannot be used to record the temperature of boiling water. Most household thermometers have a limited temperature range that does not typically extend to the boiling point of water, which is 100 degrees Celsius (212 degrees Fahrenheit). To measure the temperature of boiling water, a thermometer with a higher temperature range is required.",
+      "title": "What is the temperature of boiling water in Utah? - Answers",
+      "url": "https://www.answers.com/chemistry/What_is_the_temperature_of_boiling_water_in_Utah",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:38.975900",
+      "extra": {
+        "snippet": "Nov 28, 2024 · The temperature of the water is 100 degrees celsius. Alcohol thermometers are not suitable for measuring the temperature of boiling water because alcohol has a lower …"
+      }
+    }
+  ]
+}

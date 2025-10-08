@@ -1,0 +1,109 @@
+{
+  "query": "Population of the United States (approx)",
+  "timestamp": "2025-10-08T03:16:56.661248",
+  "claims": [
+    {
+      "sentence": "In world demographics, the world population is the total number of humans currently alive.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Population figures for the Indigenous peoples of the Americas before European colonization have been difficult to establish.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "English was made the official language of the United States by Executive Order 14224 in 2025.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The states and territories included in the United States Census Bureau 's statistics for the United States population, ethnicity, and most other categories include the 50 states and Washington, D.C.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Source: Worldometer ( www.Worldometers.info ) Elaboration of data by United Nations, Department of Economic and Social Affairs, Population Division.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "In world demographics, the world population is the total number of humans currently alive. It was estimated by the United Nations to have exceeded eight billion in mid-November 2022. It took around 300,000 years of human prehistory and history for the human population to reach a billion and only 218 more years to reach 8 billion.",
+      "title": "World population",
+      "url": "https://en.wikipedia.org/wiki/World_population",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:49.763633",
+      "extra": {}
+    },
+    {
+      "text": "Population figures for the Indigenous peoples of the Americas before European colonization have been difficult to establish. Estimates have varied widely from as low as 8 million to as many as 100 million, though by the end of the 20th Century, many scholars gravitated toward an estimate of around 50 million people.",
+      "title": "Population history of the Indigenous peoples of the Americas",
+      "url": "https://en.wikipedia.org/wiki/Population_history_of_the_Indigenous_peoples_of_the_Americas",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:50.286146",
+      "extra": {}
+    },
+    {
+      "text": "English was made the official language of the United States by Executive Order 14224 in 2025. [ 17 ] [ 18 ] However, Congress has never passed a bill to designate English as the official language of all three federal branches. English is designated official in 32 of 50 states (and in all five U.S. territories ). Hawaiian is official in Hawaii , 20 Native languages are official in Alaska , and Sioux is official in South Dakota . [ 19 ] Samoan is an official language in American Samoa , [ 20 ] Chamorro is an official language in Guam , [ 21 ] Chamorro and Carolinian are official languages in the Northern Mariana Islands , [ 22 ] and Spanish is an official language in Puerto Rico . [ 23 ] The United States is the most populous country in the Americas and the Western Hemisphere , with a projected population of 342,034,432 on July 1, 2025, according to the U.S. Census Bureau . [ 1 ] With about 4% of the world's population, it is the third most populous country . The U.S. population grew 2.6% between the 2020 federal census of 331,449,281 residents and the 2024 official annual estimate of 340,110,998. [ 2 ] These figures include the 50 states and the federal capital, Washington, D.C. , but exclude the 3.6 million residents of five unincorporated U.S. territories ( Puerto Rico , Guam , the U.S. Virgin Islands , American Samoa , and the Northern Mariana Islands ) as well as several minor uninhabited island possessions . The Census Bureau showed a population increase of 0.98% for the twelve-month period ending in July 2024, [ 3 ] slightly below the world estimated annual growth rate of 1.03%. [ 25 ] By several metrics, including racial and ethnic background, religious affiliation, and percentage of rural and urban divide, the state of Illinois is the most representative of the larger demography of the United States. [ 26 ] The United States population almost quadrupled during the 20th century—at a growth rate of about 1.3% a year—from about 76 million in 1900 to 281 million in 2000. [ 27 ] It is estimated to have reached the 200 million mark in 1967, and the 300 million mark on October 17, 2006. [ 27 ] [ 28 ] Foreign-born immigration caused the U.S. population to continue its rapid increase, with this population doubling from almost 20 million in 1990 to over 45 million in 2015, [ 29 ] representing one-third of the population increase. [ 30 ] The U.S. Census Bureau reported in late 2024 that recent immigration to the United States had more than offset the country's lower birth and fertility rates: \"Net international migration’s influence on population trends has increased over the last few years. Since 2021, it accounted for the majority of the nation’s growth—a departure from the last two decades, when natural increase was the main factor.\" This in turn led to a notable increase in the U.S. population in each of the years 2022, 2023, and 2024 (+0.58%, +0.83%, and +0.98%, respectively). [ 31 ] Population growth is fastest among minorities as a whole, and ",
+      "title": "Demographics of the United States - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_the_United_States",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:54.534259",
+      "extra": {
+        "snippet": "4 days ago - The United States is the most populous country in the Americas and the Western Hemisphere, with a projected population of 342,034,432 on July 1, 2025 , according to the U.S. Census Bureau. With about 4% of the world's population, it is the third most populous country."
+      }
+    },
+    {
+      "text": "The states and territories included in the United States Census Bureau 's statistics for the United States population, ethnicity, and most other categories include the 50 states and Washington, D.C. Separate statistics are maintained for the five permanently inhabited territories of the United States : Puerto Rico , Guam , the U.S. Virgin Islands , American Samoa , and the Northern Mariana Islands . [ 1 ] As of April 1, 2020, the date of the 2020 United States census , the nine most populous U.S. states contain slightly more than half of the total population. The 25 least populous states contain less than one-sixth of the total population. California , the most populous state, contains more people than the 21 least populous states combined, and Wyoming , the least populous state, has a population less than any of the 31 most populous U.S. cities . The United States Census counts the persons residing in the United States including citizens , non-citizen permanent residents and non-citizen long-term visitors. [ 2 ] Civilian and military federal employees serving abroad and their dependents are counted in their home state. [ 3 ] Every 10 years, the U.S. Census Bureau is charged with making an actual count of all residents by state and territory. The accuracy of this count is then tested after the fact, and sometimes statistically significant undercounts or overcounts occur. For example, for the 2020 decennial census , 14 states had significant miscounts ranging from 1.5% to 6.6%. While these adjustments may be reflected in government programs over the following decade, the 10-year representative apportionments discussed below are not changed to reflect the miscount. [ 4 ] Based on this decennial census, each state is allocated a portion of the 435 fixed seats in the United States House of Representatives (until the early 20th century, the apportionment process generally increased the size of the House based on the results of the census until the size of the House was capped by the Reapportionment Act of 1929 ), with each state guaranteed at least one Representative. The allocation is based on each state's proportion of the combined population of the fifty states (not including the District of Columbia , Guam , American Samoa , the Northern Mariana Islands , Puerto Rico , or the U.S. Virgin Islands ). The Electoral College , every four years, elects the President and Vice President of the United States based on the popular vote in each state and the District of Columbia. Each state's number of votes in the Electoral College is equal to its number of members in the Senate plus members in the House of Representatives. [ 5 ] The Twenty-third Amendment to the United States Constitution additionally grants the District of Columbia (D.C.), which is not part of any state, as many Electoral College votes as it would have if it were a state, while having no more votes than the least populous state (currently, Wyoming). Since the U.S. Constitution guarantees e",
+      "title": "List of U.S. states and territories by population - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:55.521983",
+      "extra": {
+        "snippet": "1 month ago - The states and territories included in the United States Census Bureau's statistics for the United States population, ethnicity, and most other categories include the 50 states and Washington, D.C. Separate statistics are maintained for the five permanently inhabited territories of the United ..."
+      }
+    },
+    {
+      "text": "Source: Worldometer ( www.Worldometers.info ) Elaboration of data by United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects: The 2024 Revision . (Medium-fertility variant). Source: Worldometer ( www.Worldometers.info ) Elaboration of data by United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects: The 2024 Revision . (Medium-fertility variant). (life expectancy at birth, both sexes) View by sex and historical chart (infant deaths per 1,000 live births) View historical chart (per 1,000 live births) View historical chart (includes boroughs, districts, urban agglomerations, etc.) The United States Population (Live) counter shows a continuously updated estimate of the current population of United States delivered by Worldometer's RTS algorithm , which processes data collected from the United Nations Population Division. The Population of United States (1950 - 2025) chart plots the total population count as of July 1 of each year, from 1950 to 2025. The Yearly Population Growth Rate chart plots the annual percentage changes in population registered on July 1 of each year, from 1951 to 2025. This value can differ from the Yearly % Change shown in the historical table, which shows the last year equivalent percentage change assuming homogeneous change in the preceding five year period. Year : as of July 1 of the year indicated. Population : Overall total population (both sexes and all ages) in the country as of July 1 of the year indicated, as estimated by the United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects: The 2024 Revision . For forecasted years, the U.N. medium-fertility variant is used. Yearly % Change : For 2025: percentage change in total population over the last year (from July 1, 2024 to June 30, 2025). For all other years: latest year annual percentage change equivalent assuming homogeneous change in the preceding five year period, calculated through reverse compounding. Yearly Change : For 2025: absolute change in total population (increase or decrease in number of people) over the last year (from July 1, 2024 to June 30, 2025). For all other years: average annual numerical change over the preceding five year period. Migrants (net) : The average annual number of immigrants minus the number of emigrants over the preceding five year period (running from July 1 to June 30 of the initial and final years), or subsequent five year period (for 2016 data). A negative number means that there are more emigrants than immigrants. Median Age : age that divides the population into two numerically equal groups: half of the people are older than the median age indicated and half are younger. This parameter provides an indication of age distribution. Fertility Rate : (Total Fertility Rate, or TFR), it is expressed as children per woman. It is calculated as the average number of children an average wom",
+      "title": "United States Population (2025) - Worldometer",
+      "url": "https://www.worldometers.info/world-population/us-population/",
+      "source": "worldometers.info",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:56.139353",
+      "extra": {
+        "snippet": "The current population of the United States of America is 347,513,428 as of Monday, August 18, 2025, based on Worldometer's elaboration of the latest United Nations data1."
+      }
+    }
+  ]
+}

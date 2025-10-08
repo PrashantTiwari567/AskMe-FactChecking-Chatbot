@@ -1,0 +1,114 @@
+{
+  "query": "Population of the United States (approx)",
+  "timestamp": "2025-10-08T03:48:33.785916",
+  "claims": [
+    {
+      "sentence": "In world demographics, the world population is the total number of humans currently alive.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Population figures for the Indigenous peoples of the Americas before European colonization have been difficult to establish.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The ages, races, and population density of the United States tell a story.",
+      "support_evidence_idx": [
+        2,
+        3
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    },
+    {
+      "sentence": "An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+      "support_evidence_idx": [
+        4,
+        5
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "In world demographics, the world population is the total number of humans currently alive. It was estimated by the United Nations to have exceeded eight billion in mid-November 2022. It took around 300,000 years of human prehistory and history for the human population to reach a billion and only 218 more years to reach 8 billion.",
+      "title": "World population",
+      "url": "https://en.wikipedia.org/wiki/World_population",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:29.230175",
+      "extra": {}
+    },
+    {
+      "text": "Population figures for the Indigenous peoples of the Americas before European colonization have been difficult to establish. Estimates have varied widely from as low as 8 million to as many as 100 million, though by the end of the 20th Century, many scholars gravitated toward an estimate of around 50 million people.",
+      "title": "Population history of the Indigenous peoples of the Americas",
+      "url": "https://en.wikipedia.org/wiki/Population_history_of_the_Indigenous_peoples_of_the_Americas",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:29.732248",
+      "extra": {}
+    },
+    {
+      "text": "The ages, races, and population density of the United States tell a story. Understand the shifts in demographic trends with these charts visualizing decades of population data. 309,327,143 333,287,557 + 8 % Home Our Changing Population Home Population and Society Our Changing Population How has the population changed in the US? How many people live in the US? How has the US population changed over the years? How has the US racial and ethnic populations changed? How old is the population in the US? How has the distribution of ages in the US changed? How have the age and sex demographics of the US changed? What's the size of the US population and how has it changed? The Census Bureau’s Population and Housing Estimates Program (PEP) data by county includes details like counts by age, race, or ethnicity and goes back for decades. But how the Census Bureau reported and grouped those populations changed over time. Race categories Users will notice that the race categories change depending on the years selected in this interactive tool. This occurs because the Census Bureau has changed the race and ethnicity categories it makes available. To allow for comparisons over time, the race categories change depending on the earliest year selected in the comparison tool. If the earliest year selected in the tool is from before 1990, the data only includes three race categories: 'white', 'Black', and 'other'. As a result, any comparison that includes data from before 1990 only includes these three race categories. Race categories other than 'Black' and 'white' are included in the 'other' race category for years after 1990 when comparing to pre-1990 data. Any comparison where the earliest year is between 1990 and 1999 includes two additional categories: 'American Indian/Alaska Native' and 'Asian or Pacific Islander.' Separate reporting for 'Asian' and 'Hawaiian Native/Pacific Islander' are combined for years after 2000 when the comparison year is in the 1990s. Data from 2000 onward considers 'Asian' and 'Hawaiian Native/Pacific Islander' as separate groups and also includes the 'multiracial' category. These categories do not exist for earlier years and do not appear in comparisons in this tool if a year prior to 2000 is selected. Prior to 2000, the Census Bureau did not separately identify people who were two or more races. All persons were grouped into singular race categories. In 2000, the Census added the 'Two or more races' category to the data. The Census Bureau states that the number of people in the separate race categories (i.e., 'white', 'Black', etc.) was impacted by this change as some people who would have previously been grouped within a single race category were grouped into the two or more category with the change. Pre-2000 and post-2000 data comparisons will result in lower values for the separate race categories in proportion to the 'two or more race' population. Ethnicity categories In addition to the changes in race categories over time, the Hi",
+      "title": "US population by year, race, age, ethnicity, & more | USAFacts",
+      "url": "https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/",
+      "source": "usafacts.org",
+      "provider": "web",
+      "published": "2025-10-08 00:13:11.929000+00:00",
+      "retrieved": "2025-10-08 03:48:31.255583",
+      "extra": {
+        "snippet": "Dec 5, 2024 · The ages, races, and population density of the United States tell a story. Understand the shifts in demographic trends with these charts visualizing decades of population data."
+      }
+    },
+    {
+      "text": "The ages, races, and population density of Harrisonburg city, Virginia tell a story. Understand the shifts in demographic trends with these charts visualizing decades of population data. 48,999 51,158 + 4.4 % Home Our Changing Population Home Population and Society Our Changing Population How has the population changed in Harrisonburg city? How many people live in Harrisonburg city? How has Harrisonburg city's population changed over the years? How has Harrisonburg city's racial and ethnic populations changed? How old is the population in Harrisonburg city? How has the distribution of ages in Harrisonburg city changed? How have the age and sex demographics of Harrisonburg city changed? What's the size of the US population and how has it changed? Over the past 50 years, some counties have merged or split, and the resulting data was redistributed to other counties. The Census Bureau reports population estimates for counties based on their existing boundaries at the end of each decade. Read more The Census Bureau’s Population and Housing Estimates Program (PEP) data by county includes details like counts by age, race, or ethnicity and goes back for decades. But how the Census Bureau reported and grouped those populations changed over time. Race categories Users will notice that the race categories change depending on the years selected in this interactive tool. This occurs because the Census Bureau has changed the race and ethnicity categories it makes available. To allow for comparisons over time, the race categories change depending on the earliest year selected in the comparison tool. If the earliest year selected in the tool is from before 1990, the data only includes three race categories: 'white', 'Black', and 'other'. As a result, any comparison that includes data from before 1990 only includes these three race categories. Race categories other than 'Black' and 'white' are included in the 'other' race category for years after 1990 when comparing to pre-1990 data. Any comparison where the earliest year is between 1990 and 1999 includes two additional categories: 'American Indian/Alaska Native' and 'Asian or Pacific Islander.' Separate reporting for 'Asian' and 'Hawaiian Native/Pacific Islander' are combined for years after 2000 when the comparison year is in the 1990s. Data from 2000 onward considers 'Asian' and 'Hawaiian Native/Pacific Islander' as separate groups and also includes the 'multiracial' category. These categories do not exist for earlier years and do not appear in comparisons in this tool if a year prior to 2000 is selected. Prior to 2000, the Census Bureau did not separately identify people who were two or more races. All persons were grouped into singular race categories. In 2000, the Census added the 'Two or more races' category to the data. The Census Bureau states that the number of people in the separate race categories (i.e., 'white', 'Black', etc.) was impacted by this change as some people who would have previously been ",
+      "title": "Harrisonburg city, VA population by year, race, & more | USAFacts",
+      "url": "https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/virginia/county/harrisonburg-city/",
+      "source": "usafacts.org",
+      "provider": "web",
+      "published": "2025-10-07 22:07:51.285000+00:00",
+      "retrieved": "2025-10-08 03:48:31.973483",
+      "extra": {
+        "snippet": "The ages, races, and population density of Harrisonburg city, Virginia tell a story. Understand the shifts in demographic trends with these charts visualizing decades of population data."
+      }
+    },
+    {
+      "text": "An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. APRIL 10, 2025 — The U.S. Census Bureau today released a downloadable file containing estimates of the nation’s resident population by sex and single year of age as of July 1, 2024, which is available at www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html . In the coming months , the Census Bureau will release additional population estimates for cities and towns as well as population estimates by age, sex, race and Hispanic origin for the nation, states, counties, and metropolitan and micropolitan statistical areas. No news release associated with this product. Tip sheet only. ### Share Contact Angelica Vasquez Public Information Office 301-763-3030 or 877-861-2010 (U.S. and Canada only) [email protected] Top Receive Updates To sign up for updates please enter your email address. Stay Current America Counts Director’s Blog Deputy Director’s Blog Random Samplings Research Matters Stay Connected Contact Support Jobs Follow Measuring America's People and Economy",
+      "title": "Census Bureau Releases New U.S. Population Estimates by Age and Sex",
+      "url": "https://www.census.gov/newsroom/press-releases/2025/population-estimates-age-sex.html",
+      "source": "census.gov",
+      "provider": "web",
+      "published": "2025-04-10 00:00:00-04:00",
+      "retrieved": "2025-10-08 03:48:32.783424",
+      "extra": {
+        "snippet": "Apr 10, 2025 · The U.S. Census Bureau released a downloadable file containing estimates of the nation’s resident population by sex and single year of age as of July 1, 2024."
+      }
+    },
+    {
+      "text": "An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock A locked padlock ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. * Note: Corrections were made on 12/20/2024. Changes are shown in bold. Replaced Iowa (0.7%) with Nebraska (0.9%) as one of the fastest-growing states within the Midwest. Nebraska was the second fastest-growing state within the region. DEC. 19, 2024 — The U.S. population grew by nearly 1.0% between 2023 and 2024, according to the new Vintage 2024 population estimates released today by the U.S. Census Bureau. As the nation’s population surpasses 340 million, this is the fastest annual population growth the nation has seen since 2001 — a notable increase from the record low growth rate of 0.2% in 2021. The growth was primarily driven by rising net international migration. Net international migration, which refers to any change of residence across U.S. borders (the 50 states and the District of Columbia), was the critical demographic component of change driving growth in the resident population. With a net increase of 2.8 million people, it accounted for 84% of the nation’s 3.3 million increase in population between 2023 and 2024. This reflects a continued trend of rising international migration, with a net increase of 1.7 million in 2022 and 2.3 million in 2023. \"Improved integration of federal data sources on immigration has enhanced our estimates methodology,\" said Christine Hartley, assistant division chief for Estimates and Projections. \"With this update, we can better understand how the recent increase in international migration is impacting the country's overall population growth.\" (More information on the Census Bureau’s updates to how it measures international migration are available in Census Bureau Improves Methodology to Better Capture Increase in Net International Migration ). Natural increase also contributed to the population growth, as births outnumbered deaths by nearly 519,000 between 2023 and 2024. This marks an increase from the historic low in 2021 when natural increase was just over 146,000, but it was still well below the highs in prior decades. “An annual growth rate of 1.0% is higher than what we’ve seen over recent years but well within historical norms,” said Kristie Wilder, a demographer in the Census Bureau’s Population Division. “What stands out is the diminishing role of natural increase over the last five years, as net international migration has become the primary driver of the nation’s growth.” Meanwhile, the voting-age resident population (age 18 and over) grew to nearly 267 million, representing 78.5% of the population and the number of U.S. children (ages 0 to 17) declined by 0.2% from 73.3 million in 2023 to 73.1 million in 2024. At nearly 132.7 ",
+      "title": "Migration Drives Highest Population Growth in Decades",
+      "url": "https://www.census.gov/newsroom/press-releases/2024/population-estimates-international-migration.html",
+      "source": "census.gov",
+      "provider": "web",
+      "published": "2024-12-19 00:00:00-05:00",
+      "retrieved": "2025-10-08 03:48:33.777912",
+      "extra": {
+        "snippet": "Dec 19, 2024 · As the nation’s population surpasses 340 million, this is the fastest annual population growth the nation has seen since 2001 — a notable increase from the record low …"
+      }
+    }
+  ]
+}

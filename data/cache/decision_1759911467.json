@@ -1,0 +1,106 @@
+{
+  "query": "What does HTTP stand for?",
+  "timestamp": "2025-10-08T03:17:47.611873",
+  "claims": [
+    {
+      "sentence": "A non sequitur is a conversational literary device, often used for comedic purposes.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Anthony Patrick Carr is an Irish-British comedian.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Above are the best award winning free online tests for Python Exam Preparation.",
+      "support_evidence_idx": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "A non sequitur is a conversational literary device, often used for comedic purposes. It is something said that, because of its apparent lack of meaning relative to what preceded it, seems absurd to the point of being humorous or confusing. This use of the term is distinct from the non sequitur in logic, where it is a fallacy.",
+      "title": "Non sequitur (literary device)",
+      "url": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:41.379736",
+      "extra": {}
+    },
+    {
+      "text": "James Anthony Patrick Carr is an Irish-British comedian. He began his career in 1997 with a series of successful stand-up performances. He has regularly appeared on television as the host of Channel 4 panel shows such as The Big Fat Quiz of the Year, 8 Out of 10 Cats (2005–2021), and 8 Out of 10 Cats Does Countdown. Carr is known for his rapid-fire deadpan delivery of one-liners.",
+      "title": "Jimmy Carr",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carr",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:41.895242",
+      "extra": {}
+    },
+    {
+      "text": "Above are the best award winning free online tests for Python Exam Preparation. Our Patented Exam Preparation Algorithm made us bag this award. Make the maximum out of these online tests for Python Exam Preparation.",
+      "title": "Python Test by Youth4work",
+      "url": "https://www.youth4work.com/onlinetalenttest/Python-Test",
+      "source": "youth4work.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:44.559124",
+      "extra": {
+        "snippet": "Do you think that you’re an expert of Python ? Attempt the online Python Test by Youth4work and know where you stand globally."
+      }
+    },
+    {
+      "text": "Above are the best award winning free online tests for Electrical Engineering Exam Preparation. Our Patented Exam Preparation Algorithm made us bag this award. Make the maximum out of these online tests for Electrical Engineering Exam Preparation.",
+      "title": "Electrical Engineering Test by Youth4work",
+      "url": "https://www.youth4work.com/onlinetalenttest/Electrical-Engineering-Test",
+      "source": "youth4work.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:45.564696",
+      "extra": {
+        "snippet": "Do you think that you’re an expert of Electrical Engineering ? Attempt the online Electrical Engineering Test by Youth4work and know where you stand globally."
+      }
+    },
+    {
+      "text": "Above are the best award winning free online tests for Javascript Exam Preparation. Our Patented Exam Preparation Algorithm made us bag this award. Make the maximum out of these online tests for Javascript Exam Preparation.",
+      "title": "Javascript Test by Youth4work",
+      "url": "https://www.youth4work.com/onlinetalenttest/Javascript-Test",
+      "source": "youth4work.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:46.610717",
+      "extra": {
+        "snippet": "Do you think that you’re an expert of Javascript ? Attempt the online Javascript Test by Youth4work and know where you stand globally."
+      }
+    },
+    {
+      "text": "Above are the best award winning free online tests for MySql Exam Preparation. Our Patented Exam Preparation Algorithm made us bag this award. Make the maximum out of these online tests for MySql Exam Preparation.",
+      "title": "MySql Test by Youth4work",
+      "url": "https://www.youth4work.com/onlinetalenttest/MySql-Test",
+      "source": "youth4work.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:47.606873",
+      "extra": {
+        "snippet": "Do you think that you’re an expert of MySql ? Attempt the online MySql Test by Youth4work and know where you stand globally."
+      }
+    }
+  ]
+}

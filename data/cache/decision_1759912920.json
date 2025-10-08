@@ -1,0 +1,130 @@
+{
+  "query": "What is the chemical symbol for gold?",
+  "timestamp": "2025-10-08T03:42:00.302260",
+  "claims": [
+    {
+      "sentence": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gold is a chemical element; it has chemical symbol Au and atomic number 79.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous The chemical symbol for Gold (Au) is based on its Latin name Aurum, not for its English name Gold.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous Au, from the Latin aurum meaning gold.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous Gold and silver are known as precious metals.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "0 Anonymous Gold is known as Aurum and Silver is known as Argentum.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Chemical symbols are the abbreviations used in chemistry, mainly for chemical elements; but also for functional groups, chemical compounds, and other entities. Element symbols for chemical elements, also known as atomic symbols, normally consist of one or two letters from the Latin alphabet and are written with the first letter capitalised.",
+      "title": "Chemical symbol",
+      "url": "https://en.wikipedia.org/wiki/Chemical_symbol",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:55.016209",
+      "extra": {}
+    },
+    {
+      "text": "Gold is a chemical element; it has chemical symbol Au and atomic number 79. In its pure form, it is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal, a group 11 element, and one of the noble metals. It is one of the least reactive chemical elements, being the second lowest in the reactivity series, with only platinum ranked as less reactive. Gold is solid under standard conditions.",
+      "title": "Gold",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:55.466168",
+      "extra": {}
+    },
+    {
+      "text": "0 Anonymous The chemical symbol for Gold (Au) is based on its Latin name Aurum, not for its English name Gold. Most elements symbols match their English names, some don't - examples: Silver (Ag) is named for Argentum Iron (Fe) is named for Ferrum Sodium (Na) is named for Natrum Tungsten (W) is named for Wolfram Wiki User Gold's chemical formula is Au, which comes from its Latin name &quot;aurum.&quot; It is a transition metal with the atomic number 79. Gold's chemical formula is Au, which is derived from its Latin name &quot;aurum.&quot; The element gold has an atomic number of 79, a chemical symbol of Au, and is classified as a transition metal. The chemical symbol of gold is Au. Au is the symbol for gold, from the Latin aurum. Au. Aurum is the Latin word for gold. Gold's chemical formula is Au, which comes from its Latin name &quot;aurum.&quot; It is a transition metal with the atomic number 79. Gold's chemical formula is Au, which is derived from its Latin name &quot;aurum.&quot; Golds elemental symbol is: Au The element gold has an atomic number of 79, a chemical symbol of Au, and is classified as a transition metal. The chemical symbol for gold is Au The atomic symbol for gold is AU. Gold, with the atomic symbol AU, is element number 79. Who is team B G? AU is the chemical symbol for gold on the periodic table. 1 g of gold is equal to 0,006 moles. The chemical symbol of gold is Au.",
+      "title": "Why is gold's chemical Au and not G? - Answers",
+      "url": "https://www.answers.com/chemistry/Why_is_gold's_chemical_Au_and_not_G",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:57.187702",
+      "extra": {
+        "snippet": "May 21, 2024 · The chemical symbol for Gold (Au) is based on its Latin name Aurum, not for its English name Gold.Most elements symbols match their English names, some don't - …"
+      }
+    },
+    {
+      "text": "0 Anonymous Au, from the Latin aurum meaning gold. Au is gold. Even though gold does not have an a or an u in it. Wiki User The chemical symbol of gold is Au. AU is the chemical symbol for gold on the periodic table. Au. Aurum is the Latin word for gold. gold I believe you are talking about the element Gold. It comes from the Latin name of gold which is aurum. Oh, dude, you're hitting me with the hard-hitting questions! Gold's chemical symbol is Au, which is short for &quot;aurum&quot; in Latin, and radium's symbol is Ra. So, like, if you ever need to impress someone at a party with random chemical knowledge, there you go. The chemical symbol for the metal gold is Au. The chemical symbol for gold is Au The chemical symbol for gold is Au, from the latin aurum Au is the symbol for gold, from the Latin aurum. The chemical symbol of gold is Au. The chemical symbol for gold is Au. An example of a chemical formula for a chemical compound of gold is AuCl. The chemical symbol for gold is Au and the chemical symbol for iron is Fe. The chemical symbol of gold is Au. AU is the chemical symbol for gold on the periodic table. The chemical symbol for gold is Au. Gold and silver both have the letter A. Gold is AU silver is AG Au. Aurum is the Latin word for gold.",
+      "title": "What is the chemical symbol for gold? - Answers",
+      "url": "https://www.answers.com/natural-sciences/What_is_the_chemical_symbol_for_gold",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:58.268523",
+      "extra": {
+        "snippet": "May 21, 2024 · Gold's chemical symbol is Au, which is short for \"aurum\" in Latin, and radium's symbol is Ra. So, like, if you ever need to impress someone at a party with random chemical …"
+      }
+    },
+    {
+      "text": "0 Anonymous Gold and silver are known as precious metals. The chemical symbol for silver is AG, taken from the Latin word Argentum. The chemical symbol for gold is AU, taken from the Latin word Aurum. Symbols may be different in languages other than English. Wiki User The chemical symbols for gold, silver, and platinum are Au, Ag, and Pt, respectively. The chemical symbol of silver is Ag: chemical symbols are used in chemical formulae and equations. Gold and silver are elements. The symbol for gold is Au, and the symbol for silver is Ag. Dmitri Mendeleev did not think gold and silver were alkali metals. He classified gold and silver as transition metals in his periodic table based on their chemical and physical properties. Alkali metals are a different group of elements. The other stable elements in the same periodic column as gold are copper and silver. The chemical symbols for gold, silver, and platinum are Au, Ag, and Pt, respectively. Gold: Au Silver: Ag Platinum: Pt The chemical symbols of gold, copper, potassium, silver, platinum, and Iron are Au, Cu, K, Ag, Pt, and Fe respectively. The chemical symbol of silver is Ag: chemical symbols are used in chemical formulae and equations. Au stands for gold (from the Latin word &quot;aurum&quot;), and Ag stands for silver (from the Latin word &quot;argentum&quot;). These are the chemical symbols for gold and silver on the periodic table of elements. Gold and silver are both precious metals with various industrial, decorative, and monetary uses due to their unique properties. The chemical symbol for silver is Ag. Gold and silver both have the letter A. Gold is AU silver is AG No. Gold and silver are elements- the most basic of all materials. No chemical can create gold. That would be alchemy, which does not exist. Au is the elemental abbreviation for gold. The third symbol to get to the last pure metal, which is usually considered to be gold (Au), is the chemical symbol for silver (Ag). In the context of the periodic table, the transition metals lead to gold, with silver being one of the key metals preceding it. Therefore, the sequence of symbols would typically involve copper (Cu), silver (Ag), and then gold (Au). The chemical symbol for gold is 'Au' . This comes from Latin for gold, which is 'Aurum'. Similarly, Silver is 'Ag'. Again from Latin, for silver which is 'Argentum'. Chemical symbols are: Mercury-Hg, Gold-Au, Silver-Ag, Arsenic-As, Radon-Rn, Plutonium-Pu, Uranium-U, Potassium-K, Sodium-Na, Titanium-Ti.",
+      "title": "What are the chemical symbols for gold and silver? - Answers",
+      "url": "https://www.answers.com/natural-sciences/What_are_the_chemical_symbols_for_gold_and_silver",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:59.263933",
+      "extra": {
+        "snippet": "Jun 11, 2024 · Gold and silver are known as precious metals. The chemical symbol for silver is AG, taken from the Latin word Argentum. The chemical symbol for gold is AU, taken from the …"
+      }
+    },
+    {
+      "text": "0 Anonymous Gold is known as Aurum and Silver is known as Argentum. Wiki User Gold and silver both have the letter A. Gold is AU silver is AG The chemical symbol for gold is 'Au' . This comes from Latin for gold, which is 'Aurum'. Similarly, Silver is 'Ag'. Again from Latin, for silver which is 'Argentum'. Au stands for gold (from the Latin word &quot;aurum&quot;), and Ag stands for silver (from the Latin word &quot;argentum&quot;). These are the chemical symbols for gold and silver on the periodic table of elements. Gold and silver are both precious metals with various industrial, decorative, and monetary uses due to their unique properties. The chemical symbol for gold is Au because it comes from the Latin word &quot;aurum,&quot; which means gold. The symbols used for chemical elements are based on their Latin or Greek names, not necessarily on their English names or the first letter of the element. Many elements from ancient history, are known by their Latin name. In the case of Gold, which has been known for thousands of years due to its inert nature, it was named as 'Aurum' by the Roman Empire(Latin). Hence Aurum is shortened to 'Au'. Similarly, Silver is 'Ag' (Argentum) Copper is 'Cu' (Cuprum). Sodium is 'Na' (Nadium) Potassium is 'K' (Kalium) Mercury is 'Hg' (Hydragyrum). Gold and silver both have the letter A. Gold is AU silver is AG Gold is not Ag it is Au Ag is silver. Au comes from the Latin name for gold, aurum Ag comes from the Latin name for silver argentum Gold is a precious metal that is highly valued for its rarity, beauty, and durability. It symbolizes wealth, luxury, and power. Other names or words for gold include aurum (Latin), oro (Spanish), and zahab (Arabic). The chemical symbol for gold is 'Au' . This comes from Latin for gold, which is 'Aurum'. Similarly, Silver is 'Ag'. Again from Latin, for silver which is 'Argentum'. Gold and silver are known as precious metals. The chemical symbol for silver is AG, taken from the Latin word Argentum. The chemical symbol for gold is AU, taken from the Latin word Aurum. Symbols may be different in languages other than English. The Latin American country that still mines for and produces both silver and gold is Peru. They produce 150 metric tons of gold and 110 million ounces of silver per year. They usually begin with the letter that starts their Latin name (E.G., \"aurum\" = gold = Au). The periodic table of the elements is based on Latin names. The Latin word for gold is \"aurum.\" The Periodic Table of the elements is based on Latin names. The Latin word for gold is \"aurum.\" Au stands for gold (from the Latin word &quot;aurum&quot;), and Ag stands for silver (from the Latin word &quot;argentum&quot;). These are the chemical symbols for gold and silver on the periodic table of elements. Gold and silver are both precious metals with various industrial, decorative, and monetary uses due to their unique properties. Silver. Incidentally, gold is Au. Both, I believe, come from the Latin roots",
+      "title": "What are the latin names of gold and silver? - Answers",
+      "url": "https://www.answers.com/chemistry/What_are_the_latin_names_of_gold_and_silver",
+      "source": "answers.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:42:00.294255",
+      "extra": {
+        "snippet": "May 29, 2024 · Au stands for gold (from the Latin word \"aurum\"), and Ag stands for silver (from the Latin word \"argentum\"). These are the chemical symbols for gold and silver on the periodic …"
+      }
+    }
+  ]
+}

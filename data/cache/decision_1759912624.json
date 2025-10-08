@@ -1,0 +1,67 @@
+{
+  "query": "Distance from Earth to the Moon in km",
+  "timestamp": "2025-10-08T03:37:04.983496",
+  "claims": [
+    {
+      "sentence": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The driving distance or the travel distance between Earth to Moon is 2326 KM and 867 meters.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The instantaneous Earth–Moon distance, or distance to the Moon, is the distance from the center of Earth to the center of the Moon. In contrast, the Lunar distance, or Earth–Moon characteristic distance, is a unit of measure in astronomy. More technically, it is the semi-major axis of the geocentric lunar orbit. The average lunar distance is approximately 385,000 km (239,000 mi), or 1.3 light-seconds. It is roughly 30 times Earth's diameter and a non-stop plane flight traveling that distance would take more than two weeks. Around 389 lunar distances make up an astronomical unit.",
+      "title": "Lunar distance",
+      "url": "https://en.wikipedia.org/wiki/Lunar_distance",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:00.458738",
+      "extra": {}
+    },
+    {
+      "text": "The Moon orbits Earth in the prograde direction and completes one revolution relative to the Vernal Equinox and the fixed stars in about 27.3 days, and one revolution relative to the Sun in about 29.5 days.",
+      "title": "Orbit of the Moon",
+      "url": "https://en.wikipedia.org/wiki/Orbit_of_the_Moon",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:00.943740",
+      "extra": {}
+    },
+    {
+      "text": "The driving distance or the travel distance between Earth to Moon is 2326 KM and 867 meters. The mile based, road distance between these two travel point is 1445.8 miles.",
+      "title": "Distance between Earth and Moon is 2298 KM / 1428.4 miles",
+      "url": "https://distancebetween2.com/earth/moon",
+      "source": "distancebetween2.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:04.977490",
+      "extra": {
+        "snippet": "The total straight line distance between Earth and Moon is 2075 KM (kilometers) and ... The miles based distance from Earth to Moon is 1289.5 miles."
+      }
+    }
+  ]
+}

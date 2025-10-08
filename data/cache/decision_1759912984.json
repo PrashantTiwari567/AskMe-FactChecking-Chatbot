@@ -1,0 +1,109 @@
+{
+  "query": "What does HTTP stand for?",
+  "timestamp": "2025-10-08T03:43:04.085278",
+  "claims": [
+    {
+      "sentence": "A non sequitur is a conversational literary device, often used for comedic purposes.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Anthony Patrick Carr is an Irish-British comedian.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "This is an accepted version of this page HTTP ( Hypertext Transfer Protocol ) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "This browser is no longer supported.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "HTML: Markup language CSS: Styling language JavaScript: Scripting language Web APIs: Programming interfaces All web technology Learn web development Discover our tools Get to know MDN better HTTP is a protocol for fetching resources such as HTML documents.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "A non sequitur is a conversational literary device, often used for comedic purposes. It is something said that, because of its apparent lack of meaning relative to what preceded it, seems absurd to the point of being humorous or confusing. This use of the term is distinct from the non sequitur in logic, where it is a fallacy.",
+      "title": "Non sequitur (literary device)",
+      "url": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:43:00.005386",
+      "extra": {}
+    },
+    {
+      "text": "James Anthony Patrick Carr is an Irish-British comedian. He began his career in 1997 with a series of successful stand-up performances. He has regularly appeared on television as the host of Channel 4 panel shows such as The Big Fat Quiz of the Year, 8 Out of 10 Cats (2005–2021), and 8 Out of 10 Cats Does Countdown. Carr is known for his rapid-fire deadpan delivery of one-liners.",
+      "title": "Jimmy Carr",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carr",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:43:00.461771",
+      "extra": {}
+    },
+    {
+      "text": "This is an accepted version of this page HTTP ( Hypertext Transfer Protocol ) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems. [ 1 ] HTTP is the foundation of data communication for the World Wide Web , where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser . Development of HTTP was initiated by Tim Berners-Lee at CERN in 1989 and summarized in a simple document describing the behavior of a client and a server using the first HTTP version, named 0.9. [ 2 ] That version was subsequently developed, eventually becoming the public 1.0. [ 3 ] Development of early HTTP Requests for Comments (RFCs) started a few years later in a coordinated effort by the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C), with work later moving to the IETF. HTTP/1 was finalized and fully documented (as version 1.0) in 1996. [ 4 ] It evolved (as version 1.1) in 1997 and then its specifications were updated in 1999, 2014, and 2022. [ 5 ] Its secure variant named HTTPS is used by more than 85% of websites. [ 6 ] HTTP/2 , published in 2015, provides a more efficient expression of HTTP's semantics \"on the wire\". As of August 2024, [update] it is supported by 66.2% of websites [ 7 ] [ 8 ] (35.3% HTTP/2 + 30.9% HTTP/3 with backwards compatibility) and supported by almost all web browsers (over 98% of users). [ 9 ] It is also supported by major web servers over Transport Layer Security (TLS) using an Application-Layer Protocol Negotiation (ALPN) extension [ 10 ] where TLS 1.2 or newer is required. [ 11 ] [ 12 ] HTTP/3 , the successor to HTTP/2, was published in 2022. [ 13 ] As of February 2024, [update] it is now used on 30.9% of websites [ 14 ] and is supported by most web browsers, i.e. (at least partially) supported by 97% of users. [ 15 ] HTTP/3 uses QUIC instead of TCP for the underlying transport protocol. Like HTTP/2, it does not obsolete previous major versions of the protocol. Support for HTTP/3 was added to Cloudflare and Google Chrome first, [ 16 ] [ 17 ] and is also enabled in Firefox . [ 18 ] HTTP/3 has lower latency for real-world web pages, if enabled on the server, and loads faster than with HTTP/2, in some cases over three times faster than HTTP/1.1 (which is still commonly only enabled). [ 19 ] HTTP functions as a request–response protocol in the client–server model . A web browser , for example, may be the client whereas a process , named web server , running on a computer hosting one or more websites may be the server . The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requ",
+      "title": "HTTP - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HTTP",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:43:02.319245",
+      "extra": {
+        "snippet": "October 29, 2001 - The standard choice of the underlying protocol prior to HTTP/3 is Transmission Control Protocol (TCP). HTTP/3 uses a different transport layer called QUIC, which provides reliability on top of the unreliable User Datagram Protocol (UDP). HTTP/1.1 and earlier have been adapted to be used over ..."
+      }
+    },
+    {
+      "text": "This browser is no longer supported. Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. Note Access to this page requires authorization. You can try signing in or changing directories . Access to this page requires authorization. You can try changing directories . Understanding the basics of how HTTP works is integral to understanding online advertising technology. For example, we deal with \"cookie data\"---but how does that cookie data get passed into an ad server or used in an ad request? What's actually contained in a cookie? Where do cookies live and how do we access cookie data on an ad call? And you may have asked yourself at some point, Why isn't my click tracking working? What's a segment pixel? Why do I need user ID mapping? To answer, you need to understand what's really happening when your browser contacts a web server, and very few people DO understand this---including most people in the online ad industry. There are a lot of information on the internet about HTTPs, below is a quick summary to get you started. Please let us know what's helpful for you and what suggestions you have, and let us know if you've found any good intro guides. HTTP stands for Hypertext Transfer Protocol, and it's how different parts of the Internet communicate with each other. HTTP is what's known as a \"request-response\" language because your web browser (Firefox, Safari, etc.) sends an HTTP request to a server that is hosting the web content you want to work with. The server then sends an HTTP response back to your web browser. This is why you will hear your browser referred to as a \"client,\" and the browser-server relationship as a \"client-server\" relationship. A browser only makes requests, and the server serves the client's requests with responses. Most everyone is familiar with URLs. They are the web addresses you type into the address bar on your browser. A URL, which is written in standard HTTP, provides the means to identify and locate a resource. A resource can be graphics, text, or an application, etc. Below is the standard syntax of a URL: Let's review the following URL and find the article \"Choice Tables - Delicious Ways to Love Downtown Los Angeles\" on the New York Times website: https://www.nytimes.com/2010/09/12/travel/12choice.html?_r=1&src=me&ref=travel This defines the type of resource. We are dealing with HTTP, so the example above is of an HTTP resource. The scheme tells the server what type of resource the client (your browser) is looking for and what format the rest of the locator will be in. There are other types of Schemes, such as FTP, that we will discuss later. This is also called the domain name. It is a nickname for an IP address (we'll get into IP's later) that is more easily read by people. In the example above the hostname is \"www.nytimes.com.\" So the request knows to go to the NY Times server. The port number is optional, so it's not used in most URLs. If the port is not",
+      "title": "Intro to HTTP | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/xandr/industry-reference/intro-to-http",
+      "source": "microsoft.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:43:03.496608",
+      "extra": {
+        "snippet": "There are a lot of information on the internet about HTTPs, below is a quick summary to get you started. Please let us know what's helpful for you and what suggestions you have, and let us know if you've found any good intro guides. HTTP stands for Hypertext Transfer Protocol , and it's how ..."
+      }
+    },
+    {
+      "text": "HTML: Markup language CSS: Styling language JavaScript: Scripting language Web APIs: Programming interfaces All web technology Learn web development Discover our tools Get to know MDN better HTTP is a protocol for fetching resources such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is typically constructed from resources such as text content, layout instructions, images, videos, scripts, and more. Clients and servers communicate by exchanging individual messages (as opposed to a stream of data). The messages sent by the client are called requests and the messages sent by the server as an answer are called responses . Designed in the early 1990s, HTTP is an extensible protocol which has evolved over time. It is an application layer protocol that is sent over TCP , or over a TLS -encrypted TCP connection, though any reliable transport protocol could theoretically be used. Due to its extensibility, it is used to not only fetch hypertext documents, but also images and videos or to post content to servers, like with HTML form results. HTTP can also be used to fetch parts of documents to update Web pages on demand. HTTP is a client-server protocol: requests are sent by one entity, the user-agent (or a proxy on behalf of it). Most of the time the user-agent is a Web browser, but it can be anything, for example, a robot that crawls the Web to populate and maintain a search engine index. Each individual request is sent to a server, which handles it and provides an answer called the response . Between the client and the server there are numerous entities, collectively called proxies , which perform different operations and act as gateways or caches , for example. In reality, there are more computers between a browser and the server handling the request: there are routers, modems, and more. Thanks to the layered design of the Web, these are hidden in the network and transport layers. HTTP is on top, at the application layer. Although important for diagnosing network problems, the underlying layers are mostly irrelevant to the description of HTTP. The user-agent is any tool that acts on behalf of the user. This role is primarily performed by the Web browser, but it may also be performed by programs used by engineers and Web developers to debug their applications. The browser is always the entity initiating the request. It is never the server (though some mechanisms have been added over the years to simulate server-initiated messages). To display a Web page, the browser sends an original request to fetch the HTML document that represents the page. It then parses this file, making additional requests corresponding to execution scripts, layout information (CSS) to display, and sub-resources contained within the page (usually images and videos). The Web browser then combines these resources to present th",
+      "title": "Overview of HTTP - HTTP | MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview",
+      "source": "mozilla.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:43:04.078278",
+      "extra": {
+        "snippet": "HTTP is a protocol for fetching resources such as HTML documents . It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is typically constructed from resources ..."
+      }
+    }
+  ]
+}

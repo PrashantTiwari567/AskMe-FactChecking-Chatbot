@@ -1,0 +1,109 @@
+{
+  "query": "What is the capital of Japan?",
+  "timestamp": "2025-10-08T03:01:12.370192",
+  "claims": [
+    {
+      "sentence": "Capital punishment is a legal penalty in Japan.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Japan is an island country in East Asia.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The capital of Japan is Tokyo .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Complete list of all countries and their capital cities.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Capital punishment is a legal penalty in Japan. The Penal Code of Japan and several laws list 14 capital crimes. In practice, though, it is applied only for aggravated murder. Executions are carried out by long drop hanging, and take place at one of the seven execution chambers located in major cities across the country. The only crime punishable by a mandatory death sentence is instigation of foreign aggression.",
+      "title": "Capital punishment in Japan",
+      "url": "https://en.wikipedia.org/wiki/Capital_punishment_in_Japan",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:07.122324",
+      "extra": {}
+    },
+    {
+      "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands, covering 377,975 square kilometers (145,937 sq mi). Divided into 47 administrative prefectures and eight traditional regions, about 75% of the country's terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the 11th most populous country. The country's capital and largest city is Tokyo.",
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/wiki/Japan",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:07.590169",
+      "extra": {}
+    },
+    {
+      "text": "The capital of Japan is Tokyo . [ 1 ] [ 2 ] [ 3 ] Throughout history, the national capital of Japan has been in locations other than Tokyo. The oldest capital is Nara . While no laws have designated Tokyo as the Japanese capital, many laws have defined a \"capital area\" ( 首都圏 , shuto-ken ) that incorporates Tokyo. Article 2 of the Metropolitan Area Readjustment Act ( 首都圏整備法 ) of 1956 states: \"In this Act, the term 'capital area' shall denote a broad region comprising both the territory of the Tokyo Metropolis as well as outlying regions designated by cabinet order.\" This implies that the government has designated Tokyo as the capital of Japan, although (again) it is not explicitly stated, and the definition of the \"capital area\" is purposely restricted to the terms of that specific law. [ 4 ] Other laws referring to the \"capital area\" include the Capital Expressway Public Corporation Law ( 首都高速道路公団法 ) , [ 5 ] the Capital Area Greenbelt Preservation Law ( 首都圏近郊緑地保全法 ) , the Act on Arrangement of Suburban Development and Redevelopment Areas and Urban Development Areas in Metropolitan Area ( 首都圏の近郊整備地帯及び都市開発区域の整備に関する法律 ) , the Act on State's Special Financial Measures on Arrangement of Suburban Development and Redevelopment Areas, etc. in Tokyo Metropolitan Area, Kinki Area and Chubu Area ( 首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律 ) , and the Special Measurements for Greater Tokyo Area earthquakes Law ( 首都直下地震対策特別措置法 ) . [ 6 ] [ 7 ] In February 2018, Seiji Osaka , a member of the House of Representatives , asked the government where the capital of Japan is. In response, Shinzo Abe stated that while no laws define the capital of Japan, they believed that \"the capital of Japan is Tokyo is widely accepted by the people\". [ 8 ] [ 9 ] Traditionally, the home of the Emperor is considered the capital. From 794 through 1868, the Emperor lived in Heian-kyō , modern-day Kyoto . [ 10 ] [ 11 ] After 1868, the seat of the Government of Japan and the location of the Emperor's home was moved to Edo , which it renamed Tokyo. [ 12 ] This term for capital was never used to refer to Kyoto. Indeed, shuto came into use during the 1860s as a gloss of the English term \"capital\". In 1941, the Ministry of Education published the \"designation of Tokyo as capital\" ( 東京奠都 , Tōkyō-tento ) . [ 13 ] The Ministry of Education published a book called \"History of the Restoration\" in 1941. This book referred to \"designating Tokyo as capital\" ( 東京奠都 , Tōkyō-tento ) without talking about \"relocating the capital to Tokyo\" ( 東京遷都 , Tōkyō-sento ) . A contemporary history textbook states that the Meiji government \"moved the capital ( shuto ) from Kyoto to Tokyo\" without using the sento term. [ 13 ] The proposals to move the capital were conceptualized in 1979, and 16 years later, in 1995, the parliament voted to move the capital away from Tokyo to a place no more than 180 miles and 40 minutes away from the airport, which was planned to be completed in 2010. [ 14 ] [ 15 ] In 1999, the fol",
+      "title": "Capital of Japan - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capital_of_Japan",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:10.002980",
+      "extra": {
+        "snippet": "The capital of Japan is Tokyo, but the legal status of the capital area is not explicitly defined. The web page lists the historical and legendary capitals of Japan from ancient times to the present."
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. Tokyo , city and capital of Tokyo to (metropolis) and of Japan . It is located at the head of Tokyo Bay on the Pacific coast of central Honshu . It is the focus of the vast metropolitan area often called Greater Tokyo, the largest urban and industrial agglomeration in Japan. A brief treatment of Tokyo follows. For full treatment, see Tokyo-Yokohama metropolitan area . The site of Tokyo has been inhabited since ancient times; the small fishing village of Edo existed there for centuries. Edo’s development into a city did not occur until the Tokugawa period (1603–1867), when it became the capital of the Tokugawa shogunate. During this period, however, the imperial family remained in Kyōto, the ancient imperial capital. With the Meiji Restoration of 1868, which ended the shogunate, the capital was moved to Edo. The city was renamed Tokyo, meaning “eastern capital.” Edo had been Japan’s largest city since the 17th century. Tokyo’s population exceeded one million in the late 19th century, and as Japan’s political, economic, and cultural centre it became one of the world’s most populous cities in the 20th century. The city is built on low, alluvial plains and adjacent upland hills. The climate is mild in winter and hot and humid in the summer. Early summer and early autumn are rainy seasons; two or three typhoons usually occur during September and October. The metropolitan area is the largest industrial, commercial, and financial centre in Japan. Many domestic and international financial institutions and other businesses are headquartered in central Tokyo. The city is an important wholesale centre, where goods from all parts of the country and the world are distributed. Tokyo is part of the Keihin Industrial Zone , centred on the western shore of the bay, which has become the country’s leading manufacturing region. Light and labour-intensive industries predominate in the city, notably printing and publishing and the manufacture of electronic equipment. Encircled by stone-walled moats and broad gardens, the Imperial Palace , the home of the emperor of Japan, lies at the heart of the city. East of and adjacent to the Imperial Palace is the colourful Marunouchi district, the financial hub and a major centre of Japanese business activity. South of the palace is the Kasumigaseki district, containing many national government offices. West of that is Nagatacho, where the National Diet Building (parliament) is located. Tokyo has no single central business district, but the city is dotted with urban centres, usually around railroad stations, where department stores, shops, hotels, office buildings, and restaurants are clustered. In between are less intensively developed neighbourhoods with similar mixtures. The buildings in these districts range from stone and brick structures of the Meiji period (1868–1912) to postwar concrete and steel skyscrapers; there are also a dwind",
+      "title": "Tokyo | Japan, Population, Map, History, & Facts | Britannica",
+      "url": "https://www.britannica.com/place/Tokyo",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:10.863014",
+      "extra": {
+        "snippet": "Sep 5, 2025 · Tokyo, city and capital of Tokyo ‘to’ (metropolis) and of Japan . It is located at the head of Tokyo Bay on the Pacific coast of central Honshu. It is the focus of the vast metropolitan area often called Greater Tokyo, the largest urban and industrial agglomeration in Japan ."
+      }
+    },
+    {
+      "text": "Complete list of all countries and their capital cities. Explore world capitals organized by continent and country. This comprehensive list of countries and capitals provides detailed information about capital cities across all continents. Whether you're studying geography, planning international travel, or simply curious about world capitals , this complete guide covers every nation's administrative center. Countries and their capitals reflect diverse cultures, histories, and governmental structures. From bustling metropolises like Tokyo and New York to smaller administrative centers, each capital city serves as the political heart of its nation. Our country capital list includes 238 nations and their respective capitals. The capitals of the world vary greatly in size, population, and significance. Some capitals, like London and Paris, are global financial centers, while others primarily serve administrative functions. This world capital cities directory helps you understand the geographical distribution and characteristics of these important urban centers. Our 2025 list of countries and capitals is organized alphabetically and by continent, making it easy to find specific information about any nation's capital. Use the search function above to quickly locate any capital city or country in this comprehensive database. Multiple Capitals: Some countries have multiple capital cities. For example, South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial). Newest Capital: Naypyidaw became Myanmar's capital in 2006, making it one of the world's newest capital cities. Highest Capital: La Paz, Bolivia, is the world's highest administrative capital at approximately 3,650 meters (11,975 feet) above sea level. Smallest Capital: Vatican City serves as both a country and a capital, making it the world's smallest capital by area and population. There are 238 countries in our comprehensive list of countries and capitals . Each nation has at least one capital city that serves as its administrative center. Some countries have multiple capitals serving different governmental functions. Tokyo, Japan is considered the largest capital city by population in its greater metropolitan area. Among world capitals , it serves as a major global economic and cultural center. Africa has the most capital cities with 58 capitals, reflecting the large number of countries on this continent. Some nations in our countries and capitals list have multiple capitals to distribute governmental functions geographically or to balance power between regions. This arrangement can reflect historical compromises or efforts to promote regional development. If you need help, contact us: © 2024 Passport Ranker. All rights reserved.",
+      "title": "Countries and Their Capitals 2025 - Complete List | Passport Ranker",
+      "url": "https://passportranker.org/countries-capital.php",
+      "source": "passportranker.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:12.364175",
+      "extra": {
+        "snippet": "Complete list of all countries and their capitals. Find capital cities of every country in the world, organized by continent. Comprehensive world capitals list 2025."
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "query": "When did the James Webb Space Telescope launch?",
+  "timestamp": "2025-10-08T03:15:34.928993",
+  "claims": [
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+      "support_evidence_idx": [
+        0,
+        1
+      ],
+      "label": "Uncertain",
+      "notes": "Only one unique source domain",
+      "score": 0.0
+    },
+    {
+      "sentence": "Due to the lapse in federal government funding, NASA is not updating this website.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Posts from this topic will be added to your daily email digest and your homepage feed.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Today's liftoff was a long time coming.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. As the largest telescope in space, it is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.",
+      "title": "James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:28.209317",
+      "extra": {}
+    },
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed primarily to conduct infrared astronomy. Its complex launch and commissioning process lasted from late 2021 until mid-2022.",
+      "title": "Launch and commissioning of the James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/Launch_and_commissioning_of_the_James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:28.879903",
+      "extra": {}
+    },
+    {
+      "text": "Due to the lapse in federal government funding, NASA is not updating this website. Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the history of our Universe. Webb studies every phase in the history of our Universe, ranging from the first luminous glows after the Big Bang, to the formation of solar systems capable of supporting life on planets like Earth, to the evolution of our own Solar System. Webb launched on Dec. 25th 2021. It does not orbit around the Earth like the Hubble Space Telescope, it orbits the Sun 1.5 million kilometers (1 million miles) away from the Earth at what is called the second Lagrange point or L2. Mission Type Partners Launch Arrival at L2 extending the tantalizing discoveries of the Hubble Space Telescope. So big it has to fold origami-style to fit in the rocket and will unfold like a “Transformer” in space. Webb orbits the Sun 1.5 million kilometers from the Earth. (Hubble orbits 560 kilometers above the Earth.) Webb has a 5-layer sunshield that protects the telescope from the infrared radiation of the Sun, Earth, and Moon; like having sun protection of SPF 1 million. iIt will peer back in time over 13.5 billion years to see the first galaxies born after the Big Bang.in the ISS. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential… Webb's latest news releases in reverse chronological order. Search and sort the news feed with the controls immediately below. NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625… NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy. “Webb’s powerful infrared instruments provide… A blowtorch of seething gasses erupting from a volcanically growing monster star has been captured by NASA’s James Webb Space Telescope. Stretching across 8 light-years, the length of the stellar eruption is approximately twice the distance between our Sun and… An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets. Why has silicon, one of the most common elements in the universe, gone largely undetected in… Webb's Blog offers an insider's point of view covering a variety of topics that include on going operations as well as exciting Webb science images/spectra that are not yet peer reviewed and therefore not released as NASA feature articles ( IE the above official Webb News Feed). Blog posts are often co-authored by scientists and engineers and offer unique insights. Search and sort the new",
+      "title": "James Webb Space Telescope - NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/",
+      "source": "nasa.gov",
+      "provider": "web",
+      "published": "2023-05-25 08:11:06-04:00",
+      "retrieved": "2025-10-08 03:15:33.191732",
+      "extra": {
+        "snippet": "James Webb Space Telescope . Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide.NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential…"
+      }
+    },
+    {
+      "text": "Posts from this topic will be added to your daily email digest and your homepage feed. See All Science Posts from this topic will be added to your daily email digest and your homepage feed. See All Featured Videos Posts from this topic will be added to your daily email digest and your homepage feed. See All News At long last, the telescope is off our planet At long last, the telescope is off our planet Posts from this author will be added to your daily email digest and your homepage feed. See All by Loren Grush Early Christmas morning, NASA’s revolutionary new space observatory, the James Webb Space Telescope, successfully launched into space after taking off on top of a European Ariane 5 rocket from South America. The launch marks the beginning of one of the most anticipated NASA missions in decades, a program that promises to transform how we study the deepest depths of the Universe. “From a tropical rainforest to the edge of time itself, James Webb begins a voyage back to the birth of the Universe,” Rob Navias, NASA’s announcer on the agency’s livestream, said at liftoff. Though the initial trip to space may have been successful, there’s still a risky journey ahead for the James Webb Space Telescope , also known as JWST. Over the next month, the spacecraft will be journeying out to its final location 1 million miles from Earth. Along the way, the spacecraft will be slowly unfolding and reshaping itself to reach its final configuration, a process that is absolutely necessary for the telescope to observe the cosmos. There are hundreds of steps involved and plenty of moments where one bad deployment could jeopardize the entire mission. if it all works out, JWST will become one of the most important tools we’ve ever had But if it all works out, JWST will become one of the most important tools we’ve ever had for peering into the distant recesses of space . With a gold-plated mirror stretching 21 feet, or 6.5 meters wide, JWST will be able to gather infrared light from galaxies that has crossed 13.6 billion light-years through space and time. So when JWST sees these distant clusters, it will be seeing them as they were 13.6 billion years ago, right after the Universe as we know it came into being. Astronomers believe that the Big Bang, which sparked the expansion of our Universe, occurred 13.8 billion years ago. On top of that, JWST will observe every kind of cosmic object we can possibly see, from distant alien worlds and black holes, galaxies, supernovae, and violent collisions between dense stars. And perhaps, we’ll see some things we were not expecting along the way. “We are, without a doubt, going to see surprises... the likes of which we can only dream of right now,” Thomas Zurbuchen, the associate administrator for the Science Mission Directorate at NASA, tells The Verge . JWST is often considered the successor to the Hubble Space Telescope, which has been orbiting the Earth since 1990. However, JWST’s mirror will dwarf Hubble’s mirror, which",
+      "title": "NASA’s James Webb Space Telescope successfully launches to space | The Verge",
+      "url": "https://www.theverge.com/2021/12/25/22850167/james-webb-space-telescope-jwst-launch-mission-success",
+      "source": "theverge.com",
+      "provider": "web",
+      "published": "2021-12-25 12:51:17+00:00",
+      "retrieved": "2025-10-08 03:15:33.948387",
+      "extra": {
+        "snippet": "James Webb Space Telescope Launch . Image: NASA/Chris Gunn. JWST is often considered the successor to the Hubble Space Telescope , which has been orbiting the Earth since 1990."
+      }
+    },
+    {
+      "text": "Today's liftoff was a long time coming. And on Christmas, too When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . NASA just got a $10 billion space telescope for Christmas. An Ariane 5 rocket launched today (Dec. 25) from Europe's Spaceport in Kourou, French Guiana, at 7:20 a.m. EST (1220 GMT; 9:20 a.m. local time in Kourou), carrying the highly anticipated, long-delayed James Webb Space Telescope — and the hopes and dreams of countless astronomers, astrophysicists and planetary scientists around the world — into the final frontier. The huge telescope will peer at the universe's first stars and galaxies, sniff the atmospheres of nearby alien planets and perform a variety of other high-profile, high-impact work over the next five to 10 years, if all goes according to plan. The space telescope soared into a cloudy sky over Kourou and separated from its its Arianespace-built rocket about a half-hour later. Cheers erupted out at launch control as live views of Webb floating away and unfolding its solar array reached Earth. \"Go, Webb, go!\" rang one cheer from an Arianespace flight controller on NASA's live broadcast. Related : How the James Webb Space Telescope works in pictures More: James Webb Space Telescope: Live updates \"This is a one-of-a-kind\" mission, NASA Administrator Bill Nelson told Space.com last week. \"It is the most advanced technology that is going to, if successful, open up secrets of the universe that will be just stupendous, if not almost overwhelming, [providing a] quantum leap of understanding of who we are, how we got here, what we are and how did it all evolve.\" Breaking space news, the latest updates on rocket launches, skywatching events and more! \"If successful\" is a required caveat for every mission. But stressing it seems especially necessary with Webb, given the observatory's outsized importance and intricacy. Webb is \"the most complex thing, by far, that NASA has ever done,\" Webb Deputy Senior Project Scientist Jonathan Gardner, of NASA's Goddard Space Flight Center in Greenbelt, Maryland, told Space.com. \"It's arguably the biggest pure science project that the United States has ever done.\" Webb has been in the works for more than three decades. The ball first got rolling in September 1989, when a group of astronomers met at the Space Telescope Science Institute in Baltimore to discuss a possible successor to the Hubble Space Telescope . Hubble hadn't even launched yet, but big space telescopes take a long time to plan and build, so the astronomy community tends to think a decade or two in advance. And in this particular case, there was a strong desire to minimize the chance of a long observing gap between Hubble and a \"Next Generation Space Telescope\" (NGST), as the successor was informally called. Hubble launched to Earth orbit successfully in April 1990, but it soon became apparent that something was very wrong: The first images the scope returned were disappointingly",
+      "title": "NASA's James Webb Space Telescope launches on epic mission to study early universe | Space",
+      "url": "https://www.space.com/nasa-james-webb-space-telescope-launch-success",
+      "source": "space.com",
+      "provider": "web",
+      "published": "2021-12-25 13:05:07+00:00",
+      "retrieved": "2025-10-08 03:15:34.922994",
+      "extra": {
+        "snippet": "NASA's James Webb Space Telescope ( JWST ), will orbit the sun 1 million miles (1.5 million kilometers) from Earth."
+      }
+    }
+  ]
+}

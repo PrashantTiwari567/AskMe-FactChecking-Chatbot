@@ -1,0 +1,88 @@
+{
+  "query": "Who is the CEO of Microsoft?",
+  "timestamp": "2025-10-08T03:11:08.580631",
+  "claims": [
+    {
+      "sentence": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Chairman and Chief Executive Officer Satya Nadella is Chairman and Chief Executive Officer of Microsoft.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Microsoft , the world’s most valuable publicly traded company, has sustained its influence on the tech sphere since its founding by Bill Gates and Paul Allen in 1975.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Microsoft Gaming is an American multinational video game and digital entertainment division of Microsoft based in Redmond, Washington, established in 2022. Its five development and publishing labels consist of: Xbox Game Studios, Bethesda Softworks, Activision, Blizzard Entertainment, and King. It produces the Xbox video game consoles and services, in addition to overseeing production and sales, and is led by CEO Phil Spencer, who has overseen Xbox since 2014.",
+      "title": "Microsoft Gaming",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Gaming",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:03.407377",
+      "extra": {}
+    },
+    {
+      "text": "Satya Narayana Nadella is an Indian-born American business executive who is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+      "title": "Satya Nadella",
+      "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:04.020833",
+      "extra": {}
+    },
+    {
+      "text": "Chairman and Chief Executive Officer Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings. Most recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems. Originally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago. WE Communications Microsoft Media Relations (503) 443-7070 Images in this section by Brian Smale and Microsoft are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License . Images in this section by Brian Smale and Microsoft are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License .",
+      "title": "Satya Nadella - Source",
+      "url": "https://news.microsoft.com/source/exec/satya-nadella/",
+      "source": "microsoft.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:11:07.451494",
+      "extra": {
+        "snippet": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft . Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company."
+      }
+    },
+    {
+      "text": "Microsoft , the world’s most valuable publicly traded company, has sustained its influence on the tech sphere since its founding by Bill Gates and Paul Allen in 1975. In recent years, the tech giant has emerged at the forefront of the A.I. boom—thanks to its early, strategic investment in OpenAI and the development of its own Microsoft A.I . Thank you for signing up! By clicking submit, you agree to our <a href=\"http://observermedia.com/terms\">terms of service</a> and acknowledge we may use your information to send you emails, product samples, and promotions on this website and other properties. You can opt out anytime. Microsoft’s central business falls into Productivity and Business Processes, Intelligent Cloud, and Personal Computing. Productivity and Business Processes primarily include Office, LinkedIn , and Dynamics. The Intelligent Cloud encompasses Azure , Github , server products and enterprise services, while Personal Computing refers to Windows, Surface devices and Xbox gaming consoles. Today, Microsoft employs over 221,000 people globally. The tech giant has a tradition of promoting long-term employees to its most senior positions. Members of its leadership team have spent an average of over 20 years at the company. Here are the 16 key executives leading Microsoft’s sprawling tech empire, including eight C-Suite members and eight heads of Microsoft’s main products: Satya Nadella began his career at Microsoft in 1992 and was promoted to CEO in 2014. At Microsoft, he worked in various research, development, and business roles. Before being named CEO, Nadella was president of the Server and Tools Business unit for three years. He helped bring Microsoft’s database, Windows Server, and developer tools to its Azure cloud. At Microsoft, while the CEO decides on high-level strategies, the president oversees the company’s day-to-day operations. Brad Smith became president of Microsoft in 2021, following his roles as executive vice president (EVP) and general counsel. Before joining Microsoft as its European associate general counsel, Smith was a partner at the law firm Covington & Burling. He was later promoted to deputy general counsel of the worldwide sales group and then general counsel and EVP, the highest-ranking title under CEO. Outside Microsoft, Smith is a board member at Netflix. Amy Hood is Microsoft’s first female chief financial officer, having been in the role since 2013. She previously worked in various business functions within the company, including as CFO of the business division, general manager of strategy and business development, senior director of server and tools business, and director of investor relations. She joined Microsoft from Goldman Sachs in 2002. Takeshi Numoto leads Microsoft’s global marketing efforts, including events and communications. During his 26-year tenure at the company, Numoto has held numerous marketing roles within Microsoft, including commercial chief marketing officer. Before Microsoft, Numoto w",
+      "title": "16 Key Leaders Behind Microsoft, the World’s Most Valuable Company | Observer",
+      "url": "https://observer.com/2024/07/microsoft-key-executives/",
+      "source": "observer.com",
+      "provider": "web",
+      "published": "2024-07-19 12:00:05+00:00",
+      "retrieved": "2025-10-08 03:11:08.527541",
+      "extra": {
+        "snippet": "16 Key Leaders Behind Microsoft , the World's Most Valuable Company Microsoft's top executives have spent an average of over 20 years at the company."
+      }
+    }
+  ]
+}

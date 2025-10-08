@@ -1,0 +1,109 @@
+{
+  "query": "What currency is used in the UK?",
+  "timestamp": "2025-10-08T03:17:31.813136",
+  "claims": [
+    {
+      "sentence": "Digital currency is any currency, money, or money-like asset that is primarily managed, stored or exchanged on digital computer systems, especially over the internet.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Sterling is the currency of the United Kingdom and nine of its associated territories.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Before you arrive in the United Kingdom , it's a good idea to familiarize yourself with the local currency.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Asking yourself how should I bring money to the UK when I visit?",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The United Kingdom’s (UK’s) pound sterling is the world’s oldest surviving independent currency and the fourth most traded globally.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Digital currency is any currency, money, or money-like asset that is primarily managed, stored or exchanged on digital computer systems, especially over the internet. Types of digital currencies include cryptocurrency, virtual currency and central bank digital currency. Digital currency may be recorded on a distributed database on the internet, a centralized electronic computer database owned by a company or bank, within digital files or even on a stored-value card.",
+      "title": "Digital currency",
+      "url": "https://en.wikipedia.org/wiki/Digital_currency",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:25.417148",
+      "extra": {}
+    },
+    {
+      "text": "Sterling is the currency of the United Kingdom and nine of its associated territories. The pound is the main unit of sterling, and the word pound is also used to refer to the British currency generally, often qualified in international contexts as the British pound or the pound sterling.",
+      "title": "Pound sterling",
+      "url": "https://en.wikipedia.org/wiki/Pound_sterling",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:25.879834",
+      "extra": {}
+    },
+    {
+      "text": "Before you arrive in the United Kingdom , it's a good idea to familiarize yourself with the local currency. The official currency of England, Wales, Scotland, and Northern Ireland is the pound sterling (£), often abbreviated to GBP. Currency in the UK remains unchanged by the European referendum of 2017. So, pounds, for example, will be your London currency — and used anywhere in the United Kingdom. However, if you're also planning to visit the Republic of Ireland, you'll also need euros (€) as pounds are not accepted. One British pound is made up of 100 pence. There are coins with 1, 2, 5, 1, 20, and 50 pence denominations as well as 1 pound and 2 pound coins. Notes are available in 5, 10, 20, and 50-pound denominations, and each one has its own distinct color. All British currency features an image of the Queen's head on one side; following the death of Queen Elizabeth II, UK currency is gradually being updated to include an image of King Charles. The other side typically shows a notable historical figure, landmark, or national symbol. British slang has many different names for various elements of the currency. You will almost always hear pence referred to as \"pee\", while 5 and 10-pound notes are often called fivers and tenners. In many areas of the UK, a 1-pound coin is called a \"quid\", and a price might be given as \"10 quid.\" It's thought that this term originally stemmed from the Latin phrase \"quid pro quo,\" used to refer to the exchange of one thing for another. While Scotland and Northern Ireland both use pound sterling, their bank notes are different from those issued in England and Wales. Confusingly, Scottish and Irish bank notes are not afforded official legal tender status in England and Wales, but can legally be used in any British country. Most shopkeepers will accept them without complaint, but they are not legally obligated to do so and can refuse your Scottish or Irish notes. If you have any problems, most banks will exchange Scottish or Irish notes for English ones free of charge. Standard English bank notes are almost always accepted throughout the U.K Many visitors make the mistake of thinking that the euro is widely accepted as an alternative currency in the UK. The euro is not British currency; it would be very rare for somewhere in the UK to accept euros. The exception is iconic department stores like Harrods , Selfridges, and Marks & Spencer, which have historically accepted euros but give change in pound sterling. Lastly, some bigger stores in Northern Ireland may accept the euro as a concession to visitors from the south, but they are not legally required to do so. You have several different options when it comes to exchanging currency in the UK Private bureaux de change belonging to companies like Travelex can be found on the high streets of most towns and cities, and in major train stations, ferry terminals, and airports. Popular department store Marks & Spencer also has a bureau de change desk in many of its nationwid",
+      "title": "Know Before You Go: A Traveler's Guide to UK Currency",
+      "url": "https://www.tripsavvy.com/basic-information-about-uk-currency-1582421",
+      "source": "tripsavvy.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:17:28.065875",
+      "extra": {
+        "snippet": "Get British currency explained and know your pounds from your pence with this handy guide, including how to exchange money and use ATMs abroad."
+      }
+    },
+    {
+      "text": "Asking yourself how should I bring money to the UK when I visit? Discover the pros and cons of cash, contactless and cards plus answers to frequently asked questions. There can be a considerable amount of confusion when it comes to spending money in the UK. As geographically the UK is part of Europe – and was historically part of the European Union (EU) – some people think that the UK currency is Euros. But that’s not the case at all. Hence this post on how to bring money to the UK. The UK has its own currency, pounds sterling (written as GBP, Great British Pounds). And just to confuse visitors even more, although Scotland also uses pound sterling, Scottish cash looks completely different to English money. This guide to using cash or cards in the UK will take you through all you need to know about spending money in the country. We’ll outline all the UK currency denominations you’ll find, as well as what happens when you cross the border into Scotland. Also covered are all the pros and cons of using cash within the UK, as opposed to a credit or debit card plus why we choose to use a Wise card. By the end of this guide, you’ll know all about UK currency and how best to use it. Let’s get stuck in by discussing the denominations British currency comes in. There are currently four banknotes and eight coins in circulation in England and Wales . Let’s take a look at each in turn. There are four different banknotes issued by the Bank of England – £5, £10, £20 or £50. There isn’t a £100 note. Polymer banknotes have gradually replaced paper notes as they are more durable. Paper notes are no longer produced and aren’t legal tender anymore. As of May 2023, all banknotes issued by the Bank of England feature the King’s portrait. However, banknotes featuring the late Queen Elizabeth II are still in circulation and are accepted as legal tender. On the other side of a British banknote is a notable British historical figure. Here’s some useful information about each note. Often referred to as a ‘fiver’ The aqua coloured £5 note – or fiver – features a portrait of Sir Winston Churchill. He was a prominent Prime Minister who was in power during World War II. The historic paper version of the five pound note is no longer in circulation. Often referred to as a ‘tenner’ The old paper £10 note is no longer legal tender. A new brown polymer note features Jane Austen , the famous British writer who published Pride and Prejudice, among other works. Often referred to as a ‘twenty’ As of 2022, paper £20 notes aren’t legal tender anymore. If you have one, you can’t use it for payment at a retailer. You can swap it for a new polymer note at selected Post Office branches and at the Bank of England. The English Romantic artist J. M. W. Turner is featured on the new purple £20 notes. A £20 note is sometimes simply called ‘a twenty’, though it’s not as commonly heard a term as ‘fiver’ or ‘tenner’. In some parts of London, you may hear the cockney slang term ‘score’ used for a £20",
+      "title": "How Should I Bring Money to the UK? Guide to Cash & Cards",
+      "url": "https://uktravelplanning.com/bring-money-to-the-uk/",
+      "source": "uktravelplanning.com",
+      "provider": "web",
+      "published": "2022-09-06 21:45:16+00:00",
+      "retrieved": "2025-10-08 03:17:28.883349",
+      "extra": {
+        "snippet": "The UK has its own currency , pounds sterling (written as GBP, Great British Pounds). And just to confuse visitors even more, although Scotland also uses pound sterling, Scottish cash looks completely different to English money."
+      }
+    },
+    {
+      "text": "The United Kingdom’s (UK’s) pound sterling is the world’s oldest surviving independent currency and the fourth most traded globally. Understanding the British pound is essential for anyone visiting the UK, whether as a tourist or for work or study . It will help you navigate daily transactions smoothly, avoid unnecessary fees, and enjoy a hassle-free experience during your stay. Whether exploring historic sites, enjoying local cuisine, or shopping in vibrant markets, having a good grasp of currency can make a UK visit even more memorable. Here’s everything you need to know about the pound sterling, the official UK currency. The pound originated in the 8th century with the introduction of silver pennies, but the term “pound sterling” emerged in the 17th century. The Bank of England, established in 1694, regulated the currency and issued banknotes and coins, laying the foundation for modern banking. In the 19th century, the British pound was tied to gold for stability. However, due to economic challenges in 1931, the gold standard was abandoned, and the British pound became a floating currency in 1971. The pound sterling has always symbolized the UK’s economic heritage, reflecting the nation’s journey from medieval silver pennies to a modern, globally traded currency. Also known as the Great British Pound (GBP), the UK’s official currency is denoted with the symbol £ or with pennies (p). It did not adopt the Euro while still part of the European Union (EU). In recent years, the Bank of England has introduced polymer banknotes featuring enhanced security features to prevent counterfeiting, with designs showcasing prominent British historical figures. In the UK, everyday transactions, such as the costs of items, are shown in GBP. You will need to start paying for things in local coins and banknotes . Familiarizing yourself with these will prove handy during your stay. One British pound is made up of 100 pence. The UK currency includes coins with denominations of one, two, five, ten, 20, and 50 pence, as well as one- and two-pound coins. Notes are available in denominations of five, ten, 20, and 50 pounds, each with a unique color. British slang has unique names for different currency denominations. Pence is known as “pee,” while five- and 10-pound notes are “fivers” and “tenners.” A one-pound coin is often called a “quid.” Scottish and Northern Irish banknotes are considered legal tender throughout the UK. However, exchanging them for Bank of England notes whenever possible is advisable to avoid any potential issues. English banknotes are more widely accepted in all of the UK’s four constituent countries. If any problems arise, banks can exchange Scottish or Northern Irish notes for English ones at no charge. Euros are not commonly accepted in the UK, except at central locations like airports and large stores. Some larger stores in Northern Ireland may accept euros since the Republic of Ireland uses them. Still, they are not obliged to accept them. A",
+      "title": "Pound Sterling: A Quick Guide to UK Currency for Visitors - ETA for the United Kingdom",
+      "url": "https://uk-eta.com/pound-sterling-a-quick-guide-to-uk-currency-for-visitors/",
+      "source": "uk-eta.com",
+      "provider": "web",
+      "published": "2024-11-07 10:00:00+00:00",
+      "retrieved": "2025-10-08 03:17:31.202327",
+      "extra": {
+        "snippet": "Here's an essential guide to UK currency , including pound sterling denominations, how to exchange money, and practical tips for UK travelers."
+      }
+    }
+  ]
+}

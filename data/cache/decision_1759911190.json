@@ -1,0 +1,109 @@
+{
+  "query": "Where is the Taj Mahal located?",
+  "timestamp": "2025-10-08T03:13:10.913340",
+  "claims": [
+    {
+      "sentence": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Sign up Sign in Sign up Sign in -- 2 Listen Share The Taj Mahal: A Symbol of Eternal Love and Architectural Splendor The Taj Mahal, located in Agra, India, is one of the global’s maximum iconic monuments and a UNESCO World Heritage web site.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "* Mandatory fields",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India. Built in the Indo-Saracenic style, it opened in 1903 as the Taj Mahal Hotel and has historically often been known simply as \"The Taj\". The hotel is named after the Taj Mahal, which is located in the city of Agra approximately 1,050 kilometres (650 mi) from Mumbai. It has been considered one of the finest hotels in the East since the time of the British Raj. The hotel was one of the main targets in the 2008 Mumbai attacks.",
+      "title": "Taj Mahal Palace Hotel",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal_Palace_Hotel",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:05.155452",
+      "extra": {}
+    },
+    {
+      "text": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+      "title": "Taj Mahal",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:05.686958",
+      "extra": {}
+    },
+    {
+      "text": "Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Planning a same day Taj Mahal tour is one of the best ideas that you can consider for a short weekend trip. The Taj Mahal in Agra, a UNESCO World Heritage Site, is the ultimate symbol of eternal love and is one of the most recognizable sites in the world. One should surely plan a visit to a stunning destination along with their families or friends. Through this comprehensive guide, we will help you learn about the best time to visit the Taj Mahal, must-know facts, and some essential travel tips to make your overall experience smooth and hassle-free. So, let’s just dive straight into the blog. The Taj Mahal is located in Agra, a city in northern India's Uttar Pradesh state. This historic city is located on the banks of the Yamuna River and is central to Taj Mahal Tours India , which attracts millions of visitors each year. Agra is well-connected and easy to reach by any means of transportation, be it roadways, railways, or airways. Therefore, one can easily explore the city's culture and history. It also provides a diverse array of Mughal architecture, food, and busy markets, which is ample opportunity for a day trip or a Same Day Taj Mahal Tour. When looking for a same day Taj Mahal tour, here is how you can reach Agra: By Air : One can reach Indira Gandhi International Airport in Delhi and book a cab to Agra to visit the Taj Mahal. It is one of the most exciting and fun ways, as you will get to enjoy the route by car. By Road : If you wish to drive to Agra, you can opt for the Taj Mahal tour by car . Drive from Delhi to Agra on the Yamuna Expressway, and you will reach Agra within a short time. Make sure to visit and arrive early for the best morning view. By Train : You can opt for the Taj Mahal tour by train through the Gatimaan Express train, which takes around 2 hours to reach Agra. Best Time to Visit the Taj Mahal The best time to visit the Taj Mahal is from October to March, when the weather is cool and pleasant. Early mornings provide the best views with less foot traffic and the magical sunrise light. Do not visit in peak summer (April - June) when the temperature rises extraordinarily high. The monsoon season (July -September) can take visibility away from your Taj Mahal Tours India. Sunrise and sunset hours are especially recommended for those on the Taj Mahal tour to capture the monument in golden hour lighting. The Taj Mahal, Agra, holds immense secrets in itself. Here are some of the must-know facts about the Taj Mahal: 1. Built by Emperor Shah Jahan The Taj Mahal was built by Shah Jahan in memory of his beloved wife Mumtaz Mahal. It is the ultimate symbol of love, which people from all over the world come to explore. You should also visit this beauty and make the most of your same day Taj Mahal tour. 2. Took Over 22 Years to Build Construction of the Taj Mahal began in 1632 and was completed i",
+      "title": "How to Explore the Taj Mahal: Best Time, Must-Know Facts & Travel Tips",
+      "url": "https://www.linkedin.com/pulse/how-explore-taj-mahal-best-time-must-know-facts-travel-mohit-kumar-nk6nc",
+      "source": "linkedin.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:09.624805",
+      "extra": {
+        "snippet": "Where is the Taj Mahal Located ? The Taj Mahal is located in Agra, a city in northern India's Uttar Pradesh state."
+      }
+    },
+    {
+      "text": "Sign up Sign in Sign up Sign in -- 2 Listen Share The Taj Mahal: A Symbol of Eternal Love and Architectural Splendor The Taj Mahal, located in Agra, India, is one of the global’s maximum iconic monuments and a UNESCO World Heritage web site. Known for its lovely white marble shape, difficult design, and timeless splendor, the Taj Mahal stands as a testament to love and artistry. Commissioned via the Mughal Emperor Shah Jahan in reminiscence of his loved spouse Mumtaz Mahal, this mausoleum has come to be a symbol of eternal love and one of the most visited and well known homes globally. 1. The History Behind the Taj Mahal The story of the Taj Mahal starts with the love between Emperor Shah Jahan and his wife Mumtaz Mahal. Mumtaz was Shah Jahan's preferred wife, known for her splendor, compassion, and intelligence. Tragically, she died in 1631 at the same time as giving delivery to their fourteenth baby. Heartbroken, Shah Jahan vowed to create a monument as stunning as his spouse and started constructing the Taj Mahal to honor her reminiscence. Construction of the Taj Mahal began in 1632 and took over 20 years to complete, regarding thousands of artisans and craftsmen from across Asia. The end result turned into an architectural masterpiece that combined elements from Islamic, Persian, Ottoman, and Indian architectural styles. The Taj Mahal has because been identified as one of the New Seven Wonders of the World, drawing hundreds of thousands of visitors each yr. 2. Architectural Marvel and Design The Taj Mahal is well known for its wonderful symmetry, difficult detailing, and airy beauty. Designed by the architect Ustad Ahmad Lahauri, the primary shape is built from white marble that adjustments colour relying on the time of day, transferring from a smooth crimson at dawn to glowing white in the afternoon, and a golden hue within the moonlight. This play of light enhances its mystical appeal and undying elegance. The central dome of the Taj Mahal rises 240 toes and is flanked with the aid of 4 smaller domes, developing a harmonious stability. Four narrow minarets, one at every nook, frame the structure, including to its symmetry. The important chamber homes the tombs of Mumtaz Mahal and Shah Jahan, although those are definitely symbolic cenotaphs; the actual graves are in a decrease chamber. The marble is inlaid with semi-valuable stones, such as jade, turquoise, and lapis lazuli, forming complex floral designs. This inlay paintings, referred to as pietra dura, is one of the Taj Mahal’s defining functions, demonstrating the high-quality craftsmanship that went into its production. Three. The Gardens and Layout The Taj Mahal complicated is surrounded with the aid of a extensive lawn laid out inside the traditional Mughal charbagh fashion, symbolizing paradise. The garden is split into 4 sections, each representing one of the four rivers of paradise in line with Islamic culture. A long pool runs from the primary front to the tomb, reflecting the Taj",
+      "title": "The Taj Mahal: A Symbol of Eternal Love and Architectural Splendor | by Insha Khalid | Medium",
+      "url": "https://medium.com/@taymur351/the-taj-mahal-a-symbol-of-eternal-love-and-architectural-splendor-54bdd9909aab",
+      "source": "medium.com",
+      "provider": "web",
+      "published": "2024-11-03 04:32:27.772000+00:00",
+      "retrieved": "2025-10-08 03:13:10.226378",
+      "extra": {
+        "snippet": "The Taj Mahal , located in Agra, India, is one of the global’s maximum iconic monuments and a UNESCO World Heritage web site. Known for its lovely white marble shape, difficult design, and timeless splendor, the Taj Mahal stands as a testament to love and artistry."
+      }
+    },
+    {
+      "text": "* Mandatory fields",
+      "title": "Taj Mahal Location - Location of Taj Mahal Agra - Where is Taj Mahal India - Where is Taj Mahal Located",
+      "url": "https://www.tajmahal.org.uk/location.html",
+      "source": "tajmahal.org.uk",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:10.907332",
+      "extra": {
+        "snippet": "It is believed that half of the beauty of Taj Mahal comes from this strategic location where it stands. The Taj Mahal is located within 6 km of distance from the Agra city centre and is easily accessible by auto rickshaw or a cab."
+      }
+    }
+  ]
+}

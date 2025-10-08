@@ -1,0 +1,88 @@
+{
+  "query": "What does GDP stand for?",
+  "timestamp": "2025-10-08T03:37:16.407812",
+  "claims": [
+    {
+      "sentence": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Heterodox Gross domestic product ( GDP ) is a monetary measure of the total market value [ 1 ] of all the final goods and services produced and rendered in a specific time period by a country [ 2 ] or countries.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "title": "Parable of the broken window",
+      "url": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:11.340865",
+      "extra": {}
+    },
+    {
+      "text": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies. PPP is effectively the ratio of the price of a market basket at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs, and other transaction costs.",
+      "title": "Purchasing power parity",
+      "url": "https://en.wikipedia.org/wiki/Purchasing_power_parity",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:12.000488",
+      "extra": {}
+    },
+    {
+      "text": "Heterodox Gross domestic product ( GDP ) is a monetary measure of the total market value [ 1 ] of all the final goods and services produced and rendered in a specific time period by a country [ 2 ] or countries. [ 3 ] [ 4 ] GDP is often used to measure the economic activity of a country or region. [ 2 ] The major components of GDP are consumption, government spending, net exports (exports minus imports), and investment. Changing any of these factors can increase the size of the economy. For example, population growth through mass immigration can raise consumption and demand for public services, thereby contributing to GDP growth. However, GDP is not a measure of overall standard of living or well-being, as it does not account for how income is distributed among the population. A country may rank high in GDP but still experience jobless growth depending on its planned economic structure and strategies. Dividing total GDP by the population gives an idealized rough measure of GDP per capita . [ 5 ] [ 3 ] Several national and international economic organizations, such as the OECD and the International Monetary Fund , maintain their own definitions of GDP. [ 6 ] [ 7 ] GDP is often used as a metric for international comparisons as well as a broad measure of economic progress . It serves as a statistical indicator of national development and progress. Total GDP can also be broken down into the contribution of each industry or sector of the economy. [ 8 ] Nominal GDP is useful when comparing national economies on the international market using current exchange rate . [ 9 ] To compare economies over time inflation can be adjusted by comparing real instead of nominal values . For cross-country comparisons, GDP figures are often adjusted for differences in the cost of living using purchasing power parity (PPP). GDP per capita at purchasing power parity can be useful for comparing living standards between nations. GDP has been criticized for leaving out key externalities , such as resource extraction , [ clarification needed ] environmental impact and unpaid domestic work . [ 10 ] Alternative economic indicators such as doughnut economics use other measures, such as the Human Development Index or Better Life Index , as better approaches to measuring the effect of the economy on human development and well being . Sir William Petty came up with a concept of GDP, to calculate the tax burden , and argue landlords were unfairly taxed during warfare between the Dutch and the English between 1652 and 1674. [ 11 ] Charles Davenant developed the method further in 1695. [ 12 ] The modern concept of GDP was first developed by Simon Kuznets for a 1934 U.S. Congress report, where he warned against its use as a measure of welfare (see below under limitations and criticisms ). [ 13 ] After the Bretton Woods Conference in 1944, GDP became the main tool for measuring a country's economy. [ 14 ] At that time gross national product (GNP) was the preferred estimate, which diffe",
+      "title": "Gross domestic product - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:13.731727",
+      "extra": {
+        "snippet": "3 days ago - Gross domestic product (GDP) is a monetary measure of the total market value of all the final goods and services produced and rendered in a specific time period by a country or countries. GDP is often used to measure the economic activity of a country or region."
+      }
+    },
+    {
+      "text": "The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. Our GDPNow forecasting model provides a \"nowcast\" of the official estimate prior to its release by estimating GDP growth using a methodology similar to the one used by the US Bureau of Economic Analysis. GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow—the estimate is based solely on the mathematical results of the model. Recent forecasts for the GDPNow model are available here . More extensive numerical details—including underlying source data, forecasts, and model parameters—are available as a separate spreadsheet . You can also view an archive of recent commentaries from GDPNow estimates. Please note that we no longer support the GDPNow app . Download our EconomyNow app to get the latest GDP nowcast and more economic data. Latest estimate: 3.8 percent — October 07, 2025 The GDPNow model estimate for real GDP growth (seasonally adjusted annual rate) in the third quarter of 2025 is 3.8 percent on October 7, unchanged from October 1 after rounding. Due to the government shutdown, today’s GDPNow update is based only on the Nonmanufacturing ISM Report on Business released on October 3 by the Institute for Supply Management. After that release, the nowcast of third-quarter real gross private domestic investment growth decreased from 4.2 percent to 4.0 percent. Due to the government shutdown, the GDPNow update scheduled for Thursday, October 9, will be deferred until a new monthly data release is available for the model. In this video economist Pat Higgins, GDPNow's creator, discusses the difference between nowcasting and forecasting. The growth rate of real gross domestic product (GDP) measured by the US Bureau of Economic Analysis (BEA) is a key metric of the pace of economic activity. It is one of the four variables included in the economic projections of Federal Reserve Board members and Bank presidents for every other Federal Open Market Committee (FOMC) meeting. As with many economic statistics, GDP estimates are released with a lag whose timing can be important for policymakers. In preparation for FOMC meetings, policymakers have the Fed Board staff projection of this “advance” estimate at their disposal. These projections—available through 2008 at the Philadelphia Fed’s Real Time Data Center —have generally been more accurate than forecasts from simple statistical models. As stated by economists Jon Faust and Jonathan H. Wright in a 2009 paper , “by mirroring key elements of the data construction machinery of the Bureau of Economic Analysis, the Fed staff forms a relatively precise estimate of what BEA will announce for the previous quarter’s GDP even before it is announced.” The Atlanta Fed GDPNow model also mi",
+      "title": "GDPNow - Federal Reserve Bank of Atlanta",
+      "url": "https://www.atlantafed.org/cqer/research/gdpnow",
+      "source": "atlantafed.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:37:16.401795",
+      "extra": {
+        "snippet": "1 day ago - The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. Our GDPNow forecasting model provides a \"nowcast\" of the official estimate prior to its release by estimating GDP growth using a methodology similar ..."
+      }
+    }
+  ]
+}

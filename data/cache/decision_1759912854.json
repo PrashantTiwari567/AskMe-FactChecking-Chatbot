@@ -1,0 +1,109 @@
+{
+  "query": "When did the James Webb Space Telescope launch?",
+  "timestamp": "2025-10-08T03:40:54.650483",
+  "claims": [
+    {
+      "sentence": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Edwin Webb was an American government official who served as Undersecretary of State from 1949 to 1952.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The primary mirror of the 'James Webb Space Telescope ' launched at the end of 2021 as the successor to the 'Hubble Space Telescope' has been fully deployed.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Dec. 25 (UPI) -- NASA and the European Space Agency successfully launched the largest, most powerful telescope ever, the $10 billion James Webb Space Telescope, from South America on Christmas morning.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Profile news Alerts There are no new alerts at this time It was the best Christmas present NASA could have asked for.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. As the largest telescope in space, it is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.",
+      "title": "James Webb Space Telescope",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:47.665581",
+      "extra": {}
+    },
+    {
+      "text": "James Edwin Webb was an American government official who served as Undersecretary of State from 1949 to 1952. He was the second administrator of NASA from February 14, 1961, to October 7, 1968. Webb led NASA from the beginning of the Kennedy administration through the end of the Johnson administration, thus overseeing each of the critical first crewed missions throughout the Mercury and Gemini programs until days before the launch of the first Apollo mission. He also dealt with the Apollo 1 fire. He helped found the National Academy of Public Administration, a key locus for governmental reform studies.",
+      "title": "James E. Webb",
+      "url": "https://en.wikipedia.org/wiki/James_E._Webb",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:48.252369",
+      "extra": {}
+    },
+    {
+      "text": "The primary mirror of the 'James Webb Space Telescope ' launched at the end of 2021 as the successor to the 'Hubble Space Telescope' has been fully deployed. In the future, the location will be moved to the Lagrange point (L2) and observations will be made with high accuracy. NASA's Webb Telescope Reaches Major Milestone as Mirror Unfolds | NASA https://www.nasa.gov/press-release/nasa-s-webb-telescope-reaches-major-milestone-as-mirror-unfolds The Hubble Space Telescope was launched in 1990 and has been conducting astronomical observations that cannot be done from the ground. Initially, the operation period was planned to be 15 years, but by repairing the defects found in the early stage, it became possible to demonstrate high performance, the operation period was extended, and repairs are carried out every time a failure occurs. Operation continues even in 2022. The James Webb Space Telescope was developed as a successor to the Hubble Space Telescope and was launched on December 25, 2021 after several postponements. The Launch of the James Webb Space Telescope-YouTube After the launch, the structure was unfolded, the sunshield opened on January 4, and then the primary mirror of the telescope that had been folded inside the aircraft was unfolded. After the deployment is complete, we will spend the next few months adjusting the orientation of the mirrors using the actuators on the back of each mirror. The first image is expected to be sent to the ground in the summer of 2022. The position will also be moved to the Lagrange point (L2). Thanks to the successful launch with extremely high accuracy, the amount of propellant used when moving to the Lagrange point can be saved, so the planned operation period of 5 to 10 years will be a little longer. Animation: The James Webb Space Telescope's Orbit-YouTube Related Posts: << Next What are the 'five important tips for starting a business in North Korea' that a North Korean defector talks about? Prev >> The 'Inquisition' hundreds of years ago is the cause of the 'unreliability' of educational background and relationships. Jan 10, 2022 23:15:00 in Science , Video , Posted by logc_nt",
+      "title": "The James Webb Space Telescope launched by NASA succeeds in fully deploying the mirror - GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20220110-nasa-webb-telescope-mirror-unfolds",
+      "source": "gigazine.net",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:40:52.706572",
+      "extra": {
+        "snippet": "The Launch of the James Webb Space Telescope -YouTube After the launch , the structure was unfolded, the sunshield opened on January 4, and then the ..."
+      }
+    },
+    {
+      "text": "Dec. 25 (UPI) -- NASA and the European Space Agency successfully launched the largest, most powerful telescope ever, the $10 billion James Webb Space Telescope, from South America on Christmas morning. \"Liftoff from a tropical rainforest to the edge of time itself,\" a NASA announcer said as the Ariane 5 rocket lifted off as planned at 7:20 a.m. EST on Friday from the Guiana Space Centre in French Guiana. \"James Webb begins a voyage back to the birth of the universe, punching a hole through the clouds 20 seconds into the flight.\" NASA has designed James Webb to surpass the Hubble Space Telescope with infrared vision that can peer 13.5 billion years into the universe's past -- seeing the light of the first stars and galaxies as they formed after the Big Bang. #NASAWebb 's fairing has been jettisoned, revealing the telescope for the first time in space! Also, we have successfully received telemetry from the observatory. #UnfoldTheUniverse https://t.co/uLUmjnfOO4 pic.twitter.com/MN3xOPounA — NASA Webb Telescope (@NASAWebb) December 25, 2021 Dec. 25 (UPI) -- NASA and the European Space Agency successfully launched the largest, most powerful telescope ever, the $10 billion James Webb Space Telescope, from South America on Christmas morning. \"Liftoff from a tropical rainforest to the edge of time itself,\" a NASA announcer said as the Ariane 5 rocket lifted off as planned at 7:20 a.m. EST on Friday from the Guiana Space Centre in French Guiana. \"James Webb begins a voyage back to the birth of the universe, punching a hole through the clouds 20 seconds into the flight.\" NASA has designed James Webb to surpass the Hubble Space Telescope with infrared vision that can peer 13.5 billion years into the universe's past -- seeing the light of the first stars and galaxies as they formed after the Big Bang. #NASAWebb 's fairing has been jettisoned, revealing the telescope for the first time in space! Also, we have successfully received telemetry from the observatory. #UnfoldTheUniverse https://t.co/uLUmjnfOO4 pic.twitter.com/MN3xOPounA — NASA Webb Telescope (@NASAWebb) December 25, 2021 After 25 minutes of the rocket's flight, launch announcers said it had functioned perfectly: \"It's been a smooth ride. ... Everything fell together on this Christmas Day to send a new present to the world's astronomers.\" Cheers erupted in the mission control center as the telescope itself separated from the rocket's upper stage. The spacecraft's solar array extended a little earlier than expected about 30 minutes after launch, and Webb signaled that it was operating at full power. \"There are no words to describe the emotion that is happening right now in the [mission control] fishbowl,\" Raphael Chevrier, a manager with launch company Arianespace, said on a live broadcast. \"All I can say is good luck Webb and bring incredible data from the universe.\" The launch brings to a close decades of efforts and repeated delays to get Webb into space as Northrop Grumman built the giant telesco",
+      "title": "James Webb Space Telescope launches on million-mile journey - UPI.com",
+      "url": "https://www.upi.com/Science_News/2021/12/25/James-Webb-Space-Telescope-launch/4801640434556/",
+      "source": "upi.com",
+      "provider": "web",
+      "published": "2021-12-25 07:38:52-05:00",
+      "retrieved": "2025-10-08 03:40:53.718521",
+      "extra": {
+        "snippet": "NASA has designed James Webb to surpass the Hubble Space Telescope with infrared vision that can peer 13.5 billion years into the universe's past ..."
+      }
+    },
+    {
+      "text": "Profile news Alerts There are no new alerts at this time It was the best Christmas present NASA could have asked for. The agency’s James Webb Space Telescope , the world’s largest and most powerful telescope built to date, successfully blasted into orbit Saturday. The launch marked the long-awaited start of the Webb telescope’s mission, after more than 30 years of development and countless delays . The $10-billion observatory, billed as the successor to the iconic Hubble Space Telescope, is designed to study the early days of the universe, roughly 100 million years after the Big Bang, when the first stars flickered on in the cosmos. The tennis court-sized observatory launched atop an Ariane 5 rocket at 7:20 a.m. ET from a European spaceport in Kourou, French Guiana . The observatory’s liftoff had been postponed several times, including earlier this month to investigate a faulty data cable and more recently because of bad weather at the South American launch site. Now that the telescope has reached space, it begins a harrowing, monthlong journey to its designated orbit around the sun, more than a million miles away from Earth. As Webb travels to its final destination, key parts of the observatory that were folded up to fit inside the rocket will need to unfurl in space. Some of the most nerve-racking stunts will come roughly five days after launch, when the telescope’s huge multilayered sunshield is stretched out and its massive gold-coated primary mirror unfolds. The risky, carefully choreographed maneuvers are so complex and require such precision that NASA nicknamed the sequence “29 days on the edge.” “We have about 50 deployments to get right in that first month after launch,” Greg Robinson, the Webb telescope’s program director at NASA, told NBC News earlier this month. “Those first two or three weeks will be what some would call good anxiety.” The Webb telescope’s primary mirror measures more than 21 feet across, making it the largest to fly in space. The mirror’s size, which dwarfs that of Hubble and other existing space telescopes, gives Webb the sensitivity to see celestial objects that were previously undetectable. “The more distant something is, the fainter it looks. So the larger the mirror, the fainter the thing you can see,” said Marcia Rieke, an astronomer at the University of Arizona and principal investigator of one of Webb’s four main instruments. “The other thing is that the larger the mirror, the finer the detail you can see.” Telescopes essentially function as time machines because it takes time for light to travel through space. This means that when Webb studies light from the most distant galaxies in the cosmos, the telescope is actually observing how the universe was billions of years ago. The Webb telescope is designed to “see” beyond the range of the human eye and other telescopes that observe primarily visible light. Webb’s infrared vision can pierce through thick veils of cosmic gas and dust, allowing it to see celestia",
+      "title": "NASA launches James Webb telescope into space on Christmas Day",
+      "url": "https://www.nbcnews.com/science/space/nasa-launches-james-webb-telescope-space-christmas-day-rcna9911",
+      "source": "nbcnews.com",
+      "provider": "web",
+      "published": "2021-12-25 17:40:06.420000+00:00",
+      "retrieved": "2025-10-08 03:40:54.644483",
+      "extra": {
+        "snippet": "The agency’s James Webb Space Telescope , the world’s largest and most powerful telescope built to date, successfully blasted into orbit Saturday."
+      }
+    }
+  ]
+}

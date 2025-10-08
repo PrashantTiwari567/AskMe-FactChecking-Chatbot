@@ -1,0 +1,130 @@
+{
+  "query": "What does GDP stand for?",
+  "timestamp": "2025-10-08T03:15:55.873126",
+  "claims": [
+    {
+      "sentence": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "GDP has more than one possible meaning : If you know of another acronym for GDP, please suggest it as a new acronym for GDP .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "GDP stands for Gross Domestic Product Gross Domestic Product (GDP) is a key economic indicator that measures the total monetary value of all goods and services produced within a country's borders over a specific time period, typically annually or quarterly.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Gross Domestic Product (GDP) is the sum of the value of all goods and services produced in a country in one year, where price is a proxy for value.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "GDP (gross domestic product) is an economic statistic that measures the monetary value of the goods and services produced within a country's borders in a specified time period.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "title": "Parable of the broken window",
+      "url": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:50.711792",
+      "extra": {}
+    },
+    {
+      "text": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies. PPP is effectively the ratio of the price of a market basket at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs, and other transaction costs.",
+      "title": "Purchasing power parity",
+      "url": "https://en.wikipedia.org/wiki/Purchasing_power_parity",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:51.187518",
+      "extra": {}
+    },
+    {
+      "text": "GDP has more than one possible meaning : If you know of another acronym for GDP, please suggest it as a new acronym for GDP . © 2025 WDISF.com",
+      "title": "What Does GDP Stand For",
+      "url": "https://www.wdisf.com/what-does-gdp-stand-for.htm",
+      "source": "wdisf.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:53.601979",
+      "extra": {
+        "snippet": "What Does it Stand For ... What Does GDP Stand For ? ... If you know of another acronym for GDP , please suggest it as a new acronym for GDP ."
+      }
+    },
+    {
+      "text": "GDP stands for Gross Domestic Product Gross Domestic Product (GDP) is a key economic indicator that measures the total monetary value of all goods and services produced within a country's borders over a specific time period, typically annually or quarterly. It serves as a comprehensive gauge of a nation's economic activity, reflecting the health of the economy, informing policy decisions, and providing insights for investors and businesses. GDP can be assessed using three approaches: production, income, and expenditure, each offering a different perspective on economic performance. Added on 14th April 2008 | Last edited on 16th June 2025 | Edit Acronym © 2025 WDISF.com",
+      "title": "GDP stands for Gross Domestic Product",
+      "url": "https://www.wdisf.com/gdp-stands-for-gross-domestic-product.htm",
+      "source": "wdisf.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:54.126872",
+      "extra": {
+        "snippet": "What Does it Stand For ... What Does GDP Stand For ? ... Gross Domestic Product ( GDP ) is a key economic indicator that measures the total monetary ..."
+      }
+    },
+    {
+      "text": "Gross Domestic Product (GDP) is the sum of the value of all goods and services produced in a country in one year, where price is a proxy for value. Developed in the 1930s and reported quarterly, GDP remains the dominant metric economists and policymakers look to for analyzing the health of our economy and setting economic policy. But as a measure of market-based production and consumption, GDP does not account for most aspects that make life worth living. It also excludes volunteering and work done at home that is not paid for with money, including caring for children and the elderly. Simon Kuznets American economist 1934 People generally prefer better health, less environmental pollution, increased personal safety, more public parks and green spaces, fewer armed conflicts, safer roads and less traffic, high-quality cultural amenities, etc. Yet, improvements in these areas often do not show up in GDP. Other welfare-decreasing events such as accidents, pollution, or natural disasters often even increase GDP due to spending on repairs and clean-up activities. By accounting for a broader set of areas that influence people’s well-being now and in the future, we can provide a more comprehensive picture of our progress. Diane Coyle British economist GDP: A Brief But Affectionate History There is concern that the wedge between measured GDP and implied consumer welfare is increasing over time. Given that we are ultimately interested in people’s well-being makes it more pertinent than ever to get a better measure of consumer welfare. Our approach starts from basic principles of economics: changes in well-being stem from changes in the economic surplus created by goods and services, rather than the money spent on them. While deeply rooted in economic theory, the empirical measurement of “consumer surplus” was often thought of as too challenging. However, recent advances in massive online experiments have made this possible for a larger number of goods. Joe Stiglitz American economist Source: Brynjolfsson & Collis: “How Should We Measure the Digital Economy?”, Harvard Business Review, 2019 Macroeconomic indicators can be fairly precisely measured, but they tell only part of the story. Well-being metrics convey a truer picture of how consumers are doing, but they are more subjective. We believe that by considering an array of measures, including GDP-B, policy makers, regulators, and investors can establish a better foundation for decision-making. The price of something is a significant factor in people’s consumption decisions. It is also the basis for how national accounts measure value creation. Yet, just because something is free in monetary terms does not mean it does not have value. In fact, often the opposite holds true. For example, most of us derive value from nature or the environment more broadly, personal health, cultural amenities and heritage, as well as social interactions or connections. Our valuation methods allow us to start providing answers",
+      "title": "GDP-B",
+      "url": "https://www.gdp-b.org/",
+      "source": "gdp-b.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:55.404985",
+      "extra": {
+        "snippet": "But as a measure of market-based production and consumption, GDP does not account for most aspects that make life worth living."
+      }
+    },
+    {
+      "text": "GDP (gross domestic product) is an economic statistic that measures the monetary value of the goods and services produced within a country's borders in a specified time period. It is used to measure a country or region's economic performance and compare that performance to others'. Typically, GDP is calculated annually, by adding together the value of a country's private and public consumption, government outlays, investments, and exports, minus the country's imports. You may see economists and other analysts use a country's GDP to gauge the country's current standard of living and future economic prospects. This page explains what the acronym \"GDP\" means. The definition, example, and related terms listed above have been manually compiled and written by the Slang.net team. We are continually updating our database with new slang terms, acronyms, and abbreviations. Want to suggest a new term or an update to this page? Let us know!",
+      "title": "GDP - What does GDP stand for?",
+      "url": "https://slang.net/meaning/gdp",
+      "source": "slang.net",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:15:55.866841",
+      "extra": {
+        "snippet": "What does GDP stand for ? ... You may see economists and other analysts use a country's GDP to gauge the country's current standard of living and ..."
+      }
+    }
+  ]
+}

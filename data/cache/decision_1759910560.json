@@ -1,0 +1,109 @@
+{
+  "query": "Where is the Taj Mahal located?",
+  "timestamp": "2025-10-08T03:02:40.933205",
+  "claims": [
+    {
+      "sentence": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Written by Whereig Web Team | Last Updated: January 04, 2025, 11:57 AM ET The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Our editors will review what you’ve submitted and determine whether to revise the article.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Taj Mahal is the most extravagant monument built as a symbol of eternal enduring love.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The Taj Mahal Palace is a heritage, five-star, luxury hotel in the Colaba area of Mumbai, Maharashtra, India, situated next to the Gateway of India. Built in the Indo-Saracenic style, it opened in 1903 as the Taj Mahal Hotel and has historically often been known simply as \"The Taj\". The hotel is named after the Taj Mahal, which is located in the city of Agra approximately 1,050 kilometres (650 mi) from Mumbai. It has been considered one of the finest hotels in the East since the time of the British Raj. The hotel was one of the main targets in the 2008 Mumbai attacks.",
+      "title": "Taj Mahal Palace Hotel",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal_Palace_Hotel",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:35.734955",
+      "extra": {}
+    },
+    {
+      "text": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+      "title": "Taj Mahal",
+      "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:36.268337",
+      "extra": {}
+    },
+    {
+      "text": "Written by Whereig Web Team | Last Updated: January 04, 2025, 11:57 AM ET The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar Pradesh. About Map - Map showing Location of Taj Mahal in the India Map. Where Taj Mahal Located? The Taj Mahal is located in the Agra District of Uttar Pradesh on the right bank of the Yamuna River in a huge Mughal garden that spans almost 17 hectares. Shah Jahan, the Mughal emperor, constructed it in honor of his wife Mumtaz Mahal. The construction of the Taj Mahal started in the year 1623 AD and completed in the year 1648 AD. The mosque, the guesthouse, and the main entrance on the south side of the Taj Mahal were all finished by 1648. Later the exterior courtyard and its cloisters had been constructed by the year 1653 AD. A number of historical and Quranic inscriptions in Arabic script have made it easier to determine the Taj Mahal's chronology. The Taj Mahal's chief architect was Ustad-Ahmad Lahori. The Taj Mahal is an architectural style masterpiece in terms of conception, design, and implementation, and it has exceptional aesthetic qualities in terms of balance, symmetry, and the graceful blending of numerous parts. The Taj Mahal complex as a whole, including its main gate, guesthouse, mosque, and tombs, is kept intact. The Taj Mahal is regarded as the pinnacle of Indo-Islamic architecture. Its well-known architectural beauty features a rhythmic blend of solids and voids, concave and convex, and light shadow; such as arches and domes further strengthen the attractive aspect. The monument is highlighted by the color combination of a rich green landscape, a crimson road, and a blue sky above it. It is a unique monument because of the marble relief work and the inlay with precious and semi-precious stones. The horticultural planners and architects of Shah Jahan made some genuinely amazing innovations, which give Taj Mahal its uniqueness. One illustration of brilliant planning is the positioning of the tomb at one end of the quadripartite garden rather than in the exact center, which provided the monument's overall appearance rich depth and perspective in the distance. In 1983, the Taj Mahal was declared a UNESCO World Heritage Site in recognition of its status as \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\". Taj Mahal Facts & Information The Taj Mahal was designated as a UNESCO World Heritage Site in 1983. Address Taj Road, Agra, Uttar Pradesh 282001, India Coordinates 27Â°10â²30â³N 78Â°02â²31â³E Title New 7 Wonders of the World Designate UNESCO World Heritage Site Area 17-hectare (42-acre) Height 73 m (240 ft) Built 1632-53 Built for Mumtaz Mahal Construction started 1631 Built 1632-53 Built for Mumtaz Mahal Architects Ustad Ahmad Lahouri, Ustad Isa Visitors 7-8 million in 2014 Entry Time 06:00 to 19:00 weekdays expect Friday Closed Taj Mahal is closed ",
+      "title": "Where is Taj Mahal, Agra, India? Location Map, Facts & History",
+      "url": "https://www.whereig.com/wonders-of-the-world/where-is-taj-mahal.html",
+      "source": "whereig.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:38.760867",
+      "extra": {
+        "snippet": "Where Taj Mahal Located? The Taj Mahal is located in the Agra District of Uttar Pradesh on the right bank of the Yamuna River in a huge Mughal garden that spans almost 17 hectares. Shah Jahan, …"
+      }
+    },
+    {
+      "text": "Our editors will review what you’ve submitted and determine whether to revise the article. The Taj Mahal is a mausoleum complex in Agra , western Uttar Pradesh state, northern India . It is considered the finest example of Mughal architecture (a blend of Indian, Persian, and Islamic styles). The Taj Mahal is also one of the world’s most iconic monuments, visited by millions of tourists each year. The complex was designated a UNESCO World Heritage site in 1983. The Taj Mahal was built as a tomb for Mumtaz Mahal (“Chosen One of the Palace”) by her husband, the Mughal emperor Shah Jahān (reigned 1628–58). She died in childbirth in 1631, after having been the emperor’s inseparable companion since their marriage in 1612. The Taj Mahal is a mausoleum complex that houses the tombs of Mumtaz Mahal (“Chosen One of the Palace”) and her husband, the Mughal emperor Shah Jahān (reigned 1628–58). Building of the Taj Mahal began about 1632. The mausoleum itself was completed by about 1638–39. The adjunct buildings were finished by 1643, and decoration work continued until at least 1647. In total, construction of the 42-acre (17-hectare) complex spanned 22 years. The Taj Mahal is built of white marble that reflects hues according to the intensity of the sunlight or the moonlight. Taj Mahal , white marble mausoleum complex in Agra , western Uttar Pradesh state, northern India . The Taj Mahal was built by the Mughal emperor Shah Jahan (reigned 1628–58) to immortalize his empress consort Mumtaz Mahal (“Beloved Ornament of the Palace”), who died in childbirth in 1631, having been the emperor’s inseparable companion since their marriage in 1612. One of India’s most iconic mausoleums, it is situated in the eastern part of the city on the southern (right) bank of the Yamuna (Jumna) River . Agra Fort (Red Fort), also on the right bank of the Yamuna, is about 1 mile (1.6 km) west of the Taj Mahal. The Taj Mahal is one of the new Seven Wonders of the World. What are the other six? In its harmonious proportions and its fluid incorporation of decorative elements, the Taj Mahal is distinguished as the finest example of Mughal architecture , a blend of Indian, Persian , and Islamic styles. Other attractions include twin mosque buildings (placed symmetrically on either side of the mausoleum), gardens, and a museum. One of the most beautiful structural compositions in the world, the Taj Mahal is also one of the world’s most iconic monuments, visited by millions of tourists each year. The complex was designated a UNESCO World Heritage site in 1983. The inspiration for the Taj Mahal was a verse by Bibadal Khan, the imperial goldsmith and poet. The vision behind the construction was to make an earthly replica of Mumtaz Mahal’s celestial abode in paradise. The plans for the complex have been attributed to various architects of the period, though the chief architect was probably Ustad Aḥmad Lahawrī, an Indian of Persian descent. The five principal elements of the complex—main gatewa",
+      "title": "Taj Mahal | Definition, Story, Site, Agra, History, & Facts | Britannica",
+      "url": "https://www.britannica.com/topic/Taj-Mahal",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:02:39.494379",
+      "extra": {
+        "snippet": "Aug 23, 2025 · The Taj Mahal is a mausoleum complex in Agra, western Uttar Pradesh state, northern India. It is considered the finest example of Mughal architecture (a blend of Indian, …"
+      }
+    },
+    {
+      "text": "The Taj Mahal is the most extravagant monument built as a symbol of eternal enduring love. Taj Mahal, India, is a mausoleum known as the finest example of enchanting architecture and aesthetic beauty. The Taj Mahal – the monument built by Emperor Shah Jahan, out of pure love and grief over the death of beloved Mumtaz Mahal, Taj Mahal is located on the banks of the Yamuna River in the city of Agra, Uttar Pradesh , India. Check out our coverage of the Taj Mahal to know more about the Taj. The Taj protected area lies just a few kilometers away from the monument. The Taj Mahal is a part of India’s Golden Triangle tour. Just at the opposite side of the Taj Mahal, on the left bank of the Yamuna River lies the Mehtab Bagh. It is believed that Emperor Shah Jahan wanted to create a Black Taj Mahal on this site. Unfortunately, his wish was never fulfilled. Advertisement Advertisement © MapsOfWorld 2002-2024 This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More",
+      "title": "Where is Taj Mahal, Taj Mahal Location Map",
+      "url": "https://www.mapsofworld.com/india/where-is-taj-mahal.html",
+      "source": "mapsofworld.com",
+      "provider": "web",
+      "published": "2022-02-11 10:15:49+00:00",
+      "retrieved": "2025-10-08 03:02:40.926206",
+      "extra": {
+        "snippet": "Aug 14, 2022 · The Taj Mahal – the monument built by Emperor Shah Jahan, out of pure love and grief over the death of beloved Mumtaz Mahal, Taj Mahal is located on the banks of the Yamuna …"
+      }
+    }
+  ]
+}

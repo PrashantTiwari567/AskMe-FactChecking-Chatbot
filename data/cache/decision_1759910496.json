@@ -1,0 +1,130 @@
+{
+  "query": "Height of Mount Everest in meters",
+  "timestamp": "2025-10-08T03:01:36.591412",
+  "claims": [
+    {
+      "sentence": "",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Height is measure of vertical distance, either vertical extent or vertical position.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Situated amongst the Great Himalayas in southern Asia, Mount Everest straddles the boarder between Nepal and the Tibet Autonomous Region of China.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "CSS MPT (A) 7,848 meter (B) 8,848 meter (C) 9,848 meter (D) 10,848 meter The answer is: (B) 8,848 meter The total height of Mount Everest, the world’s highest mountain, is 8,848 meter.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Adventure Mountain with Stefan Nestler Nothing earthly is of eternal duration.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Civilsdaily No.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "",
+      "title": "List of first ascents of Mount Everest by nationality",
+      "url": "https://en.wikipedia.org/wiki/List_of_first_ascents_of_Mount_Everest_by_nationality",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:28.234290",
+      "extra": {}
+    },
+    {
+      "text": "Height is measure of vertical distance, either vertical extent or vertical position. For an example of vertical extent, \"This basketball player is 7 foot 1 inches in height.\" For an example of vertical position, \"The height of an airplane in-flight is about 10,000 meters.\"",
+      "title": "Height",
+      "url": "https://en.wikipedia.org/wiki/Height",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:28.757784",
+      "extra": {}
+    },
+    {
+      "text": "Situated amongst the Great Himalayas in southern Asia, Mount Everest straddles the boarder between Nepal and the Tibet Autonomous Region of China. Standing at a height of 29,032 feet (8,849 meters), Mount Everest proudly claims its title as the tallest mountain in the world. The height of Mount Everest is 8848 meters or 29,028 feet. However, discrepancies concerning the precise elevation of the summit arose due to variations in snow accumulation, gravitational deviations, and the bending of light. The Survey of India established the benchmark measurement of 29,028 feet (8,848 meters), during the period from 1952 to 1954. This numerical value gained widespread acceptance. It was embraced by the majority of researchers, cartographic organizations, and publishers until 1999. Subsequent efforts aimed to reevaluate the mountain’s height. In 1975, a Chinese survey recorded a figure of 29,029.24 feet (8,848.11 meters), while an Italian survey, utilizing satellite surveying techniques, arrived at a measurement of 29,108 feet (8,872 meters) in 1987. Nonetheless, doubts emerged regarding the methodologies employed. In 1992, another Italian survey harnessed the Global Positioning System (GPS) and laser measurement technology, deriving a value of 29,023 feet (8,846 meters) by deducting 6.5 feet (2 meters) for the accumulation of ice and snow atop the summit. Nevertheless, this methodology, too, faced scrutiny. Regarding the height of Mount Everest, significant variations and debates have shaped the accurate measurement over time. In 1999, an expedition led by the (U.S.) National Geographic Society and other entities employed GPS equipment to conduct meticulous measurements. Their determined height of Mount Everest stood at 29,035 feet (8,850 meters), with a margin of error of 6.5 feet (2 meters). Both the society and experts in the fields of geodesy and cartography widely accepted this conclusion. In 2005, the Chinese embarked on another expedition, combining ice-penetrating radar and GPS technology. This effort resulted in a “rock height” measurement of 29,017.12 feet (8,844.43 meters), which gained significant media attention. However, this particular measurement found recognition predominantly within China for several subsequent years. A point of contention arose, notably with Nepal, favoring the “snow height” measurement of 29,028 feet. In April 2010, a bilateral agreement was reached between China and Nepal, acknowledging the validity of both height figures. The landscape shifted again in December 2020 when both nations jointly declared the height of Everest to be 29,031.69 feet (8,848.86 meters). This new measurement was derived from data acquired during surveys conducted by Nepal in 2019 and China in 2020. Employing cutting-edge technologies such as GPS, BeiDou navigation, and laser theodolites, this measurement garnered acceptance from experts in geodesy and cartography, including the National Geographic Society . Radhanath Sikdar calculated the exac",
+      "title": "What is the Height of Mount Everest?",
+      "url": "https://haydenrue.com/mountaineering/mount-everest-height/",
+      "source": "haydenrue.com",
+      "provider": "web",
+      "published": "2023-08-21 15:02:34+00:00",
+      "retrieved": "2025-10-08 03:01:31.802438",
+      "extra": {
+        "snippet": "Standing at a height of 29,032 feet (8,849 meters ), Mount Everest proudly claims its title as the tallest mountain in the world."
+      }
+    },
+    {
+      "text": "CSS MPT (A) 7,848 meter (B) 8,848 meter (C) 9,848 meter (D) 10,848 meter The answer is: (B) 8,848 meter The total height of Mount Everest, the world’s highest mountain, is 8,848 meter. CSS MPT MPT Syllabus Papers Preparation MCQs CSS WRITTEN EXAM CSS CSS Syllabus Past Papers Notes FPSC GENERAL MCQS Current Affairs General Knowledge Everyday Science English MCQs English Grammar MCQs Pak Study MCQs Islamic Studies Arithmetic/ Basic Math Analytical Reasoning SCIENCE MCQS Biology Chemistry Physics Computer Science Mathematics Statistics Full List BUSINESS MCQS Accounting Banking Commerce Economics Finance Project Management Business Administration Full List SOCIAL SCIENCE History Geography Sociology International Relations English Literature Full List EDUCATION Education and Pedagogy Bloom's Taxonomy MCQs Testing and Evaluation Classroom Management & Discipline Teaching Techniques & Methodology REGIONAL MCQS Canada India Nigeria Pakistan United States United Kingdom",
+      "title": "The total height of Mount Everest is – CSS MPT",
+      "url": "https://cssmpt.com/the-total-height-of-mount-everest-is/",
+      "source": "cssmpt.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:32.829588",
+      "extra": {
+        "snippet": "The answer is: (B) 8,848 meter The total height of Mount Everest , the world ’ s highest mountain, is 8,848 meter ."
+      }
+    },
+    {
+      "text": "Adventure Mountain with Stefan Nestler Nothing earthly is of eternal duration. Even mountains like Mount Everest change – for example through tectonic activities. After the devastating earthquake in Nepal in spring 2015 , in which almost 9000 people died, there had also been speculations that the height of Everest might have changed due to the strong earth tremors. A new survey of the highest mountain on earth was due anyway, as several “official” heights existed. Today the governments of Nepal and China have jointly announced: Mount Everest is currently 8,848.86 meters high – and thus about a meter higher than officially set so far. This was based on the results of a Nepalese surveying expedition in spring 2019 and a Chinese one in spring 2020. The Nepalese chief surveyor Khim Lal Gautam and his colleague Rabin Karki had reached the summit of Everest together with Tshiring Jangbu Sherpa on 22 May 2019 – at night, because the two surveyors wanted to work undisturbed by other climbers. For two hours they measured the highest point on earth. Gautam, who had already scaled Everest in 2011, paid for the effort with frostbite. One of his toes had to be amputated afterwards. On 27 May 2020 – during the only Everest expedition last spring – a Chinese survey team, ascending from the Tibetan north side, had reached the summit and worked for two and a half hours to remeasure the height. The fact that the governments of Nepal and China now jointly announced the results of their expeditions was seen by both states in a declaration as a “sign of traditional friendship”. The economic relations between China and Nepal have become increasingly close in recent years. The number of Chinese vacationers in Nepal has also risen continuously. In 2019 – in pre-corona times – China provided the second most visitors to Nepal with around 169,500 tourists. This represents 14.2 percent of all arrivals. Only from India (about 254,000 tourists; 21.4 percent) more tourists came to the Himalayan state. The Nepalese government has deliberately attracted Chinese people: since 2011, holidaymakers from China have not had to pay visa fees, unlike travellers from other countries. The number of Chinese mountaineers on expeditions to the world’s highest mountains has also increased in recent years. Everest was measured for the first time in the middle of the 19th century – from India, because Nepal was closed for foreigners to enter at that time. The surveyors of the British colonial power used the method of triangulation, which was already used by the ancient Egyptians. In simple terms, the point to be surveyed is considered to be part of a triangle where the distance between the other two points is known. If you now determine the respective angle of view to the distant point from these two observation points, three sizes of the triangle are known: two angles, one edge length. The searched distance can be calculated. However, the greater the distance, the less accurate this method bec",
+      "title": "New official height of Mount Everest: 8,848.86 meters - Adventure Mountain",
+      "url": "https://abenteuer-berg.de/en/new-official-height-of-mount-everest-8848-86-meters/",
+      "source": "abenteuer-berg.de",
+      "provider": "web",
+      "published": "2020-12-08 08:27:54+00:00",
+      "retrieved": "2025-10-08 03:01:34.822185",
+      "extra": {
+        "snippet": "... to the measurements and calculations of the Indian surveyor Bihari Lal Gulatee, Mount Everest was officially declared 29,028 feet (8,848 meters ) high ..."
+      }
+    },
+    {
+      "text": "Civilsdaily No. 1 UPSC IAS Platform for preparation From UPSC perspective, the following things are important : Prelims level: Mt. Everest Mains level: Himalayan Orogeny Nepal and China jointly announced the new height of Mount Everest as 8,848.86 meters. 8,848 metres — the answer to one of the most widely popular quiz questions, and a number drilled into the minds of school students around the world for decades, is set for a revision. Q.When you travel to the Himalayas, you will see the following: Which of the above can be said to be the evidences for the Himalayas being young fold mountains? (a) 1 and 2 only (b) 1, 2 and 4 only (c) 3 and 4 only (d) 1, 2, 3 and 4 Get an IAS/IPS ranker as your 1: 1 personal mentor for UPSC 2024 Attend Now Previous post What is Molnupiravir? Next post Fortified rice in PDS",
+      "title": "Revised height of Mount Everest - Civilsdaily",
+      "url": "https://www.civilsdaily.com/news/revised-height-of-mount-everest/",
+      "source": "civilsdaily.com",
+      "provider": "web",
+      "published": "2020-12-09 11:35:32+05:30",
+      "retrieved": "2025-10-08 03:01:36.583373",
+      "extra": {
+        "snippet": "Nepal and China jointly announced the new height of Mount Everest as 8,848.86 meters . ... mountain gets its English name from Sir George Everest , a ..."
+      }
+    }
+  ]
+}

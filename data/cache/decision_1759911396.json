@@ -1,0 +1,88 @@
+{
+  "query": "Who is the current UN Secretary-General?",
+  "timestamp": "2025-10-08T03:16:36.501337",
+  "claims": [
+    {
+      "sentence": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The secretary-general of the United Nations ( UNSG or UNSECGEN ) is the chief administrative officer of the United Nations and head of the United Nations Secretariat , one of the six principal organs of the United Nations .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The United Nations ( UN ) is a global intergovernmental organization established by the signing of the UN Charter on 26 June 1945 with the articulated mission of maintaining international peace and security , to develop friendly relations among states , to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years. Under-secretary-general is the third highest rank in the United Nations, after the secretary-general and the deputy secretary-general. The rank is held by the heads of different UN entities, certain high officials of the United Nations Secretariat, and high-level envoys. The United Nations regards the rank as equal to that of a cabinet minister of a member state, and under-secretaries-general have diplomatic immunity under the UN Charter.",
+      "title": "Under-Secretary-General of the United Nations",
+      "url": "https://en.wikipedia.org/wiki/Under-Secretary-General_of_the_United_Nations",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:30.512511",
+      "extra": {}
+    },
+    {
+      "text": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations. The current United Nations Secretary General is António Guterres, whose term ends on 31 December 2026.",
+      "title": "2026 United Nations Secretary-General selection",
+      "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Secretary-General_selection",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:31.018384",
+      "extra": {}
+    },
+    {
+      "text": "The secretary-general of the United Nations ( UNSG or UNSECGEN ) is the chief administrative officer of the United Nations and head of the United Nations Secretariat , one of the six principal organs of the United Nations . The role of the secretary-general and of the secretariat is laid out by Chapter XV (Articles 97 to 101) of the United Nations Charter . However, the office's qualifications, selection process and tenure are open to interpretation; they have been established by custom. [ 1 ] The secretary-general is appointed by the General Assembly upon the recommendation of the Security Council . As the recommendation must come from the Security Council, any of the five permanent members of the council can veto a nomination. Most secretaries-general are compromise candidates from middle powers and have little prior fame. Unofficial qualifications for the job have been set by precedent in previous selections. The appointee may not be a citizen of any of the Security Council's five permanent members. [ 2 ] The General Assembly resolution 51/241 in 1997 stated that, in the appointment of \"the best candidate\", due regard should be given to regional (continental) rotation of the appointee's national origin and to gender equality, [ 3 ] : 5 although no woman has yet served as secretary-general. All appointees to date have been career diplomats . [ 4 ] The length of the term is discretionary, but all secretaries-general since 1971 have been appointed to five-year terms. Every secretary-general since 1961 has been re-selected for a second term, with the exception of Boutros Boutros-Ghali , who was vetoed by the United States in the 1996 selection . While the position does not have a formal term limit , [ 5 ] incumbent secretary-generals have avoided seeking a third term since the 1981 selection , when China cast a record 16 vetoes against a third term for Kurt Waldheim . The selection process is opaque and is often compared to a papal conclave . [ 6 ] [ 7 ] Since 1981, the Security Council has voted in secret in a series of straw polls ; it then submits the winning candidate to the General Assembly for ratification. No candidate has ever been rejected by the General Assembly, and only once, in 1950 , has a candidate been voted upon despite a UNSC veto. [ 8 ] In 2016, the General Assembly and the Security Council sought nominations and conducted public debates for the first time. However, the Security Council voted in private and followed the same process as previous selections, leading the president of the General Assembly to complain that it \"does not live up to the expectations of the membership and the new standard of openness and transparency\". [ 9 ] The UN Charter designates the secretary-general as the \"chief administrative officer\" of the UN, and gives the secretary-general the power to make employment decisions about Secretariat staff. The Charter also empowers the secretary-general to inform the Security Council of \"any matter which in his o",
+      "title": "Secretary-General of the United Nations - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Secretary-General_of_the_United_Nations",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:33.529040",
+      "extra": {
+        "snippet": "The official residence of the secretary - general is a townhouse at 3 Sutton Place, Manhattan, in New York City, United States. The townhouse was built for Anne Morgan in 1921 and donated to the United Nations in 1972.[12]."
+      }
+    },
+    {
+      "text": "The United Nations ( UN ) is a global intergovernmental organization established by the signing of the UN Charter on 26 June 1945 with the articulated mission of maintaining international peace and security , to develop friendly relations among states , to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals. The United Nations headquarters is located in New York City , with several other offices located in Geneva , Nairobi , Vienna , and The Hague . The UN comprises six principal organizations: the General Assembly , the Security Council , the Economic and Social Council , the International Court of Justice , the Secretariat , and the Trusteeship Council which, together with several specialized agencies and related agencies, make up the United Nations System . There are in total 193 member states and 2 observer states. The UN has primarily focused on economic and social development, particularly during the wave of decolonization in the mid-20th century. The UN has been recognized as a leader of peace and human development, with many officers and agencies having been awarded the Nobel Peace Prize , but has also been criticized for perceived ineffectiveness, bias, and corruption. In the century prior to the UN's creation, several international organizations such as the International Committee of the Red Cross were formed to ensure protection and assistance for victims of armed conflict and strife. [ 2 ] During World War I , several major leaders, especially U.S. president Woodrow Wilson , advocated for a world body to guarantee peace. The winners of the war, the Allies , met to decide on formal peace terms at the Paris Peace Conference . The League of Nations was approved and started operations, but the United States never joined. On 10 January 1920, the League of Nations formally came into being when the Covenant of the League of Nations , ratified by 42 nations in 1919, took effect. [ 3 ] The League Council acted as an executive body directing the Assembly's business. It began with four permanent members—the United Kingdom , France , Italy , and Japan . After some limited successes and failures during the 1920s, the League proved ineffective in the 1930s, as it failed to act against the Japanese invasion of Manchuria in 1933. Forty nations voted for Japan to withdraw from Manchuria but Japan voted against it and walked out of the League instead of withdrawing from Manchuria. [ 4 ] It also failed to act against the Second Italo-Ethiopian War , after the appeal for international intervention by Ethiopian Emperor Haile Selassie I at Geneva in 1936 went with no avail, including when calls for economic sanctions against Italy failed. Italy and other nations left the League. [ 5 ] When World War II broke out in 1939, the League effectively closed down. [ 6 ] The first step towards the establishment of the United Nations was the Inter-Allied Conference in London that led to the Decla",
+      "title": "United Nations - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/United_Nations",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:35.166752",
+      "extra": {
+        "snippet": "Its chairperson—the UN Secretary - General —is elected by the General Assembly for a five-year mandate and is the UN 's foremost representative. Decides disputes between states that recognize its jurisdictionAntónio Guterres, the current secretary - general ."
+      }
+    }
+  ]
+}

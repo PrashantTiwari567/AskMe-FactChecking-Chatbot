@@ -1,0 +1,88 @@
+{
+  "query": "When did World War II end?",
+  "timestamp": "2025-10-08T03:16:20.264657",
+  "claims": [
+    {
+      "sentence": "The end of World War II in Europe occurred in May 1945.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "World War II officially ended in Asia on September 2, 1945, at 3:24 with the surrender of Japan on the USS Missouri.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The Axis powers are finally defeated in 1945—Nazi Germany in May and Imperial Japan in August.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The end of World War II in Europe occurred in May 1945. Following the suicide of Adolf Hitler on 30 April, leadership of Nazi Germany passed to Grand Admiral Karl Dönitz and the Flensburg Government. Soviet troops captured Berlin on 2 May, and a number of German military forces surrendered over the next few days. On 8 May, Field Marshal Wilhelm Keitel signed the German Instrument of Surrender, an unconditional surrender to the Allies, in Karlshorst, Berlin. This is celebrated as Victory in Europe Day, while in Russia, 9 May is celebrated as Victory Day.",
+      "title": "End of World War II in Europe",
+      "url": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Europe",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:14.670760",
+      "extra": {}
+    },
+    {
+      "text": "World War II officially ended in Asia on September 2, 1945, at 3:24 with the surrender of Japan on the USS Missouri. Before that, the United States dropped two atomic bombs on Japan, and the Soviet Union declared war on Japan, causing Emperor Hirohito to announce the acceptance of the Potsdam Declaration on August 15, 1945, which would eventually lead to the surrender ceremony on September 2.",
+      "title": "End of World War II in Asia",
+      "url": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Asia",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:15.285744",
+      "extra": {}
+    },
+    {
+      "text": "Asia-Pacific Mediterranean and Middle East Other campaigns Coups Resistance movements World War II [ b ] or the Second World War (1 September 1939 – 2 September 1945) was a global conflict between two coalitions: the Allies and the Axis powers . Nearly all of the world's countries participated, with many nations mobilising all resources in pursuit of total war . Tanks and aircraft played major roles , enabling the strategic bombing of cities and delivery of the first and only nuclear weapons ever used in war. World War II is the deadliest conflict in history, causing the death of 70 to 85 million people , more than half of whom were civilians. Millions died in genocides , including the Holocaust , and by massacres, starvation, and disease. After the Allied victory, Germany , Austria , Japan , and Korea were occupied, and German and Japanese leaders were tried for war crimes . The causes of World War II included unresolved tensions in the aftermath of World War I , the rise of fascism in Europe and militarism in Japan . Key events preceding the war included Japan's invasion of Manchuria in 1931, the Spanish Civil War , the outbreak of the Second Sino-Japanese War in 1937, and Germany's annexations of Austria and the Sudetenland . World War II is generally considered to have begun on 1 September 1939, when Nazi Germany , under Adolf Hitler , invaded Poland , after which the United Kingdom and France declared war on Germany. Poland was divided between Germany and the Soviet Union under the Molotov–Ribbentrop Pact . In 1940, the Soviet Union annexed the Baltic states and parts of Finland and Romania . After the fall of France in June 1940, the war continued mainly between Germany and the British Empire , with fighting in the Balkans , Mediterranean, and Middle East , the aerial Battle of Britain and the Blitz , and the naval Battle of the Atlantic . Through campaigns and treaties, Germany gained control of much of continental Europe and formed the Axis alliance with Italy , Japan , and other countries. In June 1941, Germany invaded the Soviet Union , opening the Eastern Front and initially making large territorial gains. In December 1941, Japan attacked American and British territories in Asia and the Pacific , including at Pearl Harbor in Hawaii , leading the United States to enter the war against Japan and Germany . Japan conquered much of coastal China and Southeast Asia , but its advances in the Pacific were halted in June 1942 at the Battle of Midway . In early 1943, Axis forces were defeated in North Africa and at Stalingrad in the Soviet Union, and that year their continued defeats on the Eastern Front, an Allied invasion of Italy , and Allied offensives in the Pacific forced them into retreat on all fronts. In 1944, the Western Allies invaded France at Normandy , as the Soviet Union recaptured its pre-war territory and the US crippled Japan's navy and captured key Pacific islands . The war in Europe concluded with the liberation of German-occ",
+      "title": "World War II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:18.264136",
+      "extra": {
+        "snippet": "4 days ago - The British historian Antony Beevor ... Union from May to September 1939 . Others view the Spanish Civil War as the start or prelude to World War II. The exact date of the war's end is also not universally agreed upon...."
+      }
+    },
+    {
+      "text": "The Axis powers are finally defeated in 1945—Nazi Germany in May and Imperial Japan in August. Top Photo: American servicemen and women gather in front of \"Rainbow Corner\" Red Cross club in Paris to celebrate the unconditional surrender of the Japanese. August 15, 1945. National Archives. Records of the Office of the Chief Signal Officer. 111-SC-210241 From July 19 through August 2, 1945, the leaders of the United States, United Kingdom, and Soviet Union met at Potsdam to determine the postwar order and how to administer defeated Germany. During the Potsdam Conference deliberations, Soviet leader Joseph Stalin also agreed that the Soviet Union would enter the war against Imperial Japan 90 days after the German surrender on May 8. On July 26, American President Harry S. Truman, British Prime Minister Winston Churchill, and Chiang Kai-shek, the leader of the Chinese Nationalist government, issued the Potsdam Declaration, which outlined the surrender terms for Japan. Among the terms, the document called on the government of Japan “to proclaim now the unconditional surrender of all Japanese armed forces” or else face “prompt and utter destruction” by the Allies. In the United States, the absence of any Japanese reply to the Potsdam Declaration was seen as a rejection of Allied terms. In the Pacific events moved quickly. The United states dropped an atomic bomb on Hiroshima on August 6. Two days later, the Soviet Union declared war on Japan and gave its support to the terms of the Potsdam Declaration. The next day, August 9, the Red Army invaded Manchuria, and a second atomic bomb hit Nagasaki. In Manila, General Douglas MacArthur alerted his commanders to hold their units in readiness for the immediate occupation of Japan and Korea, a plan code-named “Blacklist.” While the world cheered the arrival of peace, however, real challenges lay ahead. Industrial age warfare had left scars on the planet that would take years to heal. On the night of August 9, Japanese Emperor Hirohito met with his cabinet and made the momentous decision to accept the terms of the Potsdam Declaration. Japan’s capitulation would kick off several tense weeks of diplomatic exchanges, ceasefire orders, negotiations, initial occupation operations—and, ultimately, a formal surrender ceremony on September 2, 1945. Working through the Swiss Government, the Japanese Foreign Ministry on August 10 transmitted to the Allies that Japan would surrender unconditionally. The Foreign Ministry, however, also stipulated their understanding that the declaration in no way “prejudices the prerogatives of His Majesty as a sovereign ruler.” At Truman’s direction, and on behalf of the Allied governments, US Secretary of State James Byrnes conveyed on August 12 that upon Japan’s surrender, “the authority of the Emperor and the Japanese Government” would be subject to the Supreme Commander of the Allied Powers (SCAP). The United States called on Hirohito to issue orders to all commands to cease fire, en",
+      "title": "The End of World War II 1945 | The National WWII Museum | New Orleans",
+      "url": "https://www.nationalww2museum.org/war/topics/end-world-war-ii-1945",
+      "source": "nationalww2museum.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:16:19.709641",
+      "extra": {
+        "snippet": "September 2, 2025 - The bombing of the Japanese city of Nagasaki with the Fat Man plutonium bomb device on August 9, 1945 , caused terrible human devastation and helped end World War II."
+      }
+    }
+  ]
+}

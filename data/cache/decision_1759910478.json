@@ -1,0 +1,109 @@
+{
+  "query": "What does GDP stand for?",
+  "timestamp": "2025-10-08T03:01:18.016622",
+  "claims": [
+    {
+      "sentence": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Aggregate income is the total of all incomes in an economy without adjustments for inflation, taxation, or types of double counting.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "DEFINITION GDP stands for \"Gross Domestic Product\" and represents the total monetary value of all final goods and services produced (and sold on the market) within a country during a period of time (typically 1 year).",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A plethora of financial and economic reports emerge weekly, monthly, or yearly, providing traders and investors with much-needed insights about the state of the economy and the financial markets .",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Examples: NFL , NASA , PSP , HIPAA , random Word(s) in meaning: chat \"global warming\" Postal codes: USA: 81657 , Canada: T5A 0A7 Your abbreviation search returned 39 meanings Page/Link Sort results: alphabetical | rank ?",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "title": "Parable of the broken window",
+      "url": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:13.528933",
+      "extra": {}
+    },
+    {
+      "text": "Aggregate income is the total of all incomes in an economy without adjustments for inflation, taxation, or types of double counting. Aggregate income is a form of GDP that is equal to Consumption expenditure plus net profits. 'Aggregate income' in economics is a broad conceptual term. It may express the proceeds from total output in the economy for producers of that output. There are a number of ways to measure aggregate income, but GDP is one of the best known and most widely used.",
+      "title": "Aggregate income",
+      "url": "https://en.wikipedia.org/wiki/Aggregate_income",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:14.002089",
+      "extra": {}
+    },
+    {
+      "text": "DEFINITION GDP stands for \"Gross Domestic Product\" and represents the total monetary value of all final goods and services produced (and sold on the market) within a country during a period of time (typically 1 year). PURPOSE GDP is the most commonly used measure of economic activity. HISTORY The first basic concept of GDP was invented at the end of the 18th century. The modern concept was developed by the American economist Simon Kuznets in 1934 and adopted as the main measure of a country's economy at the Bretton Woods conference in 1944. \"Gross\" (in \" Gross Domestic Product\") indicates that products are counted regardless of their subsequent use. A product can be used for consumption, for investment, or to replace an asset. In all cases, the product's final \"sales receipt\" will be added to the total GDP figure. In contrast, \"Net\" doesn't account for products used to replace an asset (in order to offset depreciation). \"Net\" only shows products used for consumption or investment. Domestic (GDP) \"Domestic\" (in \"Gross Domestic Product\") indicates that the inclusion criterion is geographical: goods and services counted are those produced within the country's border , regardless of the nationality of the producer. For example, the production of a German-owned factory in the United States will be counted as part of United States' GDP. National (GNP) In contrast, \"National\" (in \"Gross National Product\") indicates that the inclusion criterion is based on citizenship (nationality): goods and services are counted when produced by a national of the country, regardless of where the production physically takes place. In the example, the production of a German-owned factory in the United States will be counted as part of Germany's GNP (Gross National Product) in addition to being counted as part of United States' GDP. GNI GNI (Gross National Income) is a metric similar to GNP, since both are based on nationality rather than geography. The difference is that, when calculating the total value, GNI uses the income approach whereas GNP uses the production approach to calculate GDP. Both GNP and GNI should theoretically yield the same result. \"Product\" (in \"Gross Domestic Product \") stands for production, or economic output, of final goods and services sold on the market. Included in GDP: Not included in GDP: Nominal GDP (or \"Current GDP\") = face value of output, without any inflation adjustment Real GDP (or \"Constant GDP\") = value of output adjusted for inflation or deflation. It allows us to determine whether the value of output has changed because more is being produced or simply because prices have increased. Real GDP is used to calculate GDP growth. GDP can be calculated in three ways: using the production, expenditure, or income approach. All methods should give the same result. The formula for calculating GDP with the expenditure approach is the following: or, expressed in a formula: GDP is usually calculated by the national statistical agency of the count",
+      "title": "What is GDP (Gross Domestic Product) - Worldometer",
+      "url": "https://www.worldometers.info/gdp/what-is-gdp/",
+      "source": "worldometers.info",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:16.010291",
+      "extra": {
+        "snippet": "What does \" Gross \" stand for ? \"Gross\" (in \" Gross Domestic Product \") indicates that products are counted regardless of their subsequent use. A product can be used for consumption, for investment, or to replace an asset. What does \"Domestic\" stand for ? ( GDP vs. GNP and GNI)."
+      }
+    },
+    {
+      "text": "A plethora of financial and economic reports emerge weekly, monthly, or yearly, providing traders and investors with much-needed insights about the state of the economy and the financial markets . Gross Domestic Product (GDP) is arguably one of these. Accordingly, this article explores the meaning of GDP, the different types of GDP, how to calculate GDP, and the effects of the upcoming US GDP releases on the market. Gross Domestic Product measures the total market or monetary value of the produced goods and services within a country’s borders during a specific time. The idea behind GDP arose after the Great Depression and World War II. GDP became a standardized measure of a country’s economy following the Bretton Woods Conference. The different types of GDP include nominal, real, and per capita. GDP does not reflect a country's standard of living, well-being, educational or health levels, or environmental quality. GDP or Gross Domestic Product is the total market or monetary value of the produced goods and services within a country’s borders over a specified time period. Since it measures the market value of produced goods and services, this economic index gauges a country’s growth or decline. The ideal GDP growth rate is between 2% and 3%, according to economists. Historically, the concept of GDP emerged in the aftermath of the Great Depression and World War II eras. While the history of GDP is certainly not devoid of action and monumental milestones, here are three key events behind the emergence of GDP: In 1937, Simon Kuznets, an economist at the National Bureau of Economic Research, generated a report to the US Congress in which he presented the original formation of GDP. He intended to gauge the overall economic production companies, governments, and individuals delivered to understand the health of the economy. GDP became a standardized measure of a country’s economy following the Bretton Woods Conference. The US Commerce Department announced that the GDP was one of the 20th century’s great inventions. Measuring GDP can be done using the following methods: Income: GDP can be calculated by measuring all the factors of the economy’s production, including labor wages, land rent, interest payments, and profits. Basically, any factor that contributes to national income. Output: GDP can be calculated by adding up the values of all goods and services created by its various sectors - agriculture, manufacturing, energy, construction, and service industries. Spending: GDP can be calculated by measuring the money spent by the different groups that participate in the economy, such as governments, companies, businesses, and consumers. Broadly speaking, an increase in GDP rates usually generates more work opportunities because it indicates a healthy economy and, consequently, higher chances of prosperity and wage growth. On the flip side, lower GDP means that an economy is possibly underperforming or struggling, and as such, there would be fewer job oppo",
+      "title": "GDP Explained: What Is Gross Domestic Product? | Plus500",
+      "url": "https://us.plus500.com/en/newsandmarketinsights/gdp-explained",
+      "source": "plus500.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:16.788222",
+      "extra": {
+        "snippet": "What does GDP stand for ? GDP is the abbreviation for Gross Domestic Product , a monetary measure of a country’s total market value of final goods and services produced within its borders. What is GDP per capita?"
+      }
+    },
+    {
+      "text": "Examples: NFL , NASA , PSP , HIPAA , random Word(s) in meaning: chat \"global warming\" Postal codes: USA: 81657 , Canada: T5A 0A7 Your abbreviation search returned 39 meanings Page/Link Sort results: alphabetical | rank ? Note: We have 165 other definitions for GDP in our Acronym Attic Search for GDP in Online Dictionary Encyclopedia The Acronym Finder is © 1988-2025 , Acronym Finder, All Rights Reserved. Feedback",
+      "title": "GDP - Definition by AcronymFinder",
+      "url": "https://www.acronymfinder.com/GDP.html",
+      "source": "acronymfinder.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:01:18.010598",
+      "extra": {
+        "snippet": "What does GDP stand for ?Note: We have 165 other definitions for GDP in our Acronym Attic."
+      }
+    }
+  ]
+}

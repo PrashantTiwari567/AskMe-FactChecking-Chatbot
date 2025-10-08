@@ -1,0 +1,130 @@
+{
+  "query": "What does GDP stand for?",
+  "timestamp": "2025-10-08T03:47:34.595610",
+  "claims": [
+    {
+      "sentence": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Heterodox Gross domestic product ( GDP ) is a monetary measure of the total market value [ 1 ] of all the final goods and services produced and rendered in a specific time period by a country [ 2 ] or countries.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Find out how GDP can help measure the health of a country’s economy The U.S. Bureau of Economic Analysis releases Gross Domestic Product (GDP) figures quarterly and annually.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "gross domestic product (GDP) , total market value of the goods and services produced by a country’s economy during a specified period of time.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "$23.7 T +2.0 % Adjusted for inflation (chained 2017 dollars), seasonally adjusted at annual rates Source: US Bureau of Economic Analysis Subscribe to our weekly newsletter to get data-backed answers to today’s most debated issues Real gross domestic product by industry, chained 2017 dollars Source: US Bureau of Economic Analysis & 1 more Real gross domestic product per person, chained 2017 dollars Source: US Census Bureau & 1 more Real gross domestic product per person by state (2024) Source: US Census Bureau & 1 more USAFacts standardizes data, in areas such as time and demographics, to make it easier to understand and compare.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "The parable of the broken window was introduced by French economist Frédéric Bastiat in his 1850 essay \"That Which Is Seen, and That Which Is Not Seen\" to illustrate why destruction, and the money spent to recover from destruction, is not actually a net benefit to society.",
+      "title": "Parable of the broken window",
+      "url": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:28.888787",
+      "extra": {}
+    },
+    {
+      "text": "Purchasing power parity (PPP) is a measure of the price of specific goods in different countries and is used to compare the absolute purchasing power of the countries' currencies. PPP is effectively the ratio of the price of a market basket at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs, and other transaction costs.",
+      "title": "Purchasing power parity",
+      "url": "https://en.wikipedia.org/wiki/Purchasing_power_parity",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:29.666883",
+      "extra": {}
+    },
+    {
+      "text": "Heterodox Gross domestic product ( GDP ) is a monetary measure of the total market value [ 1 ] of all the final goods and services produced and rendered in a specific time period by a country [ 2 ] or countries. [ 3 ] [ 4 ] GDP is often used to measure the economic activity of a country or region. [ 2 ] The major components of GDP are consumption, government spending, net exports (exports minus imports), and investment. Changing any of these factors can increase the size of the economy. For example, population growth through mass immigration can raise consumption and demand for public services, thereby contributing to GDP growth. However, GDP is not a measure of overall standard of living or well-being, as it does not account for how income is distributed among the population. A country may rank high in GDP but still experience jobless growth depending on its planned economic structure and strategies. Dividing total GDP by the population gives an idealized rough measure of GDP per capita . [ 5 ] [ 3 ] Several national and international economic organizations, such as the OECD and the International Monetary Fund , maintain their own definitions of GDP. [ 6 ] [ 7 ] GDP is often used as a metric for international comparisons as well as a broad measure of economic progress . It serves as a statistical indicator of national development and progress. Total GDP can also be broken down into the contribution of each industry or sector of the economy. [ 8 ] Nominal GDP is useful when comparing national economies on the international market using current exchange rate . [ 9 ] To compare economies over time inflation can be adjusted by comparing real instead of nominal values . For cross-country comparisons, GDP figures are often adjusted for differences in the cost of living using purchasing power parity (PPP). GDP per capita at purchasing power parity can be useful for comparing living standards between nations. GDP has been criticized for leaving out key externalities , such as resource extraction , [ clarification needed ] environmental impact and unpaid domestic work . [ 10 ] Alternative economic indicators such as doughnut economics use other measures, such as the Human Development Index or Better Life Index , as better approaches to measuring the effect of the economy on human development and well being . Sir William Petty came up with a concept of GDP, to calculate the tax burden , and argue landlords were unfairly taxed during warfare between the Dutch and the English between 1652 and 1674. [ 11 ] Charles Davenant developed the method further in 1695. [ 12 ] The modern concept of GDP was first developed by Simon Kuznets for a 1934 U.S. Congress report, where he warned against its use as a measure of welfare (see below under limitations and criticisms ). [ 13 ] After the Bretton Woods Conference in 1944, GDP became the main tool for measuring a country's economy. [ 14 ] At that time gross national product (GNP) was the preferred estimate, which diffe",
+      "title": "Gross domestic product - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gross_Domestic_Product",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:32.222575",
+      "extra": {
+        "snippet": "Gross domestic product ( GDP ) is a monetary measure of the total market value [1] of all the final goods and services produced and rendered in a specific time period by a country [2] or countries. [3][4] GDP is often used to measure the economic activity of a country or region. [2]"
+      }
+    },
+    {
+      "text": "Find out how GDP can help measure the health of a country’s economy The U.S. Bureau of Economic Analysis releases Gross Domestic Product (GDP) figures quarterly and annually. Gross Domestic Product (GDP) includes consumer spending, government spending, net exports, and total investments. It functions as a comprehensive scorecard of a country’s economic health. GDP may be adjusted for inflation and population to provide deeper insights. Real GDP accounts for inflation, while Nominal GDP does not. Zoe Hansen / Investopedia The calculation of a country’s GDP encompasses all private and public consumption, government outlays, investments, additions to private inventories, paid-in construction costs, and the foreign balance of trade . Exports are added to the value, and imports are subtracted. Of all the components that make up a country’s GDP, the foreign balance of trade is especially important. The GDP of a country tends to increase when the total value of goods and services that domestic producers sell to foreign countries exceeds the total value of foreign goods and services that domestic consumers buy. When this situation occurs, a country is said to have a trade surplus . If the opposite situation occurs—that is, if the amount that domestic consumers spend on foreign products is greater than the total sum of what domestic producers can sell to foreign consumers—it is called a trade deficit . In this situation, the GDP of a country tends to decrease. GDP can be computed on a nominal basis or a real basis, the latter accounting for inflation . Overall, real GDP is a better method for expressing long-term national economic performance since it uses constant dollars . Let’s say one country had a nominal GDP of $100 billion in 2014. By 2024, its nominal GDP grew to $150 billion. Prices also rose by 100% over the same period. In this example, if you look solely at its nominal GDP, the country’s economy appears to be performing well. However, the real GDP (expressed in 2014 dollars) would only be $75 billion, revealing that an overall decline in real economic performance actually occurred during this time. A country’s GDP represents the final market value of all the products and services that a country produces in a single year. Another way to measure GDP is as the sum of four factors: consumer spending, government spending, net exports, and total investment. In the United States, GDP is calculated every three months by the Bureau of Economic Analysis (BEA) . The BEA makes its estimate based on price estimates, survey data, and other information collected by other agencies, such as the Census Bureau, Federal Reserve, Department of the Treasury, and Bureau of Labor Statistics. GDP can be reported in several ways, each of which provides slightly different information. Nominal GDP is an assessment of economic production in an economy that includes current prices in its calculation. In other words, it doesn’t strip out inflation or the pace of rising pric",
+      "title": "Gross Domestic Product (GDP) Formula and How to Use It",
+      "url": "https://www.investopedia.com/terms/g/gdp.asp",
+      "source": "investopedia.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:33.325160",
+      "extra": {
+        "snippet": "May 8, 2025 · GDP stands for Gross Domestic Product, a measure of a country's economic output and growth. Learn how to calculate GDP, its components, types and how it reflects inflation and population. Gross domestic product ( GDP ) is a monetary measure of the total market value [1] of all the final goods and services produced and rendered in a specific time period by a country [2] or countries. [3][4] GDP is often used to measure the economic activity of a country or region. [2] What is Gross Domestic Product (GDP)? Gross domestic product ( GDP ) is a monetary measure of the market value of all the final goods and services produced in a specific time period. When estimating the market’s size, a good starting point is by looking at the contribution to turnover by various types of participants and retail participation. What is GDP & why is it important? GDP is one of the primary economic indicators used by decision-makers within the governments and financial and other institutions to evaluate the health of the economy. A large increase in real GDP is interpreted as a sign that the economy is doing well, while a small or negative increase indicates poor economic performances. What does GDP mean in economics? Define Gross Domestic Product (GDP). Ans. Gross Domestic Product (GDP)-Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period. What is meant by economic system? Sep 25, 2025 · In economics, the final users of goods and services are divided into three main groups: households, businesses, and the government. One way gross domestic product (GDP) is calculated—known as the expenditure approach—is by adding the expenditures made by those three groups of users. Gross domestic product ( GDP ) measures the value of goods and services a country or state produces — it’s the sum of consumer spending, business investment, government spending, and net exports. It is often used to quantify the size of its economy. Dec 18, 2023 · GDP is the value of the final goods and services produced in the United States. Learn how to use GDP numbers, where to find them, and what they mean for the economy. GDP stands for gross domestic product, a measure of the size and health of a country’s economy. Learn how it is calculated, what it covers and what it does not, and how it relates to wellbeing. GDP measures the monetary value of final goods and services—that is, those that are bought by the final user—produced in a country in a given period of time (say a quarter or a year). It counts all of the output generated within the borders of a country."
+      }
+    },
+    {
+      "text": "gross domestic product (GDP) , total market value of the goods and services produced by a country’s economy during a specified period of time. It includes all final goods and services—that is, those that are produced by the economic agents located in that country regardless of their ownership and that are not resold in any form. It is used throughout the world as the main measure of output and economic activity. In economics , the final users of goods and services are divided into three main groups: households, businesses, and the government. One way gross domestic product (GDP) is calculated—known as the expenditure approach—is by adding the expenditures made by those three groups of users. Accordingly, GDP is defined by the following formula: GDP = Consumption + Investment + Government Spending + Net Exports or more succinctly as GDP = C + I + G + NX where consumption (C) represents private-consumption expenditures by households and nonprofit organizations, investment (I) refers to business expenditures by businesses and home purchases by households, government spending (G) denotes expenditures on goods and services by the government, and net exports (NX) represents a nation’s exports minus its imports. The expenditure approach is so called because all three variables on the right-hand side of the equation denote expenditures by different groups in the economy. The idea behind the expenditure approach is that the output that is produced in an economy has to be consumed by final users, which are either households, businesses, or the government. Therefore, the sum of all the expenditures by these different groups should equal total output—i.e., GDP. Each country prepares and publishes its own GDP data regularly. In addition, international organizations such as the World Bank and the International Monetary Fund (IMF) periodically publish and maintain historical GDP data for many countries. In the United States , GDP data are published quarterly by the Bureau of Economic Analysis (BEA) of the U.S. Department of Commerce . GDP and its components are part of the National Income and Product Accounts data set that the BEA updates on a regular basis. When an economy experiences several consecutive quarters of positive GDP growth, it is considered to be in an expansion (also called economic boom). Conversely, when it experiences two or more consecutive quarters of negative GDP growth, the economy is generally considered to be in a recession (also called economic bust). In the United States, the Business Cycle Dating Committee of the National Bureau of Economic Research is the authority that announces and keeps track of official expansions and recessions, also known as the business cycle . A separate field within economics called the economics of growth ( see economics: Growth and development ) specializes in the study of the characteristics and causes of business cycles and long-term growth patterns. Growth economists doing research in that field try to ",
+      "title": "Gross domestic product (GDP) | Definition & Formula | Britannica Money",
+      "url": "https://www.britannica.com/money/gross-domestic-product",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:34.076531",
+      "extra": {
+        "snippet": "Sep 25, 2025 · In economics, the final users of goods and services are divided into three main groups: households, businesses, and the government. One way gross domestic product (GDP) is calculated—known as the expenditure approach—is by adding the expenditures made by those three groups of users."
+      }
+    },
+    {
+      "text": "$23.7 T +2.0 % Adjusted for inflation (chained 2017 dollars), seasonally adjusted at annual rates Source: US Bureau of Economic Analysis Subscribe to our weekly newsletter to get data-backed answers to today’s most debated issues Real gross domestic product by industry, chained 2017 dollars Source: US Bureau of Economic Analysis & 1 more Real gross domestic product per person, chained 2017 dollars Source: US Census Bureau & 1 more Real gross domestic product per person by state (2024) Source: US Census Bureau & 1 more USAFacts standardizes data, in areas such as time and demographics, to make it easier to understand and compare. The analysis was generated with the help of AI and reviewed by USAFacts for accuracy. USAFacts endeavors to share the most up-to-date information available. We sourced the data on this page directly from government agencies; however, the intervals at which agencies publish updated data vary. Interactive Access to Industry Economic Accounts Data and 2 others Population Estimates Program Subscribe to get more unbiased, data-driven insights sent to your inbox weekly.",
+      "title": "What is the gross domestic product (GDP) in the US? | USAFacts",
+      "url": "https://usafacts.org/answers/what-is-the-gross-domestic-product-gdp/country/united-states/",
+      "source": "usafacts.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:34.587593",
+      "extra": {
+        "snippet": "Gross domestic product ( GDP ) measures the value of goods and services a country or state produces — it’s the sum of consumer spending, business investment, government spending, and net exports. It is often used to quantify the size of its economy."
+      }
+    }
+  ]
+}

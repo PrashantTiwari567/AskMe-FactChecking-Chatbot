@@ -1,0 +1,88 @@
+{
+  "query": "Who founded Tesla Motors?",
+  "timestamp": "2025-10-08T03:47:41.205521",
+  "claims": [
+    {
+      "sentence": "Tesla, Inc. is an American multinational automotive and clean energy company.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Tesla, Inc. is an American manufacturer of electric automobiles , solar panels, and batteries for cars and home power storage.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "by Marc Le Menestrel (7/11/2014) Brief introduction of Tesla Motors in its own words: TESLA MOTORS was founded in 2003 by a group of Silicon Valley engineers who set out to prove that electric vehicles could be awesome.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Tesla, Inc. is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.",
+      "title": "Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:35.698358",
+      "extra": {}
+    },
+    {
+      "text": "Tesla, Inc. is an electric vehicle manufacturer and clean energy company founded in San Carlos, California in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning. The company is named after Serbian-American inventor Nikola Tesla. Tesla is the world's leading electric vehicle manufacturer by market cap. As of 2023, Tesla's global vehicle sales were 1.77 million units annually, the 14th-highest total among auto manufacturers worldwide.",
+      "title": "History of Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tesla%2C_Inc.",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:36.169041",
+      "extra": {}
+    },
+    {
+      "text": "Tesla, Inc. is an American manufacturer of electric automobiles , solar panels, and batteries for cars and home power storage. It was founded in 2003 by American entrepreneurs Martin Eberhard and Marc Tarpenning and was named after Serbian American inventor Nikola Tesla . It quickly became one of the most recognizable car brands in the world. Although Tesla is best known for its electric vehicles, it also produces energy storage systems and technology products. As of 2025, its operations comprise three main business areas. For years, Tesla also profited from the sale of regulatory carbon credits—$2.76 billion in 2024 alone—though that revenue stream has been increasingly constrained by changing emissions regulations (particularly those included in the One Big Beautiful Bill Act of 2025) and the broader shift toward zero-emissions vehicles within the industry, which has reduced the need for competitors to purchase such credits. Tesla Motors was formed to develop an electric sports car. Eberhard was Tesla’s chief executive officer (CEO) and Tarpenning its chief financial officer (CFO). Funding for the company was obtained from a variety of sources, most notably PayPal cofounder Elon Musk , who contributed more than $30 million to the new venture and served as chair of the company beginning in 2004. In 2008, Tesla Motors released its first car, the completely electric Roadster . In company tests, it achieved 245 miles (394 km) on a single charge, a range unprecedented for a production electric car . Additional tests showed that its performance was comparable to that of many gasoline-powered sports cars: The Roadster’s body was made of carbon fiber, the lightweight—but stronger than steel—material used in many of the world’s top supercars. Plus, the automobile produced no tailpipe emissions, as it did not use an internal-combustion engine . Its electric motor was powered by lithium - ion cells—often used in laptop computer batteries—that could be recharged from a standard electrical outlet. Despite a federal tax credit of $7,500 that applied to purchasing an electric vehicle, the Roadster’s cost of $109,000 made it a luxury item. In late 2007, Eberhard resigned as CEO and president of technology and joined the advisory board of the company. He formally left Tesla in 2008 but remained a shareholder. Tarpenning, who was vice president of electrical engineering, supervising the development of electronic and software systems for the Roadster, also left the company in 2008. Musk took over as CEO. In 2010, Tesla’s initial public offering raised some $226 million.",
+      "title": "Tesla, Inc. | History, Cars, Elon Musk, & Facts | Britannica Money",
+      "url": "https://www.britannica.com/money/Tesla-Motors",
+      "source": "britannica.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:39.611086",
+      "extra": {
+        "snippet": "Tesla Motors was formed to develop an electric sports car. ... In 2008, Tesla Motors released its first car, the completely electric Roadster ."
+      }
+    },
+    {
+      "text": "by Marc Le Menestrel (7/11/2014) Brief introduction of Tesla Motors in its own words: TESLA MOTORS was founded in 2003 by a group of Silicon Valley engineers who set out to prove that electric vehicles could be awesome. A Clean Start A Silicon Valley approach means we move fast and constantly innovate. The critics said it couldn’t be done, yet we are here, taking nothing for granted. We challenge custom and question tradition. Our drivers benefit from it. Committed to Electric Tesla makes the best electric cars and electric powertrains in the world. Tesla technology offers the most efficient path to a sustainable energy future. No hybrids. No hydrogen. No hype. Built around the driver Forget everything you know about the automobile. The Tesla electric drivetrain offers a radically different experience. The driver, the car, and the environment connect in ways they’ve never connected before. Sparking the evolution Tesla’s goal is to accelerate the world’s transition to electric mobility with a full range of increasingly affordable electric cars. We’re catalyzing change in the industry. Tesla vehicles and EVs powered by Tesla are fun to drive and environmentally responsible. Question for preparation: What would you like to learn about Tesla Motors? Back to the course",
+      "title": "Tesla Motors - Marc Le Menestrel",
+      "url": "https://marc-lemenestrel.net/Tesla-Motors.html",
+      "source": "marc-lemenestrel.net",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:47:41.196500",
+      "extra": {
+        "snippet": "TESLA MOTORS was founded in 2003 by a group of Silicon Valley engineers who set out to prove that electric vehicles could be awesome."
+      }
+    }
+  ]
+}

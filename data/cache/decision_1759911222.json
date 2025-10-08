@@ -1,0 +1,109 @@
+{
+  "query": "What does HTTP stand for?",
+  "timestamp": "2025-10-08T03:13:42.068697",
+  "claims": [
+    {
+      "sentence": "A non sequitur is a conversational literary device, often used for comedic purposes.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "James Anthony Patrick Carr is an Irish-British comedian.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Sign up Sign in Sign up Sign in -- Listen Share Learn about how you request content from a web server using the HTTP protocol What does HTTP stand for?",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "HyperText Transfer Protocol Computing » Networking -- and more... Internet Holdings, Inc. Business » NASDAQ Symbols Head To This Page Miscellaneous » Funnies Hyper Terminal Tracing Program Miscellaneous » Funnies Handy Trendy Totable Pockets Miscellaneous » Funnies Home Tested and Tried Page Miscellaneous » Funnies Handle The Teapots Properly Community Hideously Terrible Typist Problem Miscellaneous » Funnies Head To The Pool Miscellaneous » Funnies High Throughput Transfer Policy Miscellaneous » Funnies Hash Text Transfer Protocol Miscellaneous » Unclassified High Text Transmission Protocol Miscellaneous » Unclassified Hyper Text Transfer Protocol Miscellaneous » Unclassified -- and more... Hyper Text Transper Protocol Academic & Science » Electronics see more »",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Cloud VMS Build your own white-label, customized cloud VMS Camera to Cloud Connect IP cameras directly to the cloud AI Analytics Intelligent video analytics solutions for security cameras Cloud Gateway Bridges connection between IP cameras and the Cloud Quick explanations of key terms in video surveillance and AI technologies to help you understand the basics and stay informed.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "A non sequitur is a conversational literary device, often used for comedic purposes. It is something said that, because of its apparent lack of meaning relative to what preceded it, seems absurd to the point of being humorous or confusing. This use of the term is distinct from the non sequitur in logic, where it is a fallacy.",
+      "title": "Non sequitur (literary device)",
+      "url": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:37.229408",
+      "extra": {}
+    },
+    {
+      "text": "James Anthony Patrick Carr is an Irish-British comedian. He began his career in 1997 with a series of successful stand-up performances. He has regularly appeared on television as the host of Channel 4 panel shows such as The Big Fat Quiz of the Year, 8 Out of 10 Cats (2005–2021), and 8 Out of 10 Cats Does Countdown. Carr is known for his rapid-fire deadpan delivery of one-liners.",
+      "title": "Jimmy Carr",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carr",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:37.869543",
+      "extra": {}
+    },
+    {
+      "text": "Sign up Sign in Sign up Sign in -- Listen Share Learn about how you request content from a web server using the HTTP protocol What does HTTP stand for? Answer: HyperText Transfer Protocol What does the S in HTTPS stand for? Answer: Secure On the mock webpage on the right, there is an issue, once you’ve found it, click on it. What is the challenge flag? Answer: THM{INVALID_HTTP_CERT} click on the lock of the URL. What HTTP protocol is being used in the above example? Answer: HTTP/1.1 What response header tells the browser how much data to expect? Answer: Content-Length What is a URL? (Uniform Resource Locator) If you’ve used the internet, you’ve used a URL before. A URL is predominantly an instruction on how to access a resource on the internet. The below image shows what a URL looks like with all of its features (it does not use all features in every request). Scheme: This instructs on what protocol to use for accessing the resource such as HTTP, HTTPS, or FTP (File Transfer Protocol). User: Some services require authentication to log in, you can put a username and password into the URL to log in. Host: The domain name or IP address of the server you wish to access. Port: The Port that you are going to connect to, is usually 80 for HTTP and 443 for HTTPS, but this can be hosted on any port between 1–65535. Path: The file name or location of the resource you are trying to access. Query String: Extra bits of information that can be sent to the requested path. For example, /blog? id=1 would tell the blog path that you wish to receive the blog article with the id of 1. Fragment: A fragment is an internal page reference, sometimes called a named anchor. It usually appears at the end of a URL and begins with a hash (#) character followed by an identifier. It refers to a section(any option)within a web page(the web page where the user is staying). What method would be used to create a new user account? Answer: POST",
+      "title": "HTTP in detail — TryHackMe. Learn about how you request content… | by kawsar uddin | Medium",
+      "url": "https://medium.com/@kawsaruddin238/http-in-detail-tryhackme-fb726e12d4a3",
+      "source": "medium.com",
+      "provider": "web",
+      "published": "2023-05-22 07:56:11.195000+00:00",
+      "retrieved": "2025-10-08 03:13:40.028281",
+      "extra": {
+        "snippet": "What does HTTP stand for ? Answer: HyperText Transfer Protocol. What does the S in HTTPS stand for ? Answer: Secure. On the mock webpage on the right, there is an issue, once you’ve found it, click on it."
+      }
+    },
+    {
+      "text": "HyperText Transfer Protocol Computing » Networking -- and more... Internet Holdings, Inc. Business » NASDAQ Symbols Head To This Page Miscellaneous » Funnies Hyper Terminal Tracing Program Miscellaneous » Funnies Handy Trendy Totable Pockets Miscellaneous » Funnies Home Tested and Tried Page Miscellaneous » Funnies Handle The Teapots Properly Community Hideously Terrible Typist Problem Miscellaneous » Funnies Head To The Pool Miscellaneous » Funnies High Throughput Transfer Policy Miscellaneous » Funnies Hash Text Transfer Protocol Miscellaneous » Unclassified High Text Transmission Protocol Miscellaneous » Unclassified Hyper Text Transfer Protocol Miscellaneous » Unclassified -- and more... Hyper Text Transper Protocol Academic & Science » Electronics see more »",
+      "title": "What does HTTP stand for?",
+      "url": "https://www.abbreviations.com/HTTP",
+      "source": "abbreviations.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:40.736957",
+      "extra": {
+        "snippet": "Looking for the definition of HTTP ? Find out what is the full meaning of HTTP on Abbreviations.com! 'HyperText Transfer Protocol' is one option -- get in to view more @ The Web's largest and most authoritative acronyms and abbreviations resource."
+      }
+    },
+    {
+      "text": "Cloud VMS Build your own white-label, customized cloud VMS Camera to Cloud Connect IP cameras directly to the cloud AI Analytics Intelligent video analytics solutions for security cameras Cloud Gateway Bridges connection between IP cameras and the Cloud Quick explanations of key terms in video surveillance and AI technologies to help you understand the basics and stay informed. HTTP is one of the most essential protocols that governs the way we use the internet today. Every time you open a webpage, HTTP is silently working in the background, ensuring that the information you requested from a server is delivered to your browser correctly. While it's easy to overlook, understanding HTTP is key to grasping how the web functions. HTTP stands for Hypertext Transfer Protocol. It is a set of rules that dictates how data is exchanged over the web. Originally designed in the early 1990s, HTTP has evolved alongside the growth of the internet, making it a crucial protocol for web communication. The \"hypertext\" part refers to the system of linking documents and resources, while \"transfer protocol\" refers to the method of data transfer between clients (like browsers) and servers (where websites are hosted). HTTP is primarily used for transmitting hypertext between web browsers and servers. This hypertext typically includes HTML files, but it can also include other content types like images, videos, or documents. HTTP enables browsers to request resources from web servers, which then respond with the requested data. It also supports various types of requests, allowing users to interact with web applications beyond just reading content, such as submitting forms, downloading files, or making API calls. Here are a few core uses of HTTP: HTTP works through a request-response model. This means that when you interact with a website, your browser (the client) sends an HTTP request to a web server. The server processes this request and sends back an HTTP response, which contains the data needed to display the webpage or other resources. The key parts of this interaction include: HTTP is a stateless protocol, meaning each request is independent of the others. The server does not remember past requests unless mechanisms like cookies or sessions are used. Imagine you're trying to visit a website, such as www.example.com . Here’s what happens: In this example, the entire interaction from typing the URL to loading the webpage relies on the HTTP protocol, and this process repeats every time you click a new link or request another resource from the site. HTTP, or Hypertext Transfer Protocol , is the foundation of communication on the World Wide Web. It allows web browsers to interact with servers, delivering the content we request seamlessly. With its simple request-response mechanism, HTTP plays a critical role in enabling the rich, interactive experiences we enjoy on the internet today. Categories Follow us on 3080 Yonge Street, Suite 4068, Toronto, Ontario, M4N 3N1, Canad",
+      "title": "What does HTTP stand for",
+      "url": "https://www.videoexpertsgroup.com/glossary/http",
+      "source": "videoexpertsgroup.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:42.060174",
+      "extra": {
+        "snippet": "HTTP stands for Hypertext Transfer Protocol.How Does HTTP Work? HTTP works through a request-response model. This means that when you interact with a website, your browser (the client) sends an HTTP request to a web server."
+      }
+    }
+  ]
+}

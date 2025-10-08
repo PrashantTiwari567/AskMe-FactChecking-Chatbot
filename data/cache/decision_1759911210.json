@@ -1,0 +1,88 @@
+{
+  "query": "What currency is used in the UK?",
+  "timestamp": "2025-10-08T03:13:30.892793",
+  "claims": [
+    {
+      "sentence": "Sterling is the currency of the United Kingdom and nine of its associated territories.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Digital currency is any currency, money, or money-like asset that is primarily managed, stored or exchanged on digital computer systems, especially over the internet.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Pound is a name of various units of currency .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Before you arrive in the United Kingdom , it's a good idea to familiarize yourself with the local currency.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "Sterling is the currency of the United Kingdom and nine of its associated territories. The pound is the main unit of sterling, and the word pound is also used to refer to the British currency generally, often qualified in international contexts as the British pound or the pound sterling.",
+      "title": "Pound sterling",
+      "url": "https://en.wikipedia.org/wiki/Pound_sterling",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:25.952841",
+      "extra": {}
+    },
+    {
+      "text": "Digital currency is any currency, money, or money-like asset that is primarily managed, stored or exchanged on digital computer systems, especially over the internet. Types of digital currencies include cryptocurrency, virtual currency and central bank digital currency. Digital currency may be recorded on a distributed database on the internet, a centralized electronic computer database owned by a company or bank, within digital files or even on a stored-value card.",
+      "title": "Digital currency",
+      "url": "https://en.wikipedia.org/wiki/Digital_currency",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:26.423536",
+      "extra": {}
+    },
+    {
+      "text": "Pound is a name of various units of currency . It is used in some countries today and previously was used in many others. The English word \"pound\" derives from the Latin expression lībra pondō , \"a pound by weight\", in which lībra means 'scale' or 'balance' and pondō means 'pound' or 'weight'. [ 1 ] [ 2 ] The currency's symbol is ' £ ' , a stylised form of the blackletter 'L' ( L {\\displaystyle {\\mathfrak {L}}} ) (from libra ), crossed to indicate abbreviation. [ 3 ] The term was adopted in England from the weight [ a ] of silver used to make 240 pennies, [ 6 ] and eventually spread to British colonies all over the world. Although silver penny mintage began seven centuries earlier, the first pound coin was minted under Henry VII in 1489. [ 5 ] All of the following currencies have been replaced by the US dollar .",
+      "title": "Pound (currency) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pound_(currency)",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:29.606856",
+      "extra": {
+        "snippet": "May 31, 2025 - Pound is a name of various units of currency . It is used in some countries today and previously was used in many others. The English word \"pound\" derives from the Latin expression lībra pondō, \"a pound by weight\", in which lībra means 'scale' or 'balance' and pondō means 'pound' or 'weight'."
+      }
+    },
+    {
+      "text": "Before you arrive in the United Kingdom , it's a good idea to familiarize yourself with the local currency. The official currency of England, Wales, Scotland, and Northern Ireland is the pound sterling (£), often abbreviated to GBP. Currency in the UK remains unchanged by the European referendum of 2017. So, pounds, for example, will be your London currency — and used anywhere in the United Kingdom. However, if you're also planning to visit the Republic of Ireland, you'll also need euros (€) as pounds are not accepted. One British pound is made up of 100 pence. There are coins with 1, 2, 5, 1, 20, and 50 pence denominations as well as 1 pound and 2 pound coins. Notes are available in 5, 10, 20, and 50-pound denominations, and each one has its own distinct color. All British currency features an image of the Queen's head on one side; following the death of Queen Elizabeth II, UK currency is gradually being updated to include an image of King Charles. The other side typically shows a notable historical figure, landmark, or national symbol. British slang has many different names for various elements of the currency. You will almost always hear pence referred to as \"pee\", while 5 and 10-pound notes are often called fivers and tenners. In many areas of the UK, a 1-pound coin is called a \"quid\", and a price might be given as \"10 quid.\" It's thought that this term originally stemmed from the Latin phrase \"quid pro quo,\" used to refer to the exchange of one thing for another. While Scotland and Northern Ireland both use pound sterling, their bank notes are different from those issued in England and Wales. Confusingly, Scottish and Irish bank notes are not afforded official legal tender status in England and Wales, but can legally be used in any British country. Most shopkeepers will accept them without complaint, but they are not legally obligated to do so and can refuse your Scottish or Irish notes. If you have any problems, most banks will exchange Scottish or Irish notes for English ones free of charge. Standard English bank notes are almost always accepted throughout the U.K Many visitors make the mistake of thinking that the euro is widely accepted as an alternative currency in the UK. The euro is not British currency; it would be very rare for somewhere in the UK to accept euros. The exception is iconic department stores like Harrods , Selfridges, and Marks & Spencer, which have historically accepted euros but give change in pound sterling. Lastly, some bigger stores in Northern Ireland may accept the euro as a concession to visitors from the south, but they are not legally required to do so. You have several different options when it comes to exchanging currency in the UK Private bureaux de change belonging to companies like Travelex can be found on the high streets of most towns and cities, and in major train stations, ferry terminals, and airports. Popular department store Marks & Spencer also has a bureau de change desk in many of its nationwid",
+      "title": "Know Before You Go: A Traveler's Guide to UK Currency",
+      "url": "https://www.tripsavvy.com/basic-information-about-uk-currency-1582421",
+      "source": "tripsavvy.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:13:30.886792",
+      "extra": {
+        "snippet": "September 2, 2024 - The official currency of England, Wales, Scotland, and Northern Ireland is the pound sterling (£), often abbreviated to GBP. Currency in the UK remains unchanged by the European referendum of 2017. So, pounds, for example, will be your London currency — and used anywhere in the United Kingdom."
+      }
+    }
+  ]
+}

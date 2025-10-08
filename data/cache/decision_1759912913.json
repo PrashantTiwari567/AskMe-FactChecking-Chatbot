@@ -1,0 +1,109 @@
+{
+  "query": "Who is the current UN Secretary-General?",
+  "timestamp": "2025-10-08T03:41:53.626894",
+  "claims": [
+    {
+      "sentence": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "‘The most impossible job on earth’ Whoever succeeds Ban Ki-moon at the United Nations will face the same frustrations as his or her predecessors — authority without decisive power.",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "All UN Secretaries Generals are appointed by the UN General Assembly which is advised by the Security Council.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "CSS MPT (A) Brazil (B) South Korea (C) Portugal (D) United States The answer is: (C) Portugal The current secretary general United Nations Antonio Guterres belongs to Portugal.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years. Under-secretary-general is the third highest rank in the United Nations, after the secretary-general and the deputy secretary-general. The rank is held by the heads of different UN entities, certain high officials of the United Nations Secretariat, and high-level envoys. The United Nations regards the rank as equal to that of a cabinet minister of a member state, and under-secretaries-general have diplomatic immunity under the UN Charter.",
+      "title": "Under-Secretary-General of the United Nations",
+      "url": "https://en.wikipedia.org/wiki/Under-Secretary-General_of_the_United_Nations",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:45.438477",
+      "extra": {}
+    },
+    {
+      "text": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations. The current United Nations Secretary General is António Guterres, whose term ends on 31 December 2026.",
+      "title": "2026 United Nations Secretary-General selection",
+      "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Secretary-General_selection",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:46.074120",
+      "extra": {}
+    },
+    {
+      "text": "‘The most impossible job on earth’ Whoever succeeds Ban Ki-moon at the United Nations will face the same frustrations as his or her predecessors — authority without decisive power. T he first UN secretary-general, Trygve Lie (who served 1946-52), described the post to his successor, Dag Hammarskjöld, as “the most impossible job on earth” and time has not made it any easier. The UN charter makes the secretary-general (SG) the chief administrative officer, but also an independent official whom the General Assembly and Security Council can entrust with unspecified but implicitly political tasks. It is up to each holder of the office to demonstrate whether he or she is more “secretary” than “general”. Paradoxes abound. The SG is expected to enjoy the backing of governments, especially the five permanent members of the Security Council, the Perm Five or P-5 — US, China, UK, France and Russia — but also to show impartiality. The SG establishes credentials by bureaucratic or diplomatic service, but, once elected, must transcend that past and serve as a voice of the world — even a “secular pope”. The SG is entrusted with helping member states to make sound and well-informed decisions, which he/she then has to execute, but can also influence their work and even propose actions they should undertake. The SG administers a complex organisation of more than 41,000 people and serves as head of the UN agencies ( 1 ) , but must respect budgetary and regulatory constraints imposed by the member governments. The SG has an unparalleled agenda-shaping authority, but does not have the power to execute all ideas, and articulates a vision that only governments can fulfil. The SG moves the world, but cannot direct it. Hammarskjöld (1953-61) first argued at the height of the cold war that an impartial civil servant could be “politically celibate” without being “politically virgin”. The SG could play a political role without losing personal impartiality, though this was conditional on keeping faithfully to the charter and international law. UN SG races are nothing like the razzmatazz of American presidential campaigns. They are fought so discreetly as to be almost clandestine, and have a very limited electorate: the 15 members of the Security Council, who are supposed to agree on a single name to forward to the UN General Assembly. Majorities in the 193-member assembly are largely irrelevant: it has always endorsed the Security Council’s nomination. What really counts is victory in the Council, where the Perm Five enjoy a veto. This year the challenge will be for Eastern Europe to come up with a candidate who will not attract a Russian or American veto; the other three members of the P-5 are unlikely to veto a European. If all Eastern European candidates are vetoed, a plausible national of the Western Europe and Others group, from Oceania, such as the former New Zealand prime minister Helen Clark, currently a UN under-secretary-general, could stand a chance; there is wide",
+      "title": "Who will be the next UN secretary-general?, by Shashi Tharoor (Le Monde diplomatique - English edition, June 2016)",
+      "url": "https://mondediplo.com/2016/06/14unsecretary",
+      "source": "mondediplo.com",
+      "provider": "web",
+      "published": "2016-06-01 00:00:00",
+      "retrieved": "2025-10-08 03:41:49.191763",
+      "extra": {
+        "snippet": "... the Western Europe and Others group, from Oceania, such as the former New Zealand prime minister Helen Clark, currently a UN under- secretary - general , ..."
+      }
+    },
+    {
+      "text": "All UN Secretaries Generals are appointed by the UN General Assembly which is advised by the Security Council. António Guterres became the 9th and current UN Secretary General on 1 January 2017 . He’s the “Chief Administrative Officer” of the United Nations, effectively the leader and spokesperson for the UN. The “ UNSG ” initially serves a four year term and UN Secretaries Generals are often elected for a second term. No candidates from the five permanent members of the UN Security Council (USA, China, Russia, UK and France) can be considered. ADDucation Tips : Click column headings with arrows to sort UN Secretaries Generals. Click the ➕ icon to reveal any hidden columns. Set your browser to full screen and zoom out to display as many columns as possible. “We need to tackle energy poverty.” “ Let us resolve to put peace first. “ António Guterres is the UN Secretary-General 2022",
+      "title": "≡ Complete UN Secretaries Generals List + Current UNSG",
+      "url": "https://www.adducation.info/general-knowledge-politics-religion/all-un-secretaries-generals/",
+      "source": "adducation.info",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:51.504748",
+      "extra": {
+        "snippet": "Baron Gladwyn Jebb is the only UN Secretary General from a permanent member state of the United Nations Security Council."
+      }
+    },
+    {
+      "text": "CSS MPT (A) Brazil (B) South Korea (C) Portugal (D) United States The answer is: (C) Portugal The current secretary general United Nations Antonio Guterres belongs to Portugal. CSS MPT MPT Syllabus Papers Preparation MCQs CSS WRITTEN EXAM CSS CSS Syllabus Past Papers Notes FPSC GENERAL MCQS Current Affairs General Knowledge Everyday Science English MCQs English Grammar MCQs Pak Study MCQs Islamic Studies Arithmetic/ Basic Math Analytical Reasoning SCIENCE MCQS Biology Chemistry Physics Computer Science Mathematics Statistics Full List BUSINESS MCQS Accounting Banking Commerce Economics Finance Project Management Business Administration Full List SOCIAL SCIENCE History Geography Sociology International Relations English Literature Full List EDUCATION Education and Pedagogy Bloom's Taxonomy MCQs Testing and Evaluation Classroom Management & Discipline Teaching Techniques & Methodology REGIONAL MCQS Canada India Nigeria Pakistan United States United Kingdom",
+      "title": "The current UN secretary general belongs to which country? – CSS MPT",
+      "url": "https://cssmpt.com/the-current-un-secretary-general-belongs-to-which-country/",
+      "source": "cssmpt.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:41:53.621892",
+      "extra": {
+        "snippet": "The answer is : (C) Portugal The current secretary general United Nations Antonio ... Who is the current secretary general of the United Nations?"
+      }
+    }
+  ]
+}

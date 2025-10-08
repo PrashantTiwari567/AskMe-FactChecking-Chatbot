@@ -1,0 +1,130 @@
+{
+  "query": "Largest ocean on Earth",
+  "timestamp": "2025-10-08T03:12:31.641044",
+  "claims": [
+    {
+      "sentence": "There are at least 108 mountains on Earth with elevations of 7,200 m or greater above sea level.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The ocean is the body of salt water that covers approximately 70.8% of Earth.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Main five oceans division: Further subdivision: The Pacific Ocean is the largest and deepest of Earth 's five oceanic divisions .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The largest ocean on Earth is filled with mysteries, but also subject to great pressures like climate change, plastic pollution, and overfishing.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "For premium support please call: For premium support please call: More than 70% of the Earth's surface is covered in water , according to the U.S. Geological survey and of that water, more than 96% of it is contained in one of earth's five oceans.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Every drop of water on Earth is part of a vast, interconnected system—the oceans.",
+      "support_evidence_idx": [
+        5
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "There are at least 108 mountains on Earth with elevations of 7,200 m or greater above sea level. Of these, 14 are more than 8,000 m. The vast majority of these mountains are part of either the Himalayas or the Karakoram mountain ranges located on the edge of the Indian Plate and Eurasian Plate in China, India, Nepal, and Pakistan.",
+      "title": "List of highest mountains on Earth",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:23.957448",
+      "extra": {}
+    },
+    {
+      "text": "The ocean is the body of salt water that covers approximately 70.8% of Earth. The ocean is conventionally divided into large bodies of water, which are also referred to as oceans, and are themselves mostly divided into seas, gulfs and subsequent bodies of water. The ocean contains 97% of Earth's water and is the primary component of Earth's hydrosphere, acting as a huge reservoir of heat for Earth's energy budget, as well as for its carbon cycle and water cycle, forming the basis for climate and weather patterns worldwide. The ocean is essential to life on Earth, harbouring most of Earth's animals and protist life, originating photosynthesis and therefore Earth's atmospheric oxygen, still supplying half of it.",
+      "title": "Ocean",
+      "url": "https://en.wikipedia.org/wiki/Ocean",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:24.563684",
+      "extra": {}
+    },
+    {
+      "text": "Main five oceans division: Further subdivision: The Pacific Ocean is the largest and deepest of Earth 's five oceanic divisions . It extends from the Arctic Ocean in the north to the Southern Ocean , or, depending on the definition, to Antarctica in the south, and is bounded by the continents of Asia and Australia in the west and the Americas in the east. At 165,250,000 square kilometers (63,800,000 square miles) in area (as defined with a southern Antarctic border), the Pacific Ocean is the largest division of the World Ocean and the hydrosphere and covers approximately 46% of Earth's water surface and about 32% of the planet's total surface area, larger than its entire land area (148,000,000 km 2 (57,000,000 sq mi)). [ 1 ] The centers of both the water hemisphere and the Western Hemisphere , as well as the oceanic pole of inaccessibility , are in the Pacific Ocean. Ocean circulation (caused by the Coriolis effect ) subdivides it [ 2 ] into two largely independent volumes of water that meet at the equator , the North Pacific Ocean and the South Pacific Ocean (or more loosely the South Seas ). The Pacific Ocean can also be informally divided by the International Date Line into the East Pacific and the West Pacific , which allows it to be further divided into four quadrants, namely the Northeast Pacific off the coasts of North America , the Southeast Pacific off South America , the Northwest Pacific off Far Eastern / Pacific Asia , and the Southwest Pacific around Oceania . The Pacific Ocean's mean depth is 4,000 meters (13,000 feet). [ 3 ] The Challenger Deep in the Mariana Trench , located in the northwestern Pacific, is the deepest known point in the world, reaching a depth of 10,928 meters (35,853 feet). [ 4 ] The Pacific also contains the deepest point in the Southern Hemisphere , the Horizon Deep in the Tonga Trench , at 10,823 meters (35,509 feet). [ 5 ] The third deepest point on Earth, the Sirena Deep , was also located in the Mariana Trench. It is the warmest ocean, as its temperatures can reach as high as 31°C (88°F) due to it surrounding major and minor Pacific islands, which have a tropical, hot climate. [ 6 ] The Pacific has many major marginal seas , including (listed clockwise from the west) the Philippine Sea , South China Sea , East China Sea , Sea of Japan , Sea of Okhotsk , Bering Sea , Gulf of Alaska , Gulf of California , Tasman Sea , and the Coral Sea . In the early 16th century, Spanish explorer Vasco Núñez de Balboa crossed the Isthmus of Panama in 1513 and sighted the great \"Southern Sea\", which he named Mar del Sur (in Spanish). Afterwards, the ocean's current name was coined by Portuguese explorer Ferdinand Magellan during the Spanish circumnavigation of the world in 1521, as he encountered favorable winds upon reaching the ocean. He called it Mar Pacífico , which in Portuguese means 'peaceful sea'. [ 7 ] [ 8 ] Across the continents of Asia, Australia and the Americas , more than 25,000 islands, large and small, rise ab",
+      "title": "Pacific Ocean - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:27.339927",
+      "extra": {
+        "snippet": "The Pacific Ocean is the largest and deepest of Earth 's five oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean , or, depending on the definition, to Antarctica in the south..."
+      }
+    },
+    {
+      "text": "The largest ocean on Earth is filled with mysteries, but also subject to great pressures like climate change, plastic pollution, and overfishing. The Pacific Ocean is the largest and deepest ocean on Earth. It spans 60 million square miles from California to China, and in certain regions extends tens of thousands of feet below the surface of the water. To get a sense of just how immense the Pacific Ocean is, you could put all of Earth's landmasses together, and the Pacific would still be larger. The name Pacific is a version of pacify or peaceful. It was named by the explorer Ferdinand Magellan in 1520 as he sailed through a calm patch of water on the ocean. Despite its name, the Pacific is a vast body of water teeming with activity. Much of the ocean is still waiting to be explored, but human activities like industrial fishing, deep-sea mining, and fossil-fuel burning are already changing it in significant ways. The vast body of water is home to some of the most unique life forms on Earth and contains the deepest reaches known to humankind. Here's a look at some key features of this great ocean, as well as issues affecting it. The Pacific Ocean stirs up some of the strongest hurricanes ever seen. For example, in 2018 the strongest storm of the year was Super Typhoon Mangkhut . It hit the Philippines in late September before dissipating over mainland China. At its strongest, the storm’s winds topped 165 miles per hour, uprooting trees, destroying homes, and causing deadly mudslides. Hurricanes, typhoons, and cyclones are actually different names for the same weather pattern . Hurricane is used in the eastern Pacific, typhoon in the northwestern Pacific, and cyclone in the southwestern Pacific. The storms feed on the energy of warm water, making the Pacific a powerful breeding ground for them. The Pacific basin is called the “ Ring of Fire ” because of the area of earthquake and volcanic activity around its edges. The resulting chain of volcanoes is roughly 25,000 miles long and springs to life where the Pacific tectonic plate slides against or collides into the other tectonic plates that circle it. The subduction of tectonic plates—when a plate slides beneath another one—in certain areas also helps form deepwater trenches. The Mariana Trench is one such deep ocean trench that sits along the Ring of Fire in the Mariana Archipelago east of the Philippines. It's the deepest known spot on the planet—deeper than Mt. Everest is tall, reaching down roughly seven miles . The deepest point in the trench is called Challenger Deep, at 36,000 feet down. Humans descended into the Challenger Deep in 1960 inside a U.S. Navy submersible, and film director and explorer James Cameron made a solo trip in 2012 . Today, scientists periodically send remotely operated vehicles to the bottom of the trench for various research purposes. Scientists are just beginning to learn about life in the deepest parts of the oceans. Creatures in the deep sea exist in waters with zer",
+      "title": "The Pacific Ocean—facts and information | National Geographic",
+      "url": "https://www.nationalgeographic.com/environment/article/pacific-ocean",
+      "source": "nationalgeographic.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:28.384673",
+      "extra": {
+        "snippet": "The Pacific Ocean is the largest and deepest ocean on Earth . It spans 60 million square miles from California to China, and in certain regions extends tens of thousands of feet below the surface of the water."
+      }
+    },
+    {
+      "text": "For premium support please call: For premium support please call: More than 70% of the Earth's surface is covered in water , according to the U.S. Geological survey and of that water, more than 96% of it is contained in one of earth's five oceans. From the Arctic to the Southern, the five ocean basins are home to thousands of marine life and millions of square miles of water. The smallest ocean basin on Earth is the Arctic Ocean, which has an area of approximately 6.1 million square miles , according to the National Ocean Service. But what about the largest? Here is what you need to know about the largest ocean, plus other facts about the deep blue sea. World Ocean Day: Stunning photos of life under the sea Why is the ocean salty? Which ocean is saltiest and why. The Pacific Ocean is the largest of the Earth's ocean basins, according to the National Ocean Service. It contains more than half of the free water on Earth, spanning around 63 million square miles . Additionally, the Pacific is the oldest of the existing ocean basins with its oldest rocks dating back to 200 million years ago. Just curious? We're here to help with life's everyday questions. The Atlantic Ocean is the second largest ocean basin on Earth, covering an area of around 41 million square miles , according to National Ocean Service. This ocean basin makes up 20% of the Earth’s surface. The Atlantic Ocean connects to the Arctic Ocean and the Southern Ocean, also known as the Antarctic Ocean, according to the National Ocean Service. Is water wet? The answer to this and other viral debates Here are the five ocean basins from largest to smallest, based on area, according to National Oceanic and Atmospheric Administration . Pacific Ocean Atlantic Ocean Indian Ocean Southern Ocean Arctic Ocean The fifth ocean: National Geographic adds Southern Ocean to world map Do sharks have bones? Understanding the body composition of the ocean's apex predator This article originally appeared on USA TODAY: What is the largest ocean on Earth? The size of the world's 5 oceans. Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement",
+      "title": "What is the largest ocean on Earth? One holds more than half the free water on the planet.",
+      "url": "https://www.aol.com/largest-ocean-earth-one-holds-130006844.html",
+      "source": "aol.com",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:12:29.679175",
+      "extra": {
+        "snippet": "The Pacific Ocean is the largest of the Earth 's ocean basins, according to the National Ocean Service. It contains more than half of the free water on Earth , spanning around 63 million square miles."
+      }
+    },
+    {
+      "text": "Every drop of water on Earth is part of a vast, interconnected system—the oceans. These massive water bodies shape our climate, provide food, and are home to incredible marine life. As parents, it’s important to introduce kids to the oceans of the world. It helps your kids understand how these oceans sustain life, influence weather patterns, and connect different continents. More importantly, it fosters a sense of responsibility for protecting these vital ecosystems. In this blog, we will discuss in detail about the five oceans of the world, their names, sizes, and unique features, helping you turn a simple geography lesson into an exciting conversation with your child. Oceans are huge water bodies of saltwater that occupy the majority of the earth’s surface. Although Earth has one connected body of saltwater, scientists and geographers have divided the surface into five major sections. There are 5 oceans in the world, which cover about 70% of the total earth’s surface. These five oceans are the Pacific Ocean, Atlantic Ocean, Indian Ocean, Arctic Ocean and Antarctic Ocean. Stable temperatures, diversity of habitats, and food sources for many creatures, including people, are all dependent on these oceans. The question “How many oceans are there” or “What are the five oceans of the world?” may be asked by many individuals. We shall delve deeply into the mysteries of our planet’s waters in this thorough blog, discover their names, and comprehend the intricacies of their many zones. Let’s begin our voyage of exploration with the Pacific Ocean, the biggest and deepest of all the seas. One-third of the Earth’s surface, or an astounding 63 million square miles, is taken up by the Pacific Ocean. Its size is more than the total area of all the continents in the globe! The Portuguese explorer Ferdinand Magellan gave the region the name “Pacific,” which means “peaceful,” after sailing across its tranquil seas during his 16th-century circuit of the world. The Pacific Ocean, the largest and deepest ocean in the world, plays a crucial role in influencing the climate worldwide. As the biggest ocean in the world, through ocean currents, its huge area absorbs and redistributes heat across the world. The Great Barrier Reef, the largest coral reef system in the world, is located in the Coral Sea, a section of the Pacific Ocean, and is only one example of the diverse marine life that can be found there. The Atlantic Ocean is the next ocean on our list and is the second-largest ocean on the planet. It spans about 41 million square miles and stretches between the Americas to the west and Europe and Africa to the east. The word “Atlantic” comes from the mythical Atlas, a Titan who carried the sky on his shoulders, representing the vastness of the ocean. The climates of North America and Europe are substantially influenced by the Atlantic Ocean and its warm Gulf Stream circulation. It connects the Old World to the New World by acting as a maritime and commercial highway",
+      "title": "The 5 Major Oceans: Names, Sizes & Importance | EuroKids",
+      "url": "https://www.eurokidsindia.com/blog/what-are-the-5-oceans-of-the-world.php",
+      "source": "eurokidsindia.com",
+      "provider": "web",
+      "published": "2025-03-10 05:29:54+00:00",
+      "retrieved": "2025-10-08 03:12:31.632043",
+      "extra": {
+        "snippet": "The Indian Ocean , the third- largest ocean on Earth , greets us as we move south with its warm, tropical seas. It is bordered by Asia to the north, Africa to the west, Australia to the east, and Antarctica to the south and has an area of around 27 million square miles."
+      }
+    }
+  ]
+}

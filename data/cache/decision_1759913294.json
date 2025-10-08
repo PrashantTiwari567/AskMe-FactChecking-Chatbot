@@ -1,0 +1,109 @@
+{
+  "query": "Who is the current UN Secretary-General?",
+  "timestamp": "2025-10-08T03:48:14.439106",
+  "claims": [
+    {
+      "sentence": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years.",
+      "support_evidence_idx": [
+        0
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations.",
+      "support_evidence_idx": [
+        1
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "The secretary-general of the United Nations ( UNSG or UNSECGEN ) is the chief administrative officer of the United Nations and head of the United Nations Secretariat , one of the six principal organs of the United Nations .",
+      "support_evidence_idx": [
+        2
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "António Manuel de Oliveira Guterres [ a ] [ b ] GCC GCL (born 30 April 1949) is a Portuguese politician and diplomat who is serving as the ninth and current secretary-general of the United Nations since 2017.",
+      "support_evidence_idx": [
+        3
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    },
+    {
+      "sentence": "Having witnessed the suffering of the most vulnerable people on earth, from refugee camps to war zones, the Secretary-General has centered his efforts on ensuring human dignity for all.",
+      "support_evidence_idx": [
+        4
+      ],
+      "label": "Unverifiable",
+      "notes": null,
+      "score": 0.0
+    }
+  ],
+  "evidence": [
+    {
+      "text": "An under-secretary-general of the United Nations (USG) is a senior official within the United Nations System, normally appointed by the General Assembly on the recommendation of the secretary-general for a renewable term of four years. Under-secretary-general is the third highest rank in the United Nations, after the secretary-general and the deputy secretary-general. The rank is held by the heads of different UN entities, certain high officials of the United Nations Secretariat, and high-level envoys. The United Nations regards the rank as equal to that of a cabinet minister of a member state, and under-secretaries-general have diplomatic immunity under the UN Charter.",
+      "title": "Under-Secretary-General of the United Nations",
+      "url": "https://en.wikipedia.org/wiki/Under-Secretary-General_of_the_United_Nations",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:09.497566",
+      "extra": {}
+    },
+    {
+      "text": "A United Nations Secretary-General selection is expected to be held in 2026 to choose the Secretary-General of the United Nations. The current United Nations Secretary General is António Guterres, whose term ends on 31 December 2026.",
+      "title": "2026 United Nations Secretary-General selection",
+      "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Secretary-General_selection",
+      "source": "wikipedia.org",
+      "provider": "wikipedia",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:09.954751",
+      "extra": {}
+    },
+    {
+      "text": "The secretary-general of the United Nations ( UNSG or UNSECGEN ) is the chief administrative officer of the United Nations and head of the United Nations Secretariat , one of the six principal organs of the United Nations . The role of the secretary-general and of the secretariat is laid out by Chapter XV (Articles 97 to 101) of the United Nations Charter . However, the office's qualifications, selection process and tenure are open to interpretation; they have been established by custom. [ 1 ] The secretary-general is appointed by the General Assembly upon the recommendation of the Security Council . As the recommendation must come from the Security Council, any of the five permanent members of the council can veto a nomination. Most secretaries-general are compromise candidates from middle powers and have little prior fame. Unofficial qualifications for the job have been set by precedent in previous selections. The appointee may not be a citizen of any of the Security Council's five permanent members. [ 2 ] The General Assembly resolution 51/241 in 1997 stated that, in the appointment of \"the best candidate\", due regard should be given to regional (continental) rotation of the appointee's national origin and to gender equality, [ 3 ] : 5 although no woman has yet served as secretary-general. All appointees to date have been career diplomats . [ 4 ] The length of the term is discretionary, but all secretaries-general since 1971 have been appointed to five-year terms. Every secretary-general since 1961 has been re-selected for a second term, with the exception of Boutros Boutros-Ghali , who was vetoed by the United States in the 1996 selection . While the position does not have a formal term limit , [ 5 ] incumbent secretary-generals have avoided seeking a third term since the 1981 selection , when China cast a record 16 vetoes against a third term for Kurt Waldheim . The selection process is opaque and is often compared to a papal conclave . [ 6 ] [ 7 ] Since 1981, the Security Council has voted in secret in a series of straw polls ; it then submits the winning candidate to the General Assembly for ratification. No candidate has ever been rejected by the General Assembly, and only once, in 1950 , has a candidate been voted upon despite a UNSC veto. [ 8 ] In 2016, the General Assembly and the Security Council sought nominations and conducted public debates for the first time. However, the Security Council voted in private and followed the same process as previous selections, leading the president of the General Assembly to complain that it \"does not live up to the expectations of the membership and the new standard of openness and transparency\". [ 9 ] The UN Charter designates the secretary-general as the \"chief administrative officer\" of the UN, and gives the secretary-general the power to make employment decisions about Secretariat staff. The Charter also empowers the secretary-general to inform the Security Council of \"any matter which in his o",
+      "title": "Secretary-General of the United Nations - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Secretary-General_of_the_United_Nations",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:12.129023",
+      "extra": {
+        "snippet": "The secretary-general of the United Nations (UNSG or UNSECGEN) is the chief administrative officer of the United Nations and head of the United Nations Secretariat, one of the six principal organs of the United Nations. The role of the secretary-general and of the secretariat is laid out by Chapter XV (Articles 97 to 101) of the United Nations Charter. However, the office's qualifications ..."
+      }
+    },
+    {
+      "text": "António Manuel de Oliveira Guterres [ a ] [ b ] GCC GCL (born 30 April 1949) is a Portuguese politician and diplomat who is serving as the ninth and current secretary-general of the United Nations since 2017. A member of the Portuguese Socialist Party , Guterres served as the prime minister of Portugal from 1995 to 2002. Guterres studied physics and electrical engineering at Lisbon ’s Instituto Superior Técnico , briefly taught systems theory and telecommunications , and became involved in politics while active in a Catholic youth group. Guterres served as secretary-general of the Socialist Party from 1992 to 2002. He was elected prime minister in 1995. He led the party to legislative victories in 1995 and 1999 . Guterres announced his resignation as Socialist Party leader in 2002 following the party’s losses in the 2001 local elections , with Eduardo Ferro Rodrigues succeeding him while he remained prime minister until losing the subsequent general election to José Manuel Barroso ’s Social Democratic Party . Despite this defeat, polling of the Portuguese public in both 2012 and 2014 ranked Guterres the best prime minister of the previous 30 years. [ 2 ] [ 3 ] He served as President of the Socialist International from 1999 to 2005. He was the United Nations High Commissioner for Refugees from 2005 to 2015. [ 4 ] He reformed the agency and addressed multiple global refugee crises . Guterres was elected secretary-general in October 2016 , succeeding Ban Ki-moon at the beginning of the following year and becoming the first European to hold this office since Kurt Waldheim in 1981. As secretary-general, he has focused on peace , human rights , climate change , refugee protection, and diplomatic engagement with controversial global actors. He has held numerous advisory, board, and leadership roles in international organizations, foundations, and councils spanning journalism , finance , humanitarian aid , innovation, gender equality , and global policy. Guterres, a multilingual practicing Catholic, was married twice and has two children. He has received numerous national and international honors, honorary doctorates , and prestigious awards recognizing contributions to diplomacy , democracy , and global leadership . António Manuel de Oliveira Guterres was born on 30 April 1949, [ 5 ] in the parish of Parede , in the municipality of Cascais . Because he was born while his family was on vacation, he was registered when his family returned to Lisbon as having been born in Santos-o-Velho in Lisbon , the son of Virgílio Dias Guterres and Ilda Cândida dos Reis Oliveira Guterres. [ 6 ] Guterres attended the Camões Lyceum (now Camões Secondary School ), where he graduated in 1965, winning the National Lyceums Award ( Prémio Nacional dos Liceus ) as the best student in the country. [ citation needed ] He studied physics and electrical engineering at Instituto Superior Técnico – Technical University of Lisbon in Lisbon. He graduated in 1971 and started an academi",
+      "title": "António Guterres - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/António_Guterres",
+      "source": "wikipedia.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:13.316153",
+      "extra": {
+        "snippet": "António Manuel de Oliveira Guterres[a][b] GCC GCL (born 30 April 1949) is a Portuguese politician and diplomat who is serving as the ninth and current secretary-general of the United Nations since 2017. A member of the Portuguese Socialist Party, Guterres served as the prime minister of Portugal from 1995 to 2002. Guterres studied physics and electrical engineering at Lisbon 's Instituto ..."
+      }
+    },
+    {
+      "text": "Having witnessed the suffering of the most vulnerable people on earth, from refugee camps to war zones, the Secretary-General has centered his efforts on ensuring human dignity for all. In a period of unprecedented global challenges, he has drawn on his commitment to the UN Charter to mobilize people and launch action to respond to the COVID-19 pandemic, address the climate emergency, advance gender equality, and achieve ambitious 21st century reforms to enhance the Organization’s vital efforts to secure peace, sustainable development, human rights and humanitarian aid. Prior to his appointment as Secretary-General, Mr. Guterres served as United Nations High Commissioner for Refugees from June 2005 to December 2015, heading one of the world’s foremost humanitarian organizations during some of the most serious displacement crises in decades. The conflicts in Syria and Iraq, and the crises in South Sudan, the Central African Republic and Yemen, led to a huge rise in UNHCR’s activities as the number of people displaced by conflict and persecution rose from 38 million in 2005 to over 60 million in 2015. Before joining UNHCR, Mr. Guterres spent more than 20 years in government and public service. He served as prime minister of Portugal from 1995 to 2002, during which time he was heavily involved in the international effort to resolve the crisis in East Timor. As president of the European Council in early 2000, he led the adoption of the Lisbon Agenda for growth and jobs, and co-chaired the first European Union-Africa summit. He was a member of the Portuguese Council of State from 1991 to 2002. Mr. Guterres was elected to the Portuguese Parliament in 1976 where he served as a member for 17 years. During that time, he chaired the Parliamentary Committee for Economy, Finance and Planning, and later the Parliamentary Committee for Territorial Administration, Municipalities and Environment. He was also leader of his party’s parliamentary group. From 1981 to 1983, Mr. Guterres was a member of the Parliamentary Assembly of the Council of Europe, where he chaired the Committee on Demography, Migration and Refugees. For many years Mr. Guterres was active in the Socialist International, a worldwide organization of social democratic political parties. He was the group’s vice-president from 1992 to 1999, co-chairing the African Committee and later the Development Committee. He served as President from 1999 until mid-2005. In addition, he founded the Portuguese Refugee Council as well as the Portuguese Consumers Association DECO, and served as president of the Centro de Acção Social Universitário, an association carrying out social development projects in poor neighbourhoods of Lisbon, in the early 1970s. Mr. Guterres is a member of the Club of Madrid, a leadership alliance of democratic former presidents and prime ministers from around the world. Mr. Guterres was born in Lisbon in 1949 and graduated from the Instituto Superior Técnico with a degree in engineering",
+      "title": "Biography | United Nations Secretary-General",
+      "url": "https://www.un.org/sg/en/content/sg/biography",
+      "source": "un.org",
+      "provider": "web",
+      "published": null,
+      "retrieved": "2025-10-08 03:48:13.844273",
+      "extra": {
+        "snippet": "António Guterres, the ninth Secretary-General of the United Nations, took office on 1st January 2017. Having witnessed the suffering of the most vulnerable people on earth, from refugee camps to ..."
+      }
+    }
+  ]
+}
